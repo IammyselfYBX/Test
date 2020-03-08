@@ -1,0 +1,29 @@
+[fetters@localhost ~]$
+
+pwd命令查看当前目录 
+ls命令可以查看当前目录下有哪些文件
+cd命令可以设置当前终端窗口的当前路径
+
+绝对路径
+  必须从根目录开始（/）
+  /home/fetters/桌面
+  /usr/。。。
+  /sbin/abc/dev
+
+用户的根目录用~
+
+相对路径
+  以一个文件夹开头的路径
+  efi
+  EFI/
+  cd efi/EFI/  
+  
+  .  -> 表示当前目录
+  .. -> 上一级目录
+  ../../home/fetters/桌面  ->倒退写法的相对路径
+  
+  课后作业：
+  /home/abc/def/aaa
+  /usr/abc/line
+  /bin/def.we/df
+  lin/abc/lim

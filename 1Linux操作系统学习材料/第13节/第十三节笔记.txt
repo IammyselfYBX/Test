@@ -1,0 +1,10 @@
+文件归档->压缩文件
+ 
+ tar命令
+ 
+ tar.gz压缩和tar.bz2压缩
+ tar.gz->tar -zcvf
+ tar.bz2->tar -jcvf
+ 
+ 解压:
+ tar.gz和tar.bz2要解压都只需要加上-x选项

@@ -1,0 +1,10 @@
+ yum search 关键字（包名）
+ 
+ -y（自动回答yes）
+ 
+ yum update 包名 -> 更新指定软件包
+ 
+ yum update ->更新所有软件包
+ yum remove 包名 ->卸载软件包
+ 
+ a -> b -> c -> a

@@ -1,0 +1,3 @@
+reboot命令可以用于重启
+shutdown -h now命令可以用于关机
+ctrl+alt+F1/F2可以在命令行模式和图形模式切换

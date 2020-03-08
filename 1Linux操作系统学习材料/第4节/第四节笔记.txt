@@ -1,0 +1,19 @@
+Linux文件系统
+
+windows:  E:\\file1\file2\file3.txt
+linux  :   /home/file1/file2/file.txt
+
+整个Linux系统只有一个目录
+/--
+  |
+  |--/
+  |
+  |--/
+
+最大的目录叫做根目录，可以用“/"表示
+
+Linux系统文件
+
+bash手册--man
+使用方法 man 命令
+退出bash方法：按键盘Q按键

@@ -1,0 +1,28 @@
+包名 | 包全名
+ yelp-3.22.0-1.el7.x86_64.rpm
+
+ df可以查看外来媒体设备
+ 光盘的Packages目录中
+ 
+ rpm -ivh 包全名
+ --nodeps不检查依赖
+ www.rpmfind.net网站用于查询模块依赖
+ 
+ 
+ rpm -Uvh 包全名
+ 用于升级软件包
+ 
+ rpm -e 包名
+ 卸载命令
+ --nodeps
+ 
+ RPM查询
+ -q选项
+ -qi 查询包信息
+ -qip查询未安装的软件包信息
+ -ql查询安装位置
+ -qf查询文件属于那个软件包
+ -qR查询软件包依赖
+ 
+ RPM校验
+ -V用于校验软件包

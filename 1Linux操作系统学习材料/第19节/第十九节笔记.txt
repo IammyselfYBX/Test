@@ -1,0 +1,6 @@
+YUM在线安装
+ YUM源文件在哪？
+ /etc/yum.repos.d/
+ 
+ 使用yum安装gcc
+ yum install gcc

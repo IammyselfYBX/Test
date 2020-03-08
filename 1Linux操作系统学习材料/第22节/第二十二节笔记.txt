@@ -1,0 +1,16 @@
+ 概念上的区别和安装位置上的区别
+ 源码包就一定要指定安装位置
+ /usr/local/软件
+ RPM启动方法：service 包名 start
+ 
+ systemctl stop firewalld命令关闭防火墙
+ service 包名 stop
+ 
+ 源码包安装的一般步骤：
+ 1、解压
+ 2、指定安装位置并安装：/usr/local/apache2
+ ./configure --prefix=/usr/local/apache2
+ 3、编译 make命令
+ 4、安装 make install
+ 
+ △make clean命令清除编译缓存
