@@ -1,0 +1,14 @@
+1root用户
+登入
+su命令切换用户
+     su (root)切换root用户
+who am i/who/whoami查看是谁
+exit退到上一个登入用户
+
+2普通用户
+adduser/useradd添加用户
+passwd修改用户密 码
+
+userdel -r 删除用户
+
+ld [用户名]显示用户信息 

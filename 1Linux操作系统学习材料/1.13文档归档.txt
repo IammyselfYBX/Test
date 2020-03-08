@@ -1,0 +1,18 @@
+linux用来压缩的工具tar
+
+-z代表压缩.gz的压缩文档
+-j代表压缩.bz2的压缩文档
+-c代表压缩先建压缩文档
+-v代表将压缩的文件列出来
+常见压缩
+    tar.gz压缩  
+	tar -zcvf  file.tar.gz  [要压缩的文件]
+    tar.bz2压缩
+	tar -jcvf   file.tar.bz2  [要压缩的文件]
+
+解压
+只需要加上-x就行
+    tar.gz压缩  
+	tar -zxvf  file.tar.gz  -C [要解压到的文件夹]    (没有 -C [要解压到的文件夹]  的话就是直接解压到该文件夹)
+    tar.bz2压缩
+	tar -jxvf   file.tar.bz2  -C [要解压到的文件夹]   (没有 -C [要解压到的文件夹]  的话就是直接解压到该文件夹)

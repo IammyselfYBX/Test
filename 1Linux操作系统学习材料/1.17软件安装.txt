@@ -1,0 +1,100 @@
+1源码安装
+
+2RPM包安装
+ [file]-3.22.0-4.el7.x86_64.rpm
+
+[file]软件包名
+-3.22.0软件版本
+-4发行次数
+-el7.适用Linux平台
+
+RPM包默认安装路径
+/etc/配置文件安装目录
+/usr/bin/可执行的命令安装目录
+/usr/lib/程序所需使用的函数库保存位置
+/usr/share/doc/基本的软件使用手册保存位置
+/usr/share/man/帮助文件保存位置
+(但大多数都是安装的哪里都是，不按照这个来)
+
+rpm -ivh [包全名]  安装rpm包
+   -i安装
+   -v显示详情
+   -h显示进度
+   -nodeps不检查依赖
+rpm -Uvh [包全名]  升级软件包
+
+rpm -e [包名]  卸载rpm包
+
+rpm -q [包名] 查询是否安装rpm包
+
+rpm -qa | grep [包名] 查询是否安装rpm包
+
+rpm -qi [包名]  查询已安装软件包详细信息
+
+rpm -qip [包名]  查询未安装的软件包详细信息
+
+rpm -ql [包名]  查询安装位置
+
+rpm -qR [包名] 查询软件包的依赖
+
+rpm -V [包名] 校验
+
+
+3yum 在线安装
+
+yum本地安装
+ 需要挂载光盘修改光盘配置文件到光盘挂载路径
+ vi CentOS-Media.repo 
+
+yum list命令可以查看yum源服务器有哪些可以用软件包
+yum search [包名] 搜索软件包 
+
+yum 命令
+  -y自动回答yes
+  yum install [包名]
+
+//危险命令  
+  yum  updata [包名] 指定更新软件包
+  yum updata 更新全部软件包
+  yum remove [包名] 卸载指定软件包
+ 
+4源码包的安装
+一定指定安装位置  安装指定位置，删除只需删除文件夹就可以了
+/ usr/local/
+
+systemctl stop firewalld关闭防火墙
+
+  1)需要解压.tar.gz
+  2)指定位置安装
+    ./[置顶安装的脚本]  --prefix=/uer/local/[文件夹]
+  3)make 命令
+      报错，清除编译缓存
+      make clean命令清除编译缓存
+  4)make install安装
+编译失败需要执行
+make clean清除编译缓存
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
