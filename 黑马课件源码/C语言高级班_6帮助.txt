@@ -1,0 +1,187 @@
+
+甲壳虫技术论坛 让你的人生充满精彩
+http://bbs.jkcing.com
+★甲壳虫技术领域VIP教学介绍★ 
+http://vip.jkcing.com/
+
+讲师：天真的狼	
+动画名称：C语言  
+
+C语言之第六课: 结构体(上)
+
+struct 结构体类型名
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+
+...
+}
+
+student_number    
+
+
+struct student
+{
+char no[8];
+char name[8];
+float eng;
+float math;
+float ave;
+}
+
+结构体嵌套定义
+struct date
+{
+int year;
+int month;
+int day;
+}
+struct student
+{
+char name[10];
+char sex;
+struct date birthday;
+int age;
+float score;
+}
+
+
+1.结构体成员名和程序中其他定义为基本类型的变量名同名
+2.如果结构体类型的定义在函数内部,那么这个函数名的作用域仅为该函数:
+
+
+
+定义结构变量
+1.先定义结构体类型,后定义结构体变量
+
+struct student
+{
+char no[10];
+char name[8];
+float eng;
+float math;
+float ave;
+};
+
+struct student stu[20];
+
+struct student stu1;
+
+2.定义结构体类型的时候同时定义变量
+
+struct 结构体标识符
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+}变量1,变量2,变量3
+
+
+3.直接定义结构体类型变量
+struct
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+}变量1,变量2,变量3
+
+
+{}
+
+struct 结构体标识符
+{
+数据类型1 成员名1;
+数据类型2 成员名2
+....
+}struct 结构体标识符 变量名={初始化值1,初始化值2...}
+
+
+struct student
+{
+char name[10];
+char sex;
+int age;
+float score;
+}stu[30],stu1={“甲壳虫”，1,20,88.8},stu2
+
+1.结构体变量成员的引用
+结构体变量名. 成员名
+stu1.age  
+
+2.结构体变量本身的引用
+struct student
+{
+char name[10];
+char sex;
+int age;
+float score;
+}stu[30],stu1={“甲壳虫”，1,20,88.8},stu2
+
+stu2=stu1;
+
+
+1.先定义结构类型,再定义结构数组
+struct 结构体标识符
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+数据类型n 成员名n
+};
+struct 结构体标识符 数组名[数组长度]
+
+2.定义结构类型的同时定义结构体数组
+
+struct 结构体标识符
+{
+数据类型1 成员名1;
+数据类型1 成员名2;
+。。。。
+数据类型n 成员名n;
+}数组名[数组长度
+]
+
+
+3.不给出结构体类型名,直接定义结构体数组
+struct
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+....
+数据类型n 成员名n;
+}数组名[数组长度];
+
+
+
+struct student
+{
+char name[20];
+float math;
+float english;
+}
+stu[2]={{"甲壳虫",78,87},{"甲壳虫技术",65,78}};
+
+
+#include<stdio.h>
+void main()
+{
+	struct student
+	{
+		char name[10];
+		char sex;
+		int age;
+		float score;
+	}stu[5];
+	int i;
+	printf("输入数组:姓名 性别 年龄 以及 分数\n");
+	for(i=0;i<5;i++)
+	scanf("%s %c %d %f",stu[i].name,stu[i].sex,stu[i].age,stu[i].score);
+	printf("输出:\n");
+	for(i=0;i<5;i++)
+		if(stu[i].sex=='f')
+			printf("%s %d %4.1f\n",stu[i].name,stu[i].age,stu[i].score);
+}
+
+
+
+
+
+
+

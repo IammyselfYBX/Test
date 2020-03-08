@@ -1,0 +1,125 @@
+
+甲壳虫技术论坛 让你的人生充满精彩
+http://bbs.jkcing.com
+★甲壳虫技术领域VIP教学介绍★ 
+http://vip.jkcing.com/
+
+讲师：天真的狼	
+动画名称：C语言  
+
+
+C语言之第一课: 编译与预处理指令(上)
+
+
+
+#include<stdio.h>
+#define G 9.8
+int main(void)
+{
+float t,v;
+t=1.0;
+v=G*t;
+printf("%f",v);
+return 0;
+}
+
+
+宏定义
+#define  
+1.变量式宏定义
+2.函数式宏定义
+
+#define 标识符 字符串
+#include<stdio.h>
+#define PI 3.14
+int main(void)
+{
+	int a;
+	float b,c;
+	printf("输入圆的半径:");
+	scanf("%d",&a);
+	b=2*PI*a;
+	c=PI*a*a;
+	printf("周长:%f\n",b);
+	printf("面积:%f\n",c);
+	return 0;
+}
+
+
+
+
+宏定义嵌套
+#define 　A (1+2)
+#define　 B A*A
+#define   C B+B
+
+#include<stdio.h>
+#define A 9.8
+#define TIME 2
+#define V A*TIME
+#define S 2*A*TIME*V
+int main(void)
+{
+	printf("A的数值是:%f\n",A);
+	printf("TIME的数值是:%ds\n",TIME);
+	printf("S的数值是:%f\n",S);
+	return 0;
+}
+
+#define   //宏定义的开始
+....      //宏定义范围
+#undef
+
+
+#include<stdio.h>
+#define A 2
+void function();
+int main(void)
+{
+	printf("调用宏定义A之前:%d\n",A);
+	function();
+	printf("调用宏定义A之后:%d\n",A);
+}
+#undef A
+#define A 12
+void function()
+{
+	printf("fun函数中宏A的数值是:%d\n",A);
+}
+#undef A
+
+#define 标识符(参数列表) 字符串
+#include<stdio.h>
+#define PI 3.14
+#define C(r) 2*PI*r
+#define S(r) PI*r*r
+int main(void)
+{
+	int a;
+	printf("输入半径:");
+	scanf("%d",&a);
+	printf("周长:%f\n",C(a));
+	printf("面积:%f\n",S(a));
+	return 0;
+}
+
+多行宏定义
+\
+#define min(x,y)\
+                 ((x)<(y)?(x):(y))
+
+#include<stdio.h>
+#define abc(a,b){\
+    int t;\
+	t=a;\
+	a=b;\
+	b=t;}
+int main(void)
+{
+	int x=10;
+	int y=20;
+	printf("x=%d,y=%d\n",x,y);
+	abc(x,y);
+	printf("x=%d,y=%d\n",x,y);
+	return 0;
+}

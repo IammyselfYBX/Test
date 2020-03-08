@@ -1,0 +1,132 @@
+
+甲壳虫技术论坛 让你的人生充满精彩
+http://bbs.jkcing.com
+★甲壳虫技术领域VIP教学介绍★ 
+http://vip.jkcing.com/
+
+讲师：天真的狼	
+动画名称：C语言  
+
+C语言之第七课: 结构体(下)
+
+1.传递调用方式
+#include"math.h"
+#include"stdio.h"
+struct abc
+{
+	float a,b,c;
+};
+float area(struct abc side1)
+{
+	float l,s;
+	l=(side1.a+side1.b+side1.c)/2;
+	s=sqrt(l*(l-side1.a)*(l-side1.b)*(l-side1.c));
+	return s;
+}
+void main()
+{
+	float s;
+	struct abc side;
+	printf("输入三条边:\n");
+	scanf("%f %f %f",&side.a,&side.b,&side.c);
+	s=area(side);
+	printf("面积是: %f\n",s);
+}
+
+2.传址调用方式
+
+
+
+
+
+联合体
+
+
+union 联合体名
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+.....
+数据类型n 成员名n
+};
+
+union abc
+{
+char u1;
+int u2;
+long u3;
+};
+
+
+1.先定义联合体类型后定义变量
+union 联合体名
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+....
+数据类型n 成员名n;
+}
+union 联合体名 变量名1,变量名2,变量名3;
+
+2.定义联合体类型同时定义变量
+
+union 联合体名
+{
+数据类型1 成员名1;
+数据类型2 成员名2;
+....
+数据类型n 成员名2;
+}变量名1,变量名2,变量名n
+
+3.直接定义联合类型变量
+union
+{
+数据类型1 成员名1;
+数据类型1 成员名2;
+....
+数据类型n 成员名n
+}变量1,变量2,变量3
+
+
+#include"math.h"
+void main()
+{
+	union
+	{
+		long u1;
+		char u2;
+	}a={0x974161};
+	printf("%ld %c\n",a.u1,a.u2);
+}
+
+#include"math.h"
+void main()
+{
+	union abc
+	{
+		char u1;
+		int u2;
+	};
+	union abc a,*p=&a;
+	a.u2=5;
+	printf("输入a.u1的数值:\n");
+	scanf("%d",&a.u1);
+	printf("输出数据:\n");
+	printf("%c\n",p->u1);
+	printf("%c\n",p->u2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

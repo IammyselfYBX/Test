@@ -1,0 +1,108 @@
+
+甲壳虫技术论坛 让你的人生充满精彩
+http://bbs.jkcing.com
+★甲壳虫技术领域VIP教学介绍★ 
+http://vip.jkcing.com/
+
+讲师：天真的狼	
+动画名称：C语言  
+
+
+C语言之第二课: 编译与预处理指令(下)
+
+.h  .c
+
+.h
+#include<stdio.h>
+#include<math.h>
+
+#include<文件名>  或者 "文件名"
+
+
+
+#include<stdio.h>
+#include"common.h"
+int main(void)
+{
+	int a;
+	float b;
+	printf("半径:");
+	scanf(PD,&a);
+	b=2*PI*a;
+	printf(PF,b);
+	printf(NEWLINE);
+	return 0;
+}
+
+
+
+文件包含说明
+
+1.<>  ""
+#include<>  
+#include""
+
+2.include""
+  include""
+
+3.文件包含允许嵌套
+
+4.不能够包含obj文件  
+
+条件编译
+
+1.#ifdef形式
+
+#ifdef 标识符
+程序段1;
+#else
+程序段2;
+#endif
+
+#ifdef 标识符
+程序段
+#endif
+
+#define 
+
+2.#ifndef形式
+
+#ifndef 标识符
+程序段1;
+#else
+程序段2;
+#endif
+
+
+3.#if形式
+#if 表达式
+程序段1
+#else
+程序段2
+#endif
+
+#include<stdio.h>
+#define ASD 1
+int main(void)
+{
+	char c,abc[20]="hello world";
+	int i=0;
+	while((c=abc[i])!='\0')
+	{
+		i++;
+#if ASD
+		if(c>='A'&&c<='Z')
+			c=c+32;
+#else
+		if(c>='a'&&c<='Z')
+			c=c-32;
+#endif
+		printf("%c",c);
+	}
+	printf("\n");
+	return 0;
+}
+
+#ifndef COMMONFILE_H
+#define COMMONFILE_H
+#endif

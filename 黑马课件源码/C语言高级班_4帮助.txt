@@ -1,0 +1,143 @@
+
+甲壳虫技术论坛 让你的人生充满精彩
+http://bbs.jkcing.com
+★甲壳虫技术领域VIP教学介绍★ 
+http://vip.jkcing.com/
+
+讲师：天真的狼	
+动画名称：C语言  
+
+C语言之第四课: 库函数详解(下)
+
+
+      1. <assert.h>定义宏assert()   flase assert(a==b);  true flase
+      2. <ctype.h>字符处理
+      3. <errno.h>错误报告
+      4. <float.h>定义与实现相关的浮点
+      5. <limits.h>定义与实现相关的各种极限值
+      6. <locale.h>支持函数setlocale() 
+      7. <math.h>数学函数库使用的各种定义
+      8. <setjmp.h>支持非局部跳转
+      9. <signal.h>定义信号值
+      10. <stdarg.h>支持可变长度的变元列表
+      11. <stddef.h>定义常用常数
+      12. <stdio.h>支持文件输入和输出
+      13. <stdlib.h>其他各种声明
+      14. <string.h>支持串函数
+      15. <time.h>支持系统时间函数
+
+
+#include<ctype.h>
+int isalnum(int c)
+int isalpha(int c)
+int iscntrl(int c)
+int isdigit(int c)
+int isgraph(int c)
+int islower(int c) 
+
+
+转换和储存管理函数
+
+
+转换函数
+<stdlib.h>
+
+int atoi(string)
+double stof(string)
+string itoa(int,char *,int)
+
+
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+	int num=12345;
+	char *abc="12345.67";
+	char array[10];
+	itoa(num,array,sizeof(array));
+	printf("num=%d,array=%s\n",num,array);
+	printf("%d",atoi(abc));
+	getchar();
+	return 0;
+}
+
+
+储存管理函数
+
+void *malloc(size_n)
+void *calloc(size_n,size_n)
+void *realloc(void *p,size_n)
+void free(void *p)
+
+
+
+
+随机函数
+伪随机数  
+
+rand()
+[0,MAX]
+
+
+srand()
+1.让用户输入种子
+2.采用变化的数
+
+rand()
+
+int n = rand()  %11;
+int n = rand()  %10;
+
+
+[a,b]
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#define MAX 100
+int main()
+{
+	int i;
+	srand((unsigned)time(NULL));
+	for(i=0;i<10;i++)
+		printf("%d\n",rand()%MAX);
+	return 0;
+}
+
+#include<stdio.h>
+#include<assert.h>
+struct ITEM
+{
+	int key;
+	int value;
+};
+void additem(struct ITEM *itemptr)
+{
+	assert(itemptr!=NULL);
+}
+int main()
+{
+	additem(NULL);
+	return 0;
+}
+
+
+命令行参数 
+
+
+int main(int argc,char *argv[])
+
+
+#include<stdio.h>
+#include<stdlib.h>
+int main(int argc,char *argv[])
+{
+	int a,b,c;
+	a= atoi(argv[1]);
+	b= atoi(argv[2]);
+	c= a+b;
+	printf("1:%d\n",a);
+	printf("2:%d\n",b);
+	printf("%d+%d=%d\n",a,b,c);
+	return 0;
+}
