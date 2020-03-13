@@ -1,0 +1,7624 @@
+1
+00:00:01,500 --> 00:00:09,000
+操作系统革命
+请在 http://LinuxUnix@bbs.nju.edu.cn/发表
+
+2
+00:00:09,500 --> 00:00:11,000
+I was at the Agenda 2000
+我参加了Agenda 2000 会议
+
+3
+00:00:11,600 --> 00:00:12,600
+and uh,
+嗯
+
+4
+00:00:12,600--> 00:00:14,400
+ one of the people who was there
+was Craig Mundie,
+那里有一个人叫Craig Mundie
+
+4
+00:00:14,400 --> 00:00:17,500
+who is some kind of
+high mucky muck at Microsoft,
+他在Microsoft鬼混
+
+5
+00:00:18,000 --> 00:00:19,000
+I think uh, 
+我想uh,
+
+6
+00:00:19,000 --> 00:00:21,500
+vice-president of consumer products or something like that.
+他是一个客户产品的VP（副总裁）吧
+
+6
+00:00:21,500 --> 00:00:24,300
+And uh, I hadn't actually met him
+实际上，我没有会见他。
+
+7
+00:00:24,500 --> 00:00:28,200
+I, I, I, uh, bumped in to him in an,
+in an elevator... in an elevator
+我是在一个电梯里碰到他的。
+
+8
+00:00:28,300 --> 00:00:30,300
+And uh, I looked at his badge and said,
+我看着他的徽章说：
+
+9
+ 00:00:30,300--> 00:00:32,300
+"Oh, I see you work for Microsoft."
+"哦，我看你是在Microsoft工作的吧。"
+
+9
+00:00:32,800 --> 00:00:36,300
+And he looked back to me and said,
+"Oh, yeah and what do you do?"
+他回头看了我，说："哦，是的。你呢？"
+
+10
+00:00:36,400 --> 00:00:39,300
+And I thought he seemed just a sort of a tad dismissive
+我想他看上去有一点轻视我
+
+11
+00:00:39,400 --> 00:00:40,400
+I mean,  here's the archetypal, 
+我的意思是，他是一个典型的白领
+
+11
+00:00:40,400--> 00:00:42,500
+you know,guy in a suit，
+穿西装的家伙
+
+12
+00:00:43,000 --> 00:00:44,500
+looking at a scruffy hacker
+在看一个衣衫不整的黑客
+
+13
+00:00:45,100 --> 00:00:47,700
+And so I gave him the thousand
+yard stare and said,
+所以我狠狠的瞪了他一眼，说
+
+14
+00:00:47,700 --> 00:00:49,600
+"I'm your worst nightmare."
+"我是你最可怕的恶梦。"
+
+15
+00:00:49,800 --> 00:00:53,400
+Wonderview Productions
+PRESENTS
+Wonderview Productions 出品
+
+16
+00:00:53,400 --> 00:00:57,400
+A
+J.T.S. Moore
+FILM
+
+17
+00:00:58,800 --> 00:01:03,700
+REVOLUTION OS
+
+18
+00:01:05,400 --> 00:01:07,600
+For most its short, but colorful history,
+在短而丰富多彩的历史里，
+
+19
+00:01:07,600 --> 00:01:09,600
+the computer industry has been dominated
+计算机工业一直被
+
+20
+00:01:09,600 --> 00:01:11,500
+by the Windows operating system.
+Windows操作系统控制着
+
+21
+00:01:11,500 --> 00:01:13,500
+But that could soon change,
+但是，可能马上要改变了
+
+22
+00:01:13,500 --> 00:01:16,400
+as Windows faces a strong challenge from Linux
+因为Windows面临着Linux强大的挑战
+
+23
+00:01:17,800 --> 00:01:19,500
+Silicon Valley has long been the place
+硅谷在较长的时间里
+
+24
+00:01:19,500 --> 00:01:21,500
+to develop new technology,
+是一个发展新科技的地方
+
+25
+00:01:21,800 --> 00:01:25,300
+start new companies and get really rich.
+那里成立了很多公司而变得非常的富有
+
+26
+00:01:25,400 --> 00:01:27,800
+Now The Valley is the front line in a revolution
+现在硅谷站在了革命的前沿
+
+27
+00:01:28,000 --> 00:01:30,700
+fighting for that most
+politically incorrect of ideas:
+为了一个政治上最错误的观点
+
+28
+00:01:31,200 --> 00:01:32,500
+individual freedom
+个体的自由
+
+29
+00:01:33,200 --> 00:01:33,800
+Day and night,
+整天整夜的，
+
+30
+00:01:33,800 --> 00:01:34,800
+a loose confederation of
+一个由黑客和程序员组成的自由组织
+
+30
+00:01:35,000 --> 00:01:37,000
+ hackers and programmers zaps bits pieces of
+在世界各地输入计算机程序代码
+
+31
+00:01:37,100 --> 00:01:39,800
+computer code around the world as it builds the tools
+为了开发
+
+32
+00:01:40,200 --> 00:01:42,000
+to set computer users free
+让计算机用户自由的工具
+
+33
+00:01:42,300 --> 00:01:44,600
+using open information and
+the free exchange of technology
+他们使用公开的信息和自由交换的技术
+
+34
+00:01:44,600 --> 00:01:46,000
+to achieve its goals.
+来实现这个目标
+
+35
+00:01:46,000 --> 00:01:48,600
+This revolution began in the 1980's with
+这次革命开始于20世纪80年代
+
+36
+00:01:48,600 --> 00:01:51,300
+the Free Software Movement and GNU project.
+革命的契机是自由软件运动和GNU计划
+
+37
+00:01:51,300 --> 00:01:53,000
+And now is most commonly associated
+现在最普遍的和
+
+38
+00:01:53,300 --> 00:01:56,600
+with Linux and the Open Source Movement.
+Linux和开源运动联系在一起
+
+39
+00:01:57,000 --> 00:01:59,600
+What is Linux?
+什么是Linux?
+
+40
+00:01:59,600 --> 00:02:02,000
+We do have one sector that taking off today.
+我们今天有一个热门版块
+
+41
+00:02:02,000 --> 00:02:04,100
+It is the Linux-related sector.
+它就是Linux相关版块。
+
+42
+00:02:04,100 --> 00:02:06,200
+And I thought this might be
+a good opportunity to say,
+我想只也许是一个不错的机会来说一下
+
+43
+00:02:06,500 --> 00:02:08,200
+"What is Linux?"
+什么是Linux
+
+44
+00:02:08,400 --> 00:02:09,400
+And I'll answer this question for you.
+我接下来会回答这个问题
+
+45
+00:02:09,500 --> 00:02:10,500
+Many of you probably already know,
+你们中的很多人也许已经知道
+
+46
+00:02:10,500 --> 00:02:12,000
+but
+There are 12 million users out there
+但是它拥有1200万的用户
+
+47
+00:02:12,300 --> 00:02:15,600
+A computer Operating System
+developed by hundreds of
+它是一个由成千上百个
+
+48
+00:02:15,600 --> 00:02:17,500
+programmers collaborating on the Internet
+程序师通过Internet合作开发的计算机操作系统
+
+49
+00:02:17,500 --> 00:02:19,400
+A challenge to Microsoft Windows NT
+它是对Microsoft Windows NT的挑战
+
+50
+00:02:19,500 --> 00:02:21,000
+Very popular for its speed
+因为它速度而流行
+
+51
+00:02:22,000 --> 00:02:23,300
+and so this's what the craze is about
+而且它是狂热的焦点
+
+52
+00:02:25,000 --> 00:02:27,200
+To kind of explain what Linux is you have to
+去解释什么是Linux，你必须
+
+53
+00:02:27,200 --> 00:02:29,200
+explain what an Operating System is
+说明什么是操作系统
+
+54
+00:02:29,200 --> 00:02:31,700
+And... the thing about Operating System is
+you, I mean...
+...操作系统是你，我的意思是...
+
+55
+00:02:31,700 --> 00:02:34,400
+you're never ever supposed to see it.
+你永远不会看到它
+
+56
+00:02:34,400 --> 00:02:36,100
+Because...
+因为...
+
+57
+00:02:36,100 --> 00:02:38,300
+nobody really uses an Operating System,
+没有人真正的使用一个操作系统，
+
+58
+00:02:38,700 --> 00:02:41,500
+people use... programs... on their computer
+人们使用...程序..在他们的计算机上
+
+59
+00:02:41,500 --> 00:02:43,500
+And the only mission in life
+操作系统的唯一使命
+
+60
+00:02:43,900 --> 00:02:47,500
+of an operating system is to help
+those programs run.
+是去帮助那些程序运行。
+
+61
+00:02:47,800 --> 00:02:51,100
+So an operating system never does
+anything on its own
+所以一个操作系统永远不会做他自己的事情
+
+62
+00:02:51,300 --> 00:02:53,700
+It's only waiting for the programs to
+他只是在等待其他程序去
+
+63
+00:02:53,700 --> 00:02:56,000
+ask for certain resources
+申请某些资源
+
+64
+00:02:59,800 --> 00:03:01,500
+or ask for the programs to
+或者要求程序去
+
+65
+00:03:01,500 --> 00:03:03,300
+connect them to the outside world.
+自己连接到外面的世界
+
+66
+00:03:03,500 --> 00:03:06,100
+And then the operating system
+comes, steps in and then
+这时候操作系统来了，一步步的
+
+67
+00:03:06,100 --> 00:03:09,700
+tries to make it easy for people
+to write programs
+试着让人们写程序简单一些
+
+68
+00:03:09,700 --> 00:03:13,000
+And, What is Open Source?
+好有，什么是Open Source
+
+69
+00:03:13,000 --> 00:03:16,000
+Open Source is a way for people to collaborate
+Open Source是一个让人们合作写软件的方式
+
+70
+00:03:16,300 --> 00:03:21,700
+on software without being encumbered
+by all of the problems of intellectual property,
+这种方式不会被知识产权所妨碍
+
+71
+00:03:21,700 --> 00:03:26,200
+having to negotiate contracts every time
+you buy a piece of software,
+不需要每次买一份软件的时候去讨论合同
+
+72
+00:03:26,500 --> 00:03:28,800
+have a lot of lawyers involved.
+不需要一帮讨厌的律师
+
+73
+00:03:28,800 --> 00:03:32,000
+In general, we just wanna get software to work
+总的来说，我们只要让软件去工作
+
+74
+00:03:32,400 --> 00:03:33,800
+and we want be able to have
+同时我们希望可以
+
+75
+00:03:33,800 --> 00:03:36,900
+people contribute fixes to that, etc..
+让人们贡献这些软件的补丁，等等...
+
+76
+00:03:37,800 --> 00:03:40,000
+So we sort of sacrifice some of
+所以我们将贡献一些
+
+77
+00:03:40,000 --> 00:03:41,900
+the intellectual property rights
+知识产权的权力
+
+78
+00:03:42,000 --> 00:03:44,500
+and just let the whole world
+use the software
+让全世界去使用这个软件
+
+79
+00:03:46,500 --> 00:03:47,800
+Before there could be Linux
+在有Linux之前
+
+80
+00:03:47,900 --> 00:03:51,200
+There was Richard Stallman
+and the Free Software Movement.
+有Richard Stallman和自由软件运动
+
+81
+00:03:51,500 --> 00:03:54,200
+They think of Richard Stallman as the...
+他们把Richard Stallman看作...
+
+82
+00:03:55,300 --> 00:03:58,000
+great philosopher, right.
+伟大的哲学家，是的。
+
+83
+00:03:58,000 --> 00:03:59,800
+And think of me as the engineer
+把我看作一个工程师
+
+84
+00:04:01,000 --> 00:04:04,400
+Richard Stallman is the founding father of
+the Free Software Movement.
+Richard Stallman是自由软件运动的创始人
+
+85
+00:04:04,800 --> 00:04:08,000
+Through his efforts to build the
+GNU Operating System.
+通过他的努力成立了GNU操作系统
+
+86
+00:04:08,100 --> 00:04:11,900
+He created the legal, philosophical and
+technological foundation
+他建立了一个合法的，哲学性的技术机构
+
+87
+00:04:11,900 --> 00:04:13,800
+for the Free Software Movement.
+为了自由软件运动
+
+88
+00:04:13,800 --> 00:04:15,400
+Without these contributions,
+没有这些贡献
+
+89
+00:04:15,400 --> 00:04:17,900
+it's unlikely that Linux and Open Source
+就不太可能让Linux和Open Source
+
+90
+00:04:17,900 --> 00:04:20,000
+would have evolved in to their current forms today
+发展成他们今天这样的形式。
+
+91
+00:04:20,700 --> 00:04:24,700
+I joined the
+MIT Artificial Intelligence Lab in 1971,
+我在1971年参加了MIT的人工智能实验室
+
+92
+00:04:25,000 --> 00:04:29,000
+I joined... a thriving community of hackers,
+我参加了...一个繁荣的黑客社区
+
+93
+00:04:29,700 --> 00:04:31,000
+people who loved programming,
+人们热爱编程
+
+94
+00:04:31,000 --> 00:04:34,300
+loved exploring the what they could do
+with computers.
+热爱探索他们可以用计算机干什么
+
+95
+00:04:34,500 --> 00:04:37,700
+And they had developed
+a complete Operating System,
+而且他们已经开发了一个完整的操作系统
+
+96
+00:04:37,700 --> 00:04:40,200
+entirely written there.
+完全在那里完成的
+
+97
+00:04:40,300 --> 00:04:42,800
+And I became one of the team, that
+我成为了他们中的一员，
+
+98
+00:04:43,000 --> 00:04:46,400
+continued to improve the Operating System,
+adding new capabilities
+继续去完善这个操作系统，加入新的功能
+
+99
+00:04:46,400 --> 00:04:50,400
+That was my job, and I loved it, we all loved it.
+That's why we were doing it.
+那是我的工作，我喜欢，我们都喜欢。那是我们当时做的原因。
+
+100
+00:04:51,000 --> 00:04:54,100
+And [clears throat] we called our system
+[清嗓子]我们把我们的系统称为
+
+101
+00:04:54,100 --> 00:04:56,600
+"the Incompatible Time Sharing System"
+"不兼容的分时系统"
+
+102
+00:04:57,200 --> 00:04:58,600
+which is the example of the
+它是嬉皮精神的一个例子
+
+103
+00:04:58,600 --> 00:04:59,600
+playful spirit
+
+104
+00:05:00,000 --> 00:05:01,900
+which defines a hacker.
+定义了黑客
+
+105
+00:05:02,100 --> 00:05:05,200
+Hackers are people who enjoy
+playful cleverness.
+黑客是一群享受嬉戏的聪明人
+
+106
+00:05:06,000 --> 00:05:08,500
+Well, it first started going wrong
+它一开始误入了歧途
+
+107
+00:05:08,500 --> 00:05:12,000
+as the outside world started pressuring us
+to have passwords.
+外界给我们施压，让我们加入密码
+
+108
+00:05:12,100 --> 00:05:15,300
+We didn't have any passwords
+on our computer.
+我们在我们的电脑上从来没有密码
+
+109
+00:05:15,500 --> 00:05:17,500
+And the reason was that the hackers
+原因是黑客们
+
+110
+00:05:17,500 --> 00:05:19,800
+who'd originally designed the system
+最初设计了这个系统
+
+111
+00:05:19,800 --> 00:05:25,700
+realized that passwords were a way
+the administrators could control all the users.
+认识到密码只是一个管理员控制所有用户的一种方法
+
+112
+00:05:25,800 --> 00:05:28,200
+And they didn't want to build tools
+他们不想开发工具
+
+113
+00:05:28,500 --> 00:05:31,900
+you know, locks and keys for
+the administrators to control them,
+你知道，锁和钥匙让管理员来控制它们
+
+114
+00:05:32,200 --> 00:05:34,300
+so they just didn't do it.
+They left that out
+所以他们不干这样的事，他们把那部分省略了
+
+115
+00:05:35,300 --> 00:05:38,500
+And we had the philosophy
+that whoever sitting at the computer
+我们有一个哲学观念，无论谁坐在电脑前面
+
+116
+00:05:38,600 --> 00:05:41,000
+should be able to do whatever he wants
+必须有能力做他想做的事
+
+117
+00:05:41,500 --> 00:05:46,500
+and somebody else who was there yesterday
+shouldn't be controlling what you do today
+其他昨天在那里的人不该控制你今天去做什么
+
+118
+00:05:46,500 --> 00:05:50,300
+When they put passwords onto one of
+the machines at MIT
+当他们往MIT的某台机器上输入密码时
+
+119
+00:05:51,500 --> 00:05:53,500
+I and bunch of other hackers didn't like it,
+我和其他一群黑客不喜欢这样
+
+120
+00:05:53,500 --> 00:05:57,500
+I decided to try a subversive sort of hack.[clears throat]
+我决定试着做一些破坏性的黑客工作
+
+121
+00:05:58,300 --> 00:06:00,400
+I figured out how to decode the passwords,
+我解决了怎样把密码解密
+
+122
+00:06:00,400 --> 00:06:03,800
+so by looking the database of encoded passwords
+所以通过看密码译码后的数据库
+
+123
+00:06:03,800 --> 00:06:07,300
+I could figure out what each person
+would actually type to login
+我可以计算出每个人登陆时的输入（密码）
+
+124
+00:06:07,800 --> 00:06:10,200
+And so I sent messages to people, saying,
+所以我发消息给他，说
+
+125
+00:06:10,500 --> 00:06:13,600
+"Hello? I see that you've
+chosen the password mumble,
+"你好？我看到你用什么做密码了"
+
+126
+00:06:13,800 --> 00:06:16,000
+whatever it was.
+How about if you do as I do
+无论怎么样。我这么干的时候，你该做什么呢？
+
+127
+00:06:16,500 --> 00:06:18,500
+just type Enter for your password
+仅仅用回车做你的密码
+
+128
+00:06:18,500 --> 00:06:21,500
+it's much shorter, much easier to type".
+这更短些，输入更方便
+
+129
+00:06:22,000 --> 00:06:25,500
+And... of course with this message I was
+...当然，在消息里我
+
+130
+00:06:25,500 --> 00:06:29,000
+implicitly telling them
+the security was really just a joke.
+含蓄的告诉他们安全只是一个玩笑
+
+131
+00:06:29,300 --> 00:06:33,300
+Anyway, but in addition
+I was letting them in on this hack.
+总之，但是另外我会让他们也加入//fixme
+
+132
+00:06:33,800 --> 00:06:37,500
+And eventually, A fifth of all
+users on that computer joined me
+最后，那台机器上的5分之一的用户加入了我
+
+133
+00:06:37,600 --> 00:06:41,000
+in using just Enter as their passwords.
+只用回车作为他们的密码
+
+134
+00:06:41,000 --> 00:06:44,100
+[ Where did the ideas that lead to what is now
+called Open Source world?
+那种想法怎么导致了现在被称之为开源世界？
+
+
+135
+00:06:44,200 --> 00:06:46,200
+How did that begin? Who began that? ]
+它是怎么开始的？谁开始的？
+
+136
+00:06:46,300 --> 00:06:50,300
+It actually began with the start
+of computers because at that time
+确切的说，开始于刚开始使用计算机时
+
+137
+00:06:50,500 --> 00:06:53,400
+software was just passed around between people
+因为在那时软件只是在人们之间相互传递
+
+138
+00:06:53,500 --> 00:06:58,400
+And I think it was only like in the
+lates 70's or early 80's
+我想那只是在70年代末和80年代初
+
+139
+00:06:59,000 --> 00:07:02,500
+That people started really closing up
+their software,
+人们开始真正的停止他们的软件//fixme
+
+140
+00:07:02,500 --> 00:07:05,700
+And saying, "No, you can never
+get a look at the source code.
+然后说，"不，你不能看这源代码。"
+
+141
+00:07:06,000 --> 00:07:09,300
+You can't change the software
+even if it's necessary
+你不可以修改这个软件，即使
+
+142
+00:07:09,400 --> 00:07:12,300
+for you to fix it, for your own application"
+为了你自己的应用，不得以修改了它。
+
+143
+00:07:13,000 --> 00:07:17,000
+And... um, you can actually blame
+some of that on Microsoft,
+...嗯，你可以因为这些后果而指责Microsoft
+
+144
+00:07:17,200 --> 00:07:21,200
+They are one of the real pioneers
+of the proprietary software model.
+他们是倡导软件模型所有权的先锋之一。
+
+145
+00:07:21,600 --> 00:07:23,800
+In the mid 1970's, a group of hackers
+在20世纪70年代中页，一帮黑客
+
+146
+00:07:23,900 --> 00:07:28,500
+and computer hobbyist in Silicon Valley
+formed the "Homebrew Computer Club".
+和计算机爱好者在硅谷成立了"家酿计算机俱乐部"
+
+147
+00:07:29,000 --> 00:07:32,500
+In the club January 31, 1976 newsletter,
+在俱乐部的1976年1月31日的时事里，
+
+148
+00:07:32,500 --> 00:07:35,200
+Bill Gates of the recently formed Microsoft,
+刚刚成立Microsoft公司的Bill Gates
+
+149
+00:07:35,500 --> 00:07:37,000
+wrote an open letter to the community
+写了一封给社区的公开信
+
+150
+00:07:37,500 --> 00:07:43,600
+where he made a point by point argument for
+the relatively new concept of proprietary software
+他一点点的为软件产权的相关新观念辩论
+
+151
+00:07:43,800 --> 00:07:48,200
+up to that point, the practice of computer users
+had been to freely pass around software
+直到那一点，计算机用户有把软件自由传递的习惯
+
+152
+00:07:48,500 --> 00:07:51,000
+with not much thought given to
+its ownership
+而没有怎么考虑他的所有权
+
+153
+00:07:51,500 --> 00:07:54,100
+Known as An Open Letter to Hobbyists,
+Bill Gates writes,
+作为一封给计算机迷的公开信，Bill Gates这样写到，
+
+154
+00:07:54,500 --> 00:07:56,800
+"To me the most critical thing
+in the hobby market right now
+"对我来说最危急的事是现在的业余爱好市场//fixme
+
+155
+00:07:56,900 --> 00:07:59,900
+is the lack of good software courses,
+books and software itself.
+缺少一个好的软件教程，书和软件本身。
+
+156
+00:08:00,000 --> 00:08:03,100
+Without good software and an owner
+who understands programming,
+没有好的软件和一个懂编程的拥有者，
+
+157
+00:08:03,300 --> 00:08:05,300
+A hobby computer is wasted.
+业余爱好的计算机是一种浪费。
+
+158
+00:08:05,300 --> 00:08:08,000
+Will quality software be written
+for the hobby market?
+业余爱好会写出有质量的软件吗？
+
+159
+00:08:08,400 --> 00:08:10,900
+Gates goes on to write,
+"The feedback we have gotten from
+Gates继续写道，"我们从
+
+160
+00:08:10,900 --> 00:08:14,300
+the hundreds of people who say they are
+using BASIC has all been positive.
+成千上万的说自己用BASIC的人中得到反馈证明了这一点。
+
+161
+00:08:14,300 --> 00:08:16,500
+Two surprising things are apparent, however.
+但是两件令人惊讶的事情是显而易见的。
+
+162
+00:08:16,500 --> 00:08:19,500
+1) Most of these "users" never
+bought BASIC, and
+1）这些"用户"从没有购买BASIC，
+
+163
+00:08:19,500 --> 00:08:22,500
+2) The amount of royalties we have received
+from sales to hobbyists
+2）我们从销售人员和爱好者那里得到的版税数目
+
+164
+00:08:22,500 --> 00:08:26,500
+makes the time spent on of Altair BASIC
+worth less than 2 dollars an hour
+使花在Altair BASIC的时间只值2美元一小时（ft，我现在也差不多）
+
+165
+00:08:26,500 --> 00:08:27,700
+Why is this?
+为什么会这样？
+
+166
+00:08:27,700 --> 00:08:30,200
+As the majority of hobbyists must be aware,
+大多数的爱好者应该是知道的，
+
+167
+00:08:30,200 --> 00:08:32,300
+most of you steal your software.
+你们中的大多数盗用了你们的软件。
+
+168
+00:08:32,300 --> 00:08:35,200
+Hardware must be paid for but software
+is something to share.
+硬件必须付钱但是软件是一种可以共享的东西。
+
+169
+00:08:35,200 --> 00:08:37,500
+Who cares if the people who worked
+on it get paid?
+谁关心那些工作的人的报酬？
+
+170
+00:08:37,500 --> 00:08:38,900
+Is this fair?
+这公平吗？
+
+171
+00:08:38,900 --> 00:08:41,000
+One thing you don't do by stealing software
+你通过盗用软件使得你没有//fixme
+
+172
+00:08:41,000 --> 00:08:43,500
+is get back at MITS for some problem
+you may have had
+因为某些问题回到MITS，你也许会让
+
+173
+00:08:43,500 --> 00:08:45,600
+MITS doesn't make money selling software.、
+MITS靠卖软件赚不到任何钱。
+
+174
+00:08:45,600 --> 00:08:48,600
+One thing you do do is prevent
+good software from being written.
+你做了一件防止写出好软件的事。
+
+175
+00:08:49,000 --> 00:08:51,300
+Who can afford to do professional work for nothing?
+谁能支付职业的工作而没有得到任何东西？
+
+176
+00:08:51,600 --> 00:08:54,300
+What hobbyist can put 3-man years into programming,
+什么业余爱好者可以在编程方面投入3人年的力量，
+
+177
+00:08:54,300 --> 00:08:57,900
+finding all bugs, documenting his product
+and distribute it for free?
+只是找出一些bug，为他的产品写文档并把它免费发放出去？
+
+178
+00:08:57,900 --> 00:08:58,800
+The fact is,
+事实是，
+
+179
+00:08:58,800 --> 00:09:02,400
+no one besides us has invested a lot of money
+in hobby software.
+除了我们之外没有人投资了一大笔钱在业余软件上。
+
+180
+00:09:02,400 --> 00:09:05,000
+What about the guys who resell Altair BASIC?
+那些再次转卖Altair BASIC的人呢？
+
+181
+00:09:05,000 --> 00:09:07,300
+Aren't they making money on hobby software?
+他们是不是在靠业余软件来挣钱呢？
+
+182
+00:09:07,300 --> 00:09:10,800
+Yes, but those who have been
+reported to us may lose in the end.
+是的，但是那些报告给我们的人最终还是亏损了
+
+183
+00:09:10,800 --> 00:09:12,900
+They are the ones who give
+hobbyists a bad name,
+他们是给业余爱好者一个坏名声的人
+
+184
+00:09:12,900 --> 00:09:16,300
+and should be kicked out of any
+club meeting they show up at.
+应该被所有他们出席的俱乐部会议剔除。
+
+185
+00:09:16,300 --> 00:09:19,200
+I would appreciate letters from
+anyone who wants to pay up,
+我会感激那些想付清费用的人的信，
+
+186
+00:09:19,200 --> 00:09:21,000
+or has a suggestion or comment.
+或者建议和意见
+
+187
+00:09:21,000 --> 00:09:25,000
+Signed Bill Gates, General partner, Micro-Soft.
+签名Bill Gates，合伙人，MicroSoft
+
+188
+00:09:25,400 --> 00:09:29,100
+In the late 70's and early 1980's,
+Richard Stallman was
+在70年代晚期和80年代早期，Richard Stallman
+
+189
+00:09:29,100 --> 00:09:32,400
+doing Artificial Intelligence research and coding
+在做人工智能的研究
+
+190
+00:09:32,400 --> 00:09:35,000
+at the MIT Artificial Intelligence Lab.
+在MIT的人工智能实验室写代码。
+
+191
+00:09:35,000 --> 00:09:37,300
+Richard had a number of negative experiences
+Richard有很多负面的经验
+
+192
+00:09:37,300 --> 00:09:39,300
+during that period which soured him
+在那个时期里成熟了他
+
+193
+00:09:39,300 --> 00:09:41,400
+on the whole idea of commercial software.
+关于商业软件的整体观念。
+
+194
+00:09:41,400 --> 00:09:43,000
+[ such as? ]
+比如说？
+
+195
+00:09:43,000 --> 00:09:47,000
+uh... some company wanted to work on and
+wanted to fix was locked up.
+嗯...一些公司想继续而且想修改都被拒绝了
+
+196
+00:09:47,700 --> 00:09:51,700
+and he couldn't get the company on the code to let him fix it
+而且他不可能让一个公司用这些代码或让他作出修改
+
+197
+00:09:52,400 --> 00:09:54,500
+even though it would have been to their advantage to do so.
+甚至他们有有利条件去这样做
+
+198
+00:09:54,500 --> 00:09:57,400
+And that put me into a moral dilemma, you see?
+而且把我推到了一个道德上进退两难的境地，你看呢？
+
+199
+00:09:57,500 --> 00:10:03,100
+Because to get one of the modern computers
+of the day, which was the early 80's,
+因为在80年代早期得到一台当时时髦的电脑
+
+200
+00:10:03,600 --> 00:10:06,400
+you would have to get a proprietory
+operating system.
+你必须得到一个授权的操作系统。
+
+201
+00:10:06,500 --> 00:10:09,400
+The developers of those systems
+didn't share with other people,
+这些系统的开发者并不与用户交流，
+
+202
+00:10:09,500 --> 00:10:11,500
+Instead they tried to control the users,
+相反，而是试图控制用户，
+
+203
+00:10:11,600 --> 00:10:13,400
+dominate the users, restrict them.
+支配他们，限制他们。
+
+204
+00:10:13,900 --> 00:10:16,000
+Say, if to get the system,
+因此，如果用这样的系统，
+
+205
+00:10:16,100 --> 00:10:19,500
+you have to sign a  promise you won't
+share with anybody else.
+你必须签署协议保证不给其他人共享。
+
+206
+00:10:19,600 --> 00:10:23,400
+And to me that was essentially a promise
+to be a bad person,
+这对我来说相当于一份我是恶人的保证，
+
+207
+00:10:23,400 --> 00:10:25,100
+to betray the rest of the world,
+背叛了世界。
+
+208
+00:10:25,200 --> 00:10:29,100
+cut myself off from society
+from a cooperating community.
+把我从一个社会，一个合作社区分离。
+
+209
+00:10:30,300 --> 00:10:34,300
+And I had already experienced what happened
+when other people did that to us,
+并且我熟知如果其他人也这么对待我会发生什么，
+
+210
+00:10:34,300 --> 00:10:35,800
+when they refused to share with us.
+当他们拒绝和我们合作。
+
+211
+00:10:35,900 --> 00:10:38,500
+because they had signed these contracts.
+因为他们签署了这样的协议。
+
+212
+00:10:38,600 --> 00:10:40,400
+And it hurt the whole lab,
+这将损害整个实验室的利益，
+
+213
+00:10:40,500 --> 00:10:43,200
+it kept us from doing useful things before.
+它阻止我们像以往那样做事情。
+
+214
+00:10:43,300 --> 00:10:45,600
+So I just wasn't going to do that.
+所以我不准备那么做。
+
+215
+00:10:45,700 --> 00:10:49,700
+I thought,"This is wrong!
+I am not going to live this way"
+我想“这不对，我不希望这样”
+
+216
+00:10:49,900 --> 00:10:53,900
+And from experiences like this
+he developed a profound hostility
+从这次的经历中，他从内心深处产生了
+
+217
+00:10:54,000 --> 00:10:56,600
+to the idea of
+intellectual property and software.
+反对把思想和软件当作财产的想法。
+
+218
+00:10:56,700 --> 00:11:00,300
+He eventually acted this out
+by founding the Free Software Foundation.
+最终他行动起来，创建了自由软件基金。
+
+219
+00:11:00,400 --> 00:11:04,900
+So, I looked for another alternative
+and I realized:
+于是我看到了别的替代品，并且意识到：
+
+220
+00:11:05,000 --> 00:11:06,500
+I was an operating system developer.
+我是一个操作系统开发者。
+
+221
+00:11:06,600 --> 00:11:10,300
+If I were to develop another operating system.
+如果我去开发别的操作系统，
+
+222
+00:11:10,500 --> 00:11:14,100
+And then as the author,
+encourage everyone to share it.
+然后作为作者，鼓励其他人共享它。
+
+223
+00:11:14,200 --> 00:11:17,900
+Say, everyone, " You come and get it,
+use this, form a new community"
+对每个人说“你来，获取它，
+使用它，组建一个新的社团”
+
+224
+00:11:18,900 --> 00:11:23,200
+Not only could I gave myself a way
+to keep using computers without
+不仅仅我可以继续使用电脑而无需
+背叛他人，
+
+225
+00:11:23,300 --> 00:11:26,500
+betraying other people,
+but I'd give it to everybody else, too.
+而且其他每个人也都能如此。
+
+226
+00:11:26,600 --> 00:11:29,500
+Everybody would have a
+way out of that moral dilemma
+每个人将走出道德困境，
+
+227
+00:11:31,000 --> 00:11:34,300
+And so I realized this was
+what I had to do with my life.
+并且我意识到这将成为我毕生要做的事情。
+
+228
+00:11:34,700 --> 00:11:38,700
+I actually began the project in January of 1984.
+这个项目实际上开始于1984年一月。
+
+229
+00:11:38,800 --> 00:11:41,500
+That's when I resigned for my job at MIT
+那时我辞掉了我在MIT的工作。
+
+230
+00:11:41,600 --> 00:11:45,400
+to start developing the GNU operating system.
+开始开发GNU操作系统。
+
+231
+00:11:46,400 --> 00:11:49,700
+Now I should explain the name GNU is a hack.
+这里我必须提醒GNU这个名字是一种hack说法。
+
+232
+00:11:49,900 --> 00:11:52,700
+Because it's a recursive acronym.
+因为他是首字递归的。
+
+233
+00:11:53,100 --> 00:11:56,100
+It stands for "GNU's Not Unix".
+它代表“GNU's Not Unix”
+
+234
+00:11:56,200 --> 00:11:59,300
+You see so the "G" in "GNU" stands for "GNU".
+你注意到"GNU"的"G"代表"GNU"
+
+235
+00:11:59,300 --> 00:12:01,400
+And what the name means is
+而这个名字意味着
+
+236
+00:12:01,400 --> 00:12:05,900
+I was developing a system that was like
+the Unix operating system,
+我在开发的系统很像Unix
+
+237
+00:12:05,900 --> 00:12:08,300
+but was not the Unix operating system.
+但却又不是Unix。
+
+238
+00:12:08,300 --> 00:12:09,800
+It was a different system.
+而是一个不同的系统。
+
+239
+00:12:09,800 --> 00:12:12,200
+We would have to write it completely
+from scratch
+我们将完全从头重写
+
+240
+00:12:12,200 --> 00:12:14,100
+because Unix was proprietory.
+因为Unix是专有的。
+
+241
+00:12:14,200 --> 00:12:16,000
+We were forbidden to share Unix,
+我们无法共享Unix。
+
+242
+00:12:16,100 --> 00:12:19,700
+We couldn't use Unix.
+It was useless for a community.
+我们无法使用Unix。它对这个社区来说
+没有使用价值。
+
+243
+00:12:19,800 --> 00:12:23,300
+So we had to write a replacement for it.
+所以我们只能写一个替代品。
+
+244
+00:12:24,900 --> 00:12:26,100
+Throughout the 1980s,
+整个80年代，
+
+245
+00:12:26,200 --> 00:12:28,700
+as Richard Stallman was building the GNU project,
+Richard Stallman都在致力于GNU项目
+
+246
+00:12:28,900 --> 00:12:32,300
+computer scientists from
+the University of California at Berkeley
+来自California的Berkeley大学的计算机科学家们
+
+247
+00:12:32,400 --> 00:12:34,700
+were developing their own free
+operating system.
+也在开发他们自己的自由操作系统
+
+248
+00:12:35,000 --> 00:12:37,500
+Known as Berkeley Unix, or BSD,
+被称为Berkeley Unix,或者叫BSD.
+
+249
+00:12:37,600 --> 00:12:41,500
+it was based upon the Unix kernel
+which had been licensed from AT&T.
+它基于Unix内核，从AT&T获取的授权。
+
+250
+00:12:41,600 --> 00:12:46,300
+However, due to legal problems with AT&T
+and fragmentation of the source code,
+然而，由于与AT&T产生的法律问题，
+以及破碎的源代码，
+
+251
+00:12:46,500 --> 00:12:50,100
+hackers and other non-institutional users
+were slow to adopt it
+黑客们以及其他非机构用户比较难以接受。
+
+252
+00:12:50,300 --> 00:12:54,300
+Well, Unix consisted of a large number of
+separate programs
+嗯，Unix由大量的分离程序组成。
+
+253
+00:12:54,700 --> 00:12:56,400
+that communicated with each other.
+它们互相交流。
+
+254
+00:12:56,500 --> 00:12:59,400
+So we just had to replace these programs
+one by one.
+所以我们只需要把这些程序一个个替换。
+
+255
+00:12:59,500 --> 00:13:03,200
+So what I started doing was
+writing a replacement for one program,
+所以我开始干的事情就是为某个程序写替代品。
+
+
+256
+00:13:03,300 --> 00:13:05,100
+and then another, and then another,
+然后下一个，再下一个
+
+257
+00:13:05,200 --> 00:13:06,900
+and then people started joining me,
+并且人们开始加入我，
+
+258
+00:13:07,000 --> 00:13:10,600
+because I published an announcement
+inviting other people to join me
+因为我公开邀请其他人加入我
+
+259
+00:13:10,700 --> 00:13:12,300
+to help write these programs.
+来帮助我写这些程序。
+
+260
+00:13:12,600 --> 00:13:20,000
+And uh... and by around 1991,
+we had replaced practically all of them.
+然后，嗯...直到1991年左右，
+我们把它们全部替换掉了。
+
+261
+00:13:20,500 --> 00:13:21,800
+[ What were some of the programs that you ... ]
+[那你们写了什么样的程序...]
+//fixme:Unknown sentence.
+
+262
+00:13:21,900 --> 00:13:25,000
+Well... we had to... to have a complete system,
+好吧...我们必须...拥有一个完整的系统，
+
+263
+00:13:25,100 --> 00:13:28,700
+you need to have a kernel, which is the program that
+我们需要一个内核，
+
+264
+00:13:28,800 --> 00:13:31,600
+allocates resources to all the other programs,
+为其他程序分配/管理资源，
+
+265
+00:13:31,800 --> 00:13:35,100
+you need a compiler, which translates a program
+你需要一个编译器，来把程序
+
+266
+00:13:35,200 --> 00:13:40,500
+from readable source code
+that programmers can understand into numbers,
+从程序员可读的源代码，转换成费解的数字，
+
+267
+00:13:40,600 --> 00:13:44,900
+mysterious numbers
+that the computer can actually run.
+计算机能够运行的数字。
+
+268
+00:13:45,000 --> 00:13:47,500
+you need other programs
+that go with the compiler to help do this job.
+你也需要其他程序，来协助编译器完成这个工作。
+
+269
+00:13:47,500 --> 00:13:48,600
+you need a debugger.
+你需要一个调试器。
+
+270
+00:13:48,700 --> 00:13:50,300
+you need a text editor.
+你需要一个文本编辑器。
+
+271
+00:13:50,400 --> 00:13:51,500
+you need text formatters.
+你需要文本格式处理程序。
+
+272
+00:13:51,600 --> 00:13:53,400
+you need mailers...
+你需要邮件程序...
+
+273
+00:13:53,500 --> 00:13:54,800
+you need lots and lots of things.
+你需要很多很多东西。
+
+274
+00:13:54,900 --> 00:13:58,500
+There are hundreds of programs
+in the Unix-like operating system.
+在类Unix系统中有上百个这样的程序。
+
+275
+00:13:58,900 --> 00:14:00,500
+I saw Stallman's announcement.
+我看到了Stallman的声明。
+
+276
+00:14:00,600 --> 00:14:03,900
+Actually I met him in February of 1987.
+事实上我在1987年二月遇到了他。
+
+277
+00:14:04,000 --> 00:14:08,500
+He came to give a five-day tutorial
+on Emacs at our company.
+他来我们公司进行emacs的5日教程的讲座。
+
+278
+00:14:08,600 --> 00:14:11,200
+And during the day he would explain
+那几天他将解释
+
+279
+00:14:11,300 --> 00:14:13,400
+new ways to think about Emacs
+考虑emacs的新思路，
+
+280
+00:14:13,500 --> 00:14:16,500
+and ways to extend it, enhance it,
+and to use the Emacs source code
+以及扩展它，增强它的方法，
+还有用emacs的源代码，
+
+281
+00:14:17,100 --> 00:14:18,400
+uh, for better or worse.
+嗯，不管是好是坏。
+
+282
+00:14:18,500 --> 00:14:21,700
+But in the evening,
+he was busily working on this compiler,
+但是在晚上，它都在这个编译器前忙碌，
+
+283
+00:14:21,800 --> 00:14:24,100
+and he had not yet released it to the public,
+他还没有向公众发布。
+
+284
+00:14:24,200 --> 00:14:27,800
+so he was uh, being a little bit uh,
+careful about
+所以他有点，嗯，稍微有点，嗯
+警惕，
+
+285
+00:14:27,900 --> 00:14:30,300
+who, who got to see the source code.
+对那些想看看源代码的人。
+
+286
+00:14:30,400 --> 00:14:33,800
+But I was very eager,
+and when he first announced it in June,
+但是我非常感兴趣，
+并且当他在六月第一次公布的时候，
+
+287
+00:14:33,900 --> 00:14:35,500
+I downloaded it immediately.
+我立即下载了。
+
+288
+00:14:35,700 --> 00:14:37,100
+I, I played with it.
+我，我与它玩乐。
+
+289
+00:14:37,200 --> 00:14:39,400
+I got some, some pointers from him.
+我从他那里得到了，一些指点。
+
+290
+00:14:39,600 --> 00:14:41,200
+And when I sent the source code back to him,
+于是当我把源代码发给他，
+
+291
+00:14:41,300 --> 00:14:42,500
+he was very,
+他非常的，
+
+292
+00:14:42,600 --> 00:14:47,300
+uh, actually amazed that how quickly
+I was able to ramp up on his technology.
+嗯，事实上是惊讶:我如此迅速的就
+了解了他的技术。
+//fixme:ramp up???
+
+293
+00:14:47,500 --> 00:14:48,300
+Whenever we worked on something
+at Stanford or in the university,
+无论何时我们在Stanford大学做事，
+//fixme:at stanford or in the university???
+
+294
+00:14:48,300 --> 00:14:52,300
+Whenever we worked on something
+at Stanford or in the university,
+
+295
+00:14:52,400 --> 00:14:54,200
+we would get, mostly at the time
+我们都能非常充分的利用时间，
+
+
+296
+00:14:54,300 --> 00:14:58,200
+we were working off machines
+from Digital Equipment or Sun, mostly Sun.
+我们在Digital Equipment或Sun的机器上工作，
+大部分是Sun的机器。
+
+297
+00:14:58,400 --> 00:14:59,900
+Whenever we would get a Sun machine,
+无论我们什么时候拿到Sun的机器，
+
+298
+00:15:00,100 --> 00:15:04,500
+the first thing we would do is
+we would spend literally days
+我们做的第一件事情就是，
+我们将用一天天的时间来
+
+299
+00:15:04,600 --> 00:15:08,600
+downloading GNU free software from the Internet,
+从Internet下载GNU的自由软件。
+
+300
+00:15:08,700 --> 00:15:11,100
+building it and installing it on that Sun machine.
+在Sun的机器上编译并安装。
+
+301
+00:15:11,300 --> 00:15:14,800
+The crucial thing about GNU is that
+it's free software.
+GNU最关键的一点在于，他是自由软件。
+
+302
+00:15:15,200 --> 00:15:18,700
+And Free Software refers not to price,
+but to freedom.
+这里的自由软件指的不是价钱，而是自由。
+
+303
+00:15:18,900 --> 00:15:21,200
+So think of free speech, not free beer.
+所以把它理解成自由言论的自由，而不是免费啤酒。
+
+304
+00:15:22,200 --> 00:15:24,500
+The freedoms that I am talking about
+我现在所说的自由，
+
+305
+00:15:24,500 --> 00:15:27,500
+are the freedoms to make changes if you want to,
+而是修改的自由，如果你想修改的话。
+
+306
+00:15:27,600 --> 00:15:30,300
+or hire somebody else to make changes for you
+或者雇其他人来帮你修改。
+
+307
+00:15:30,400 --> 00:15:32,500
+if you're using a software for your business,
+如果你正在使用为你定制的软件。
+//fixme:unknow meanings.
+
+308
+00:15:32,600 --> 00:15:36,300
+to redistribute copies,
+to share with other people,
+允许多次复制，以和其他人共享。
+
+309
+00:15:36,400 --> 00:15:39,500
+and to make improvements and publish them
+并且允许改善和公开它们。
+
+310
+00:15:39,600 --> 00:15:42,500
+so that other people can
+get the benefit of them, too.
+这样其他人也能从中获取利益。
+
+311
+00:15:42,600 --> 00:15:46,400
+And those are the freedoms that distinguish
+free software from non-free software.
+这些就是自由软件区别于非自由软件的地方。
+
+312
+00:15:46,700 --> 00:15:50,500
+These are the freedoms that
+enable people to form a community.
+这些自由允许用户形成社区。
+
+313
+00:15:50,600 --> 00:15:52,100
+If you don't have all these freedoms,
+如果没有这些自由，
+
+314
+00:15:52,100 --> 00:15:54,900
+you're being divided and
+dominated by somebody.
+你将是孤独的，并且被其某人控制。
+
+315
+00:15:55,900 --> 00:15:59,000
+My first experience contributing to free software
+我第一次为自由软件做出贡献的经历，
+
+316
+00:15:59,000 --> 00:16:03,000
+came in late 1989, early 1990.
+始于1989后，1990前。
+
+317
+00:16:03,200 --> 00:16:06,200
+I was working as a graduate student
+at Stanford University
+我是一个在Stanford大学工作的毕业生，
+
+318
+00:16:06,400 --> 00:16:08,600
+on Computer Aided Design tools.
+致力于计算机辅助设计工具的开发。
+
+319
+00:16:08,700 --> 00:16:10,800
+One of the pieces I needed was a tool
+其中我需要一个工具
+
+320
+00:16:10,900 --> 00:16:12,500
+called a parser generator.
+叫做语法分析生成器。
+
+321
+00:16:12,800 --> 00:16:14,800
+Well, the Free Software Foundation
+嗯，Richard Stallman创建的自由软件基金
+
+322
+00:16:14,900 --> 00:16:18,300
+under Richard Stallman
+created a great tool called "bison".
+开发了一个很棒的工具，叫做"bison"。
+
+323
+00:16:18,500 --> 00:16:22,400
+I needed a tool that worked with C++.
+Bison worked with C.
+我需要一个能够生成c++的工具。
+而bison只能生成c。
+
+324
+00:16:22,900 --> 00:16:26,100
+I modified bison to create something
+called "bison++".
+我修改了bison，添加了点东西，并命名为"bison++"
+
+325
+00:16:26,200 --> 00:16:28,700
+And it's a tremendous feeling of empowerment
+这是一种巨大的感觉，功能的增强，
+
+326
+00:16:28,800 --> 00:16:31,900
+be able to take a piece of software that was available
+可以通过获取现存的某个软件，
+
+327
+00:16:32,000 --> 00:16:36,500
+and create what you needed
+in a very short piece of time by modifying it.
+通过短时间的修改，并且添加一些你所需的东西来获得。
+
+328
+00:16:36,700 --> 00:16:39,100
+I put it back on the Internet
+我把它放在了Internet上面。
+
+329
+00:16:39,200 --> 00:16:40,900
+and I was amazed at the number of people
+我很惊讶，大量的人，
+
+330
+00:16:41,000 --> 00:16:42,900
+that picked it up and started using it.
+获取了它，并且开始使用它。
+
+331
+00:16:43,000 --> 00:16:47,000
+In fact, I remember going to, uh job interviews,
+事实上，我记得以后的，嗯，工作面试，
+
+332
+00:16:47,300 --> 00:16:50,100
+I, at various times, considered
+just going out getting a job.
+我，多次的考虑去寻找一个工作。
+
+333
+00:16:50,300 --> 00:16:52,100
+And I'd gone to a job interview.
+然后我去参加工作面试。
+
+334
+00:16:52,200 --> 00:16:53,600
+And I was talking to one of the people,
+然后我和其中的一位面试官谈话，
+
+335
+00:16:53,700 --> 00:16:56,500
+and I started asking them about what tools they used,
+然后我和他们谈到他们所使用的工具。
+
+336
+00:16:56,600 --> 00:16:59,000
+and they said, "Gee, we used bison++!"
+然后他们说，“嘿，我们用bison++!”
+
+337
+00:16:59,100 --> 00:17:01,400
+and I said, "Oh, I am the author of bison++!"
+然后我说，“噢，我是bison++的作者!”
+
+338
+00:17:01,600 --> 00:17:06,100
+Free Software generally does have a copyright.
+自由软件一般还是有版权的。
+
+339
+00:17:06,200 --> 00:17:08,800
+It does have an owner.
+它的确有所有人。
+
+340
+00:17:08,900 --> 00:17:10,000
+And it has a license.
+并且他有许可证。
+
+341
+00:17:10,100 --> 00:17:11,900
+It is not public domain.
+他不同于public domain
+//fixme:how to translate public domain into chinese?
+
+342
+00:17:12,000 --> 00:17:14,600
+If we put the software in the public domain,
+如果我们把软件放到public domain
+
+343
+00:17:14,700 --> 00:17:17,900
+somebody else would be able to make
+a little bit of changes
+一些人可以做一些很小的改动
+
+344
+00:17:18,000 --> 00:17:20,900
+and turn that into a proprietory software package,
+然后把它编成专有软件包。
+
+345
+00:17:21,000 --> 00:17:23,800
+which means that
+the users would be running our software,
+这意味着，用户将只能运行我们的软件，
+
+346
+00:17:23,900 --> 00:17:26,800
+but they wouldn't have freedom to cooperate and share.
+而他们将失去合作和共享的自由。
+
+347
+00:17:27,500 --> 00:17:31,200
+To prevent that, we use a technique called "Copyleft".
+为了防止这事情，我们用了一种技术，叫"copyleft"。
+
+348
+00:17:31,500 --> 00:17:34,700
+The idea of Copyleft is that
+it's "Copyright" flipped over.
+Copyleft的意思就是"Copyright"的反面。
+
+349
+00:17:35,500 --> 00:17:37,200
+And what we do is, we say,
+我们所做的就是，我们认为，
+
+350
+00:17:37,300 --> 00:17:39,200
+this software is copyrighted
+这些软件就是版权保护的
+
+351
+00:17:39,300 --> 00:17:43,600
+and we, the authors give you permission
+to redistribute copies,
+而我们，这些作者给你复制的权力，
+
+352
+00:17:43,700 --> 00:17:45,200
+we give you permission to change,
+我们给你修改的权力，
+
+353
+00:17:45,300 --> 00:17:46,900
+we give you permission to add to it.
+我们给你增添的权力。
+
+354
+00:17:47,000 --> 00:17:48,700
+But when you redistribute it,
+但是当你重新发布的时候，
+
+355
+00:17:48,800 --> 00:17:52,500
+it has to be under these terms,
+no more and no less.
+你的软件也必须给出这些权力，不多也不少。
+
+356
+00:17:52,600 --> 00:17:54,800
+So that whoever gets it from you
+所以无论谁从你这里获取软件，
+
+357
+00:17:54,900 --> 00:18:00,200
+also gets the freedom to cooperate
+with other people, if he wants to.
+也同时得到了与其他人合作的自由，如果他想要的话。
+
+358
+00:18:00,300 --> 00:18:03,800
+And then, in this way everywhere the software goes,
+这样，用这样的方式，每个软件到达的地方，
+
+359
+00:18:03,900 --> 00:18:05,500
+the freedom goes, too.
+自由也随着而来。
+
+360
+00:18:05,600 --> 00:18:07,900
+And it becomes an inalienable right
+并且这成为不可分割的权力
+
+361
+00:18:09,000 --> 00:18:11,600
+to cooperate with other people and form a community.
+和其他人合作并组建社区。
+
+362
+00:18:11,800 --> 00:18:15,100
+[ And so, what is that? the license?
+what was that... ]
+[然后，那时什么？那个许可证？那个是什么...]
+
+363
+00:18:15,200 --> 00:18:17,200
+Well, Copyleft being a general idea,
+好吧，Copyleft成为通用的想法，
+
+364
+00:18:17,300 --> 00:18:20,300
+in order to use it, you have to have specific example.
+为了使用它，你必须有一些特定的例子。
+
+365
+00:18:20,400 --> 00:18:24,100
+The specific example we use for
+most GNU software packages
+在大部分的GNU软件包中都有这些例子
+
+366
+00:18:24,200 --> 00:18:27,100
+is the GNU General Public License,
+就是GNP通用公共许可协议，
+
+367
+00:18:27,200 --> 00:18:31,200
+a particular document and legalese
+which accomplishes this job.
+一些特定的文档和法律言辞，来完成这个工作。
+
+368
+00:18:31,500 --> 00:18:34,200
+A lot of other people use that same license,
+for example,
+其他的许多人也用这样的协议，例如，
+
+369
+00:18:34,300 --> 00:18:37,700
+Linus Torvalds uses that license for Linux as well.
+Linus Torvalds也让Linux使用这个许可证。
+
+370
+00:18:38,700 --> 00:18:42,200
+Well, the license I use is the
+GNU General Public License.
+好吧，我使用的这个协议是GNU通用许可协议。
+
+371
+00:18:42,300 --> 00:18:44,200
+That's the one Richard Stallman wrote.
+那是Richard Stallman写的。
+
+372
+00:18:44,300 --> 00:18:48,200
+And I think it is really astounding contribution.
+并且我认为这的确是一个令人惊讶的贡献。
+
+373
+00:18:48,300 --> 00:18:52,300
+Uh, it's one of the few software licenses
+that was written
+en,这是仅有的几个软件许可证，
+
+374
+00:18:52,600 --> 00:18:56,000
+from the standpoint of the community rather than
+从大众的角度，而不是
+
+375
+00:18:56,100 --> 00:18:59,900
+from the standpoint of um, protecting a company
+从，嗯，保护公司
+
+376
+00:19:00,000 --> 00:19:05,500
+or um, as is the case with MIT and BSD license
+或，嗯，作为一个MIT和BSD许可的情形，
+//fixme:case???
+
+377
+00:19:05,700 --> 00:19:09,400
+performing the goals of
+a government grant program.
+推动政府授权程序的目标。
+//fixme:不通
+
+378
+00:19:09,500 --> 00:19:12,500
+Uh, and the GPL is really unique in that.
+嗯，然而他们之中，GPL绝对是唯一的。
+
+379
+00:19:12,600 --> 00:19:16,000
+It's not just a license.
+It's a whole philosophy that,
+它不仅仅是一个许可证。它是一种哲学，
+
+380
+00:19:16,100 --> 00:19:19,100
+I think, motivated the open source definition.
+我认为，激发了开放源代码的定义。
+
+381
+00:19:19,200 --> 00:19:23,500
+I don't hide that a lot of what I do came from Stallman.
+我从来不隐瞒，我做的很多事都来自于Stallman。
+
+382
+00:19:27,900 --> 00:19:31,900
+A crucial step in the growth of GNU/Linux
+and the Free Software movement
+GNU/Linux成长和自由软件运动的一个关键的步骤，
+
+383
+00:19:32,000 --> 00:19:35,600
+was the creation of businesses
+based upon the software and philosophy.
+就是基于这些软件和哲学的商业市场的诞生。
+
+384
+00:19:35,800 --> 00:19:38,300
+Grown zero for the beginning of
+the business face
+从零开始的商业应用源于
+
+385
+00:19:38,400 --> 00:19:41,500
+was the Electronics Research Lab
+at Stanford University.
+Stanford大学的电子研究实验室。
+
+386
+00:19:41,800 --> 00:19:45,100
+Known as ERL, the lab was the place for the first GNU
+被称作ERL，这个实验室是第一个产生GNU和Linux
+
+387
+00:19:45,200 --> 00:19:47,500
+and Linux business founder inspiration.
+商业应用灵感的地方。
+
+388
+00:19:47,600 --> 00:19:49,600
+So right here was where ERL was.
+右边这里就是ERL以前所在的位置。
+
+389
+00:19:50,100 --> 00:19:53,200
+That would have been the entrance
+over there next to the uh,
+那里以前曾是入口，再后面，嗯
+
+390
+00:19:53,300 --> 00:19:55,600
+electrical engineering McCullough building.
+电子工程McCullough大楼。
+
+391
+00:19:55,700 --> 00:19:59,500
+As you walk in, you come in,
+you walk down the hallway, down here.
+当你走入，你进入，走过走廊，来到这里。
+
+392
+00:20:00,500 --> 00:20:03,600
+My office would have been about, about here.
+我的办公室曾经在，在这里。
+
+393
+00:20:03,700 --> 00:20:07,000
+and then right across the hall,
+from that was Michael Tiemann's office.
+然后，走右边的前往大厅，
+从那里开始是Michael Tiemann的办公室。
+
+394
+00:20:07,700 --> 00:20:11,700
+Michael Tiemann took uh.. and
+started a company, Cygnus Software
+Michael Tiemann，嗯，开办了一个公司，
+Cygnus软件公司。
+
+395
+00:20:11,700 --> 00:20:16,600
+with the idea was to sell consulting
+and services around the GNU Free Software
+他的想法是为GNU自由软件进行顾问和服务，
+
+396
+00:20:16,600 --> 00:20:19,000
+and, well Michael's done very well with Cygnus.
+并且，Michanel现在在Cygnus干的很棒。
+
+397
+00:20:19,000 --> 00:20:23,000
+Well uh, I spend a lot of
+time working out uh,
+好了，我花了点时间想出，嗯，
+
+398
+00:20:23,000 --> 00:20:25,000
+how we were going to make money
+我们如何去赚钱。
+
+399
+00:20:25,000 --> 00:20:27,000
+and in the original GNU manifesto
+在原有的GNU宣言中，
+
+400
+00:20:27,000 --> 00:20:30,000
+which is the last chapter
+of the GNU Emacs manual.
+也是GNU Emacs手册的最后一章。
+
+401
+00:20:30,000 --> 00:20:32,000
+Stallman proposed a number of different
+Stallman 提出了几种筹集资金
+
+402
+00:20:32,000 --> 00:20:33,800
+possible ways to make money.
+的方法。
+
+403
+00:20:33,800 --> 00:20:35,800
+Form the beginning of the
+Free Software movement
+自由软件运动刚刚起步的时候
+
+404
+00:20:35,800 --> 00:20:37,000
+I had the idea that there's
+我就意识到
+
+405
+00:20:37,000 --> 00:20:39,000
+room in it for business to be done.
+
+406
+00:20:39,000 --> 00:20:41,700
+One of the advantages of Free Software is that, there's
+自由软件的优势之一就是它提供一个自由的市场
+
+407
+00:20:41,700 --> 00:20:45,000
+a free market for any kind of service or support.
+里面有各种各样的服务可供选择
+
+408
+00:20:45,000 --> 00:20:47,000
+So if you are using software in your business,
+所以，如果你在工作中使用某个软件
+
+409
+00:20:47,000 --> 00:20:49,000
+and you want good support,
+而且你想要得到更好的服务
+
+410
+00:20:49,000 --> 00:20:52,000
+you have a choice of people to go to for it,
+你就有很多个人可供选择
+
+411
+00:20:52,000 --> 00:20:54,000
+you have a choice of businesses... that
+你可以在不同的服务中选择
+
+412
+00:20:54,000 --> 00:20:57,000
+are in the business of
+providing you with support.
+
+413
+00:20:57,000 --> 00:20:59,000
+So they are going to have to in general give you
+所以他们会尽力为你提供好的服务
+
+414
+00:20:59,000 --> 00:21:02,000
+good support or you go to somebody else.
+否则你可以找其他人
+
+415
+00:21:02,000 --> 00:21:04,000
+With proprietory software,
+对于那些“版权所有”的软件
+416
+00:21:04,300 --> 00:21:07,000
+support is a monopoly, there is one company,
+服务是垄断性质的，一般只有一个公司提供服务
+417
+00:21:07,000 --> 00:21:09,600
+typically, that has the source code
+因为只有他们有源码
+
+418
+00:21:09,600 --> 00:21:11,500
+and only they can give you support
+所以也只有他们可以提供服务
+
+419
+00:21:12,100 --> 00:21:15,300
+so typically, you are at the mercy of a monopoly.
+这样你就一直在这种垄断的掌握之下
+
+420
+00:21:15,300 --> 00:21:17,600
+That's the case, for example with Microsoft.
+这方面的典型的就是微软
+
+421
+00:21:17,600 --> 00:21:20,900
+So no wonder the support is so bad.
+这也就难怪他们提供的服务这么差
+
+422
+00:21:20,900 --> 00:21:22,500
+The benefits of Free Software were
+自由软件的优点很多
+
+423
+00:21:22,500 --> 00:21:25,200
+tremendous but the cost of supporting it internally
+但是为它提供服务很难
+
+424
+00:21:25,800 --> 00:21:27,800
+uh, and made managers very very nervous and
+这使软件的管理者很不安
+
+425
+00:21:27,800 --> 00:21:31,500
+so the fundamental idea I had was
+if we can build a model
+所以我原先的想法是如果我们可以建立一种
+
+426
+00:21:31,500 --> 00:21:35,500
+that could deliver two to four times the support
+模式，它可以提供2 - 4倍的服务
+427
+00:21:35,500 --> 00:21:39,000
+and uh, and uh, and hand holding capability
+
+428
+00:21:39,000 --> 00:21:41,100
+that an internal engineer could provide.
+
+429
+00:21:41,100 --> 00:21:44,100
+And we could do it at 1/2 to 1/4 of the cost
+
+430
+00:21:44,100 --> 00:21:46,300
+that would meet the test of wether or not
+
+431
+00:21:46,300 --> 00:21:47,900
+people would actually buy.
+
+432
+00:21:47,900 --> 00:21:50,400
+And by about the Fall of that year, we had
+到了那年秋天，
+
+433
+00:21:50,400 --> 00:21:52,300
+all the things worked out about who
+我们已经拟定出所有的方案
+
+434
+00:21:52,300 --> 00:21:53,900
+needed on the technical team, what
+
+
+435
+00:21:53,900 --> 00:21:55,800
+the terms the sale would be, what
+
+436
+00:21:55,800 --> 00:21:57,600
+the key price point were, and we
+
+
+437
+00:21:57,600 --> 00:22:01,600
+actually received our incorporation in Nov of 1989.
+到了1989年11月，我们有了自己的组织。
+
+438
+00:22:02,200 --> 00:22:04,800
+One of the most difficult things in starting our company
+在公司创始之初，最大的困难之一就是
+439
+00:22:04,800 --> 00:22:06,400
+was actually finding a name for it.
+给它取个名字
+
+440
+00:22:06,400 --> 00:22:09,000
+I explained this to one of my friends
+我问了我的一个朋友
+441
+00:22:09,000 --> 00:22:10,400
+"we're having difficulty"
+
+442
+00:22:10,400 --> 00:22:12,900
+and he returned an e-mail message
+他回了一封e-mail给我
+443
+00:22:12,900 --> 00:22:16,800
+that basically just had a bunch of words
+with the name "GNU" in it.
+说公司名字里面应该有"GNU"三个字母
+
+444
+00:22:16,800 --> 00:22:21,600
+And "Cygnus" was the one that
+looked least obnoxious and least obscene.
+"Cygnus"是个不错的选择
+
+445
+00:22:22,100 --> 00:22:24,600
+I can say very clearly that Cygnus
+我可以明确的说 Cygnus
+
+446
+00:22:24,900 --> 00:22:28,600
+was the first business that specialized in Free Software.
+是第一个自由软件公司
+
+447
+00:22:28,800 --> 00:22:32,100
+Cygnus supported Free Software,
+Cygnus为自由软件提供服务
+
+448
+00:22:32,100 --> 00:22:36,100
+filled a very essential niche because
+we had this great software,
+填补了一个重要的空白。因为我们有了伟大的软件，
+
+449
+00:22:36,100 --> 00:22:40,100
+you could get it for nothing but
+you couldn't get support - they made their money
+你可以不费任何代价得到它，但是你却得不到服务。
+450
+00:22:40,300 --> 00:22:42,200
+by charging for support.
+他们通过为自由软件提供服务来赚钱
+
+451
+00:22:42,200 --> 00:22:45,900
+The GNU project started by building a toolkit,
+GNU项目是从建立一系列的工具开始的
+452
+00:22:45,900 --> 00:22:50,800
+a basic development tool such as
+a C compiler, a debugger, a text-editor,
+基本的开发工具，比如C编译器，调试器，文本编辑器
+
+453
+00:22:51,100 --> 00:22:54,500
+and uh, other necessary apparatus.
+还有一些其他的必备工具。
+
+454
+00:22:54,500 --> 00:22:59,000
+And their intention was eventually to
+develop a kernel to sit underneath those
+最后的目的就是开发一个内核
+
+455
+00:22:59,200 --> 00:23:01,600
+and be the center of the operating system.
+作为这个操作系统的中心。
+
+456
+00:23:01,600 --> 00:23:05,400
+By about 1990 they had successfully
+developed that toolkit,
+到了1990年，他们已经开发出必备的工具软件
+457
+00:23:05,400 --> 00:23:09,400
+and it was in wide use on great many variants of Unix.
+这些软件已经在很多Unix系统上得到广泛应用了
+458
+00:23:09,500 --> 00:23:12,100
+But there was still no free kernel.
+但是内核仍然是“非自由”的
+
+459
+00:23:12,100 --> 00:23:16,100
+The kernel happened to be
+one of the last things we started to do
+内核恰巧是我们最好要做的东西
+
+460
+00:23:16,400 --> 00:23:18,400
+and we had started it not long before.
+我们不久前才开始开发我们自己的内核
+
+461
+00:23:19,400 --> 00:23:22,400
+And that's when Linus Torvalds came along.
+就在那个时候，Linus加入进来
+
+462
+00:23:22,400 --> 00:23:25,700
+[ "Lin-us" or "Line-us"? What's the exact,
+do you prefer the pronunciation? ]
+[ Linux应该怎么发音？"Lin-us"，“Line-us"?
+你个人喜欢哪一种发音？]
+
+463
+00:23:26,000 --> 00:23:28,600
+um.. When I speak Swedish it's "Lee-nus";
+我说瑞典语的时候，是"Lee-nus"
+
+464
+00:23:28,600 --> 00:23:31,000
+when I speak Finnish it's "Leen-ous";
+说芬兰语的时候是”Leen-ous"
+
+465
+00:23:31,000 --> 00:23:32,800
+when I speak English it's "Line-us".
+说英语的时候是"Line-us"
+
+466
+00:23:32,800 --> 00:23:35,600
+And I really don't care how people pronounce my name.
+我本人并不关心人们怎么去读它
+
+467
+00:23:35,600 --> 00:23:38,400
+But "Linux" is always "Linux".
+
+468
+00:23:38,400 --> 00:23:42,800
+He developed a kernel, and got it working
+faster than we got ours working,
+他开发了一个内核，他的进度比我们要快
+
+469
+00:23:43,400 --> 00:23:45,900
+and got it to work very nicely and solidly.
+他的内核运行性能优越，运行稳定
+
+470
+00:23:45,900 --> 00:23:47,800
+His kernel is called "Linux".
+他把他的内核叫做"Linux"
+
+471
+00:23:48,300 --> 00:23:51,500
+The initial goal was my very personal goal
+开发Linux的最初目的是很个人化的
+472
+00:23:51,500 --> 00:23:55,100
+to be able to run a similar environment on my computer
+我在大学学习的时候，我习惯了那里的操作系统，所以我想
+473
+00:23:55,500 --> 00:23:59,300
+that I had grown used to at, at the university computers.
+在我自己的计算机上装一个类似的系统
+
+474
+00:23:59,900 --> 00:24:05,300
+And I could not find anything that suited me for that.
+我当时没有找到符合要求的现成系统
+
+475
+00:24:05,700 --> 00:24:09,400
+So having been doing computers for all my life basically.
+因为我今后一直要跟计算机打交道，
+476
+00:24:09,400 --> 00:24:12,500
+At that point I decided that I'll do my own.
+所以我决定自己开发一个这样的系统出来
+
+477
+00:24:13,000 --> 00:24:17,000
+Most of the inspiration early on came from, from SunOS
+在开发之初，很多灵感都来自于SunOS
+
+478
+00:24:17,600 --> 00:24:21,900
+which was what um,
+I was using at the university at the time.
+我在大学的时候就用的这个系统
+
+479
+00:24:21,900 --> 00:24:23,000
+[ Which University? ]
+[ 哪所大学？ ]
+
+480
+00:24:23,000 --> 00:24:24,700
+University of Helsinki in Finland.
+芬兰赫尔新基大学
+
+481
+00:24:25,600 --> 00:24:30,100
+From 1991 to about 1993 was really
+我认为从1991到1993
+
+482
+00:24:30,400 --> 00:24:32,700
+I guess the infancy period of Linux.
+是Linux发展的幼儿时期
+
+483
+00:24:32,700 --> 00:24:36,400
+That was when it was still only alpha or beta quality;
+那个时候Linux是处于开发与测试阶段
+
+484
+00:24:36,400 --> 00:24:38,800
+it was relatively unstable.
+并且相对来说很不稳定
+
+485
+00:24:38,800 --> 00:24:41,600
+Although, even then it was a good deal more stable
+不过那个时候的Linux比现在很多所谓的
+
+486
+00:24:41,600 --> 00:24:45,600
+than a lot of what are now called
+"production" operating systems.
+”成品“操作系统要稳定的多。
+
+487
+00:24:45,600 --> 00:24:49,600
+Linus used the traditional
+tried-and-true method of writing one program
+Linus使用传统的"tried-and-true"方式来写程序
+
+488
+00:24:50,500 --> 00:24:52,500
+that does the job,
+
+489
+00:24:52,700 --> 00:24:54,800
+and he got it to work.
+并且工作的很好
+
+490
+00:24:54,800 --> 00:24:58,500
+quickly in fact faster than
+I would have thought was possible.
+比我自己预计的要快的多
+
+491
+00:24:58,500 --> 00:25:01,500
+The term for it is "monolithic",
+Linux是单一内核的操作系统
+
+492
+00:25:01,500 --> 00:25:09,400
+which means that basically
+the OS itself is one entity, indivisible.
+也就是说操作系统本身是一个不可分的整体
+
+493
+00:25:11,100 --> 00:25:13,400
+uh, while in the microkernel,
+它不像微内核系统那样，
+
+494
+00:25:13,400 --> 00:25:15,900
+the, the operating system kernel is actually
+微内核系统实际上是一组服务，
+
+495
+00:25:17,600 --> 00:25:20,700
+uh, just a collection of servers that
+它们做不同的工作，
+
+496
+00:25:20,700 --> 00:25:23,500
+do different things and then they have a common protocol
+彼此通过一个共同的协议来通讯，
+
+497
+00:25:23,500 --> 00:25:25,700
+for doing communication between themselves.
+来协调它们的动作.
+
+498
+00:25:26,200 --> 00:25:31,800
+[ So why is that... the GNU project that's had
+so much lead-time, that's been doing this,
+[ 为什么GNU的内核开发的这么慢？
+
+499
+00:25:31,800 --> 00:25:35,100
+Why...Why is it that he was able to kinda
+come in at the tail end so to speak ]
+为什么
+
+500
+00:25:35,100 --> 00:25:40,800
+Well we actually started the
+GNU Hurd not long before he started Linux.
+
+501
+00:25:41,700 --> 00:25:45,700
+And it happened though we chose a design
+that's a very advanced design
+
+502
+00:25:46,300 --> 00:25:48,300
+in terms of the power gives you
+
+503
+00:25:48,300 --> 00:25:50,900
+but also turns out to be very hard to debug.
+
+504
+00:25:51,600 --> 00:25:57,300
+We decided to divide up the kernel
+which traditionally had been one program,
+
+505
+00:25:57,300 --> 00:25:59,600
+to divide it up into a lot of smaller programs
+
+506
+00:25:59,600 --> 00:26:03,600
+that would send messages to
+each other asynchronously to, to communicate.
+
+507
+00:26:05,600 --> 00:26:09,500
+The problem is that, that style of programming
+
+508
+00:26:09,500 --> 00:26:11,800
+has a great deal of potential for bugs,
+
+509
+00:26:11,800 --> 00:26:14,700
+which are often very hard to
+figure out because they depend on...
+
+510
+00:26:14,700 --> 00:26:22,100
+does this program send this message
+before or after this one sends that message...
+
+511
+00:26:22,300 --> 00:26:27,300
+And the result was:
+it took us years to get the thing to work.
+
+512
+00:26:28,300 --> 00:26:31,700
+[ What is Linux's relationship to the GNU project? ]
+
+513
+00:26:32,700 --> 00:26:39,100
+Well there's relationships to GNU
+on kind of multiple levels.
+
+514
+00:26:39,600 --> 00:26:43,600
+One is just the philosophical level of thinking that
+
+515
+00:26:44,200 --> 00:26:46,700
+"making your source open is a good idea".
+
+516
+00:26:47,300 --> 00:26:51,300
+When Linus developed the kernel
+he wasn't doing it for the GNU project.
+
+517
+00:26:51,300 --> 00:26:52,800
+He did it independently.
+
+518
+00:26:52,800 --> 00:26:56,200
+And he released it independently
+and we didn't know about it.
+
+519
+00:26:56,200 --> 00:26:58,500
+But some of the people who did know about it
+
+520
+00:26:58,500 --> 00:27:01,000
+decided to look for what else they could find
+
+521
+00:27:01,000 --> 00:27:04,300
+to put together with that kernel to
+make a whole system.
+
+522
+00:27:04,300 --> 00:27:08,300
+They looked around, and lo and behold
+everything they needed was already available.
+
+523
+00:27:08,500 --> 00:27:09,500
+They looked around, and lo and behold
+everything they needed was already available.
+
+524
+00:27:09,800 --> 00:27:11,600
+"What good fortune!" they thought.
+
+525
+00:27:11,600 --> 00:27:13,900
+But actually there was no chance about it.
+
+526
+00:27:13,900 --> 00:27:17,900
+They had found all the pieces of the
+GNU system which was missing just the kernel,
+
+527
+00:27:18,700 --> 00:27:20,600
+so when they put all that together
+
+528
+00:27:20,600 --> 00:27:24,600
+really they were fitting
+Linux into the gap in the GNU system.
+
+529
+00:27:25,200 --> 00:27:26,400
+But they didn't know that.
+
+530
+00:27:26,800 --> 00:27:30,800
+There's a lot of these programs
+
+531
+00:27:31,500 --> 00:27:34,600
+um, done by the Free Softwares Foundation,
+
+532
+00:27:34,600 --> 00:27:36,800
+and done by other people like Linux.
+
+533
+00:27:36,800 --> 00:27:40,800
+And there's a symbiosis between
+Linux and the programs
+
+534
+00:27:40,900 --> 00:27:44,700
+that the programs run on Linux and at the same time
+
+535
+00:27:44,700 --> 00:27:47,100
+and they take the advantage of Linux as a platform,
+
+536
+00:27:47,100 --> 00:27:50,700
+while Linux takes the advantage of the programs
+
+537
+00:27:50,700 --> 00:27:52,700
+by just being able to use them.
+
+538
+00:27:52,700 --> 00:27:54,300
+[ What...What programs? ]
+
+539
+00:27:54,700 --> 00:27:56,100
+umm...
+
+540
+00:27:56,100 --> 00:27:59,100
+The main one is actually the GNU C Compiler.
+
+541
+00:27:59,700 --> 00:28:03,300
+Which... Without a C compiler
+it would not have been possible
+
+542
+00:28:03,300 --> 00:28:09,500
+to make Linux or most of the open progress available.
+
+543
+00:28:10,500 --> 00:28:12,700
+Linux uses the GPL,
+
+544
+00:28:12,700 --> 00:28:17,400
+and I agree with a kind of philosophy behind the GPL.
+
+545
+00:28:18,500 --> 00:28:23,200
+That said the GPL itself is not a very pretty document
+
+546
+00:28:23,200 --> 00:28:27,800
+which is probably just because
+no lawyerese can ever be very pretty.
+
+547
+00:28:33,800 --> 00:28:37,800
+I'd been playing around with Linux for actually
+
+548
+00:28:38,000 --> 00:28:41,300
+late '92 or early '93 for about a year.
+
+549
+00:28:41,300 --> 00:28:45,900
+before I decided that it was to the point
+where actually had everything that I needed
+
+550
+00:28:46,200 --> 00:28:48,300
+to really replace a Sun Workstation.
+
+551
+00:28:48,300 --> 00:28:52,300
+And I was looking for a way to
+have a Unix workstation at home
+
+552
+00:28:52,400 --> 00:28:56,400
+at the time we used Sun Sparc Stations
+in the office at Stanford.
+
+553
+00:28:57,900 --> 00:29:00,400
+Those machines cost us about 7,000 dollars.
+
+554
+00:29:00,400 --> 00:29:02,900
+Now I desperately wanted a Unix machine at home!
+
+555
+00:29:02,900 --> 00:29:05,600
+There's always a this thought
+you get as you get a graduate student
+
+556
+00:29:05,600 --> 00:29:06,900
+"Gee... if I could work at home!
+
+557
+00:29:06,900 --> 00:29:08,800
+Then I would be so much more productive,
+
+558
+00:29:08,800 --> 00:29:11,900
+I would graduate sooner because
+I would finish my thesis sooner"
+
+559
+00:29:12,500 --> 00:29:16,000
+Well, Well, is it true? Well, you can judge.
+
+560
+00:29:16,000 --> 00:29:19,800
+You know most people end up spending a lot of their time
+
+561
+00:29:19,800 --> 00:29:21,300
+becoming more productive so that
+
+562
+00:29:21,300 --> 00:29:24,500
+they ever actually worked on their thesis
+they'll finish it in a day.
+
+563
+00:29:24,500 --> 00:29:26,200
+It takes a while sometimes.
+
+564
+00:29:26,200 --> 00:29:28,500
+So I decided that I wanted a Unix machine at home.
+
+565
+00:29:28,500 --> 00:29:32,500
+And I went out there I was able to
+use Linux together with the PC.
+
+566
+00:29:32,700 --> 00:29:36,500
+For about 2,000 dollars, I put together a system.
+
+567
+00:29:36,500 --> 00:29:39,400
+That was one and a half to two times faster
+
+568
+00:29:39,400 --> 00:29:42,100
+than that 7,000 dollars Sun Sparc Station.
+
+569
+00:29:42,100 --> 00:29:43,800
+It was absolutely amazing.
+
+570
+00:29:43,800 --> 00:29:46,800
+I had one and a half to two times the speed,
+
+571
+00:29:46,800 --> 00:29:49,500
+at a third to fourth the price.
+
+572
+00:29:49,500 --> 00:29:50,800
+Light bulbs went off.
+
+573
+00:29:50,800 --> 00:29:53,000
+I knew there was an opportunity here.
+
+574
+00:29:53,000 --> 00:29:57,000
+This was the chance to really do something
+better than what Sun has done
+
+575
+00:29:57,100 --> 00:29:59,700
+around open source and Linux.
+
+576
+00:30:00,100 --> 00:30:03,300
+I called it Linux originally as working name.
+
+577
+00:30:03,300 --> 00:30:06,800
+And that was just because Linus
+
+578
+00:30:06,800 --> 00:30:08,000
+and the it has to be there.
+
+579
+00:30:08,000 --> 00:30:10,100
+It's Unix. It's like a law.
+
+580
+00:30:11,400 --> 00:30:14,000
+And...what happened was that...
+
+581
+00:30:14,000 --> 00:30:17,800
+I initially thought that I can't call it Linux publicly,
+
+582
+00:30:17,800 --> 00:30:20,100
+because it is just too egotistical.
+
+583
+00:30:20,100 --> 00:30:22,400
+And that was before I had a big ego. Right?
+
+584
+00:30:22,400 --> 00:30:26,700
+They thought they were taking a whole bunch
+of components putting them around Linux
+
+585
+00:30:27,400 --> 00:30:30,400
+So they ended up calling the whole thing
+"A Linux System"
+
+586
+00:30:31,000 --> 00:30:33,100
+and somehow that term caught on.
+
+587
+00:30:33,100 --> 00:30:34,600
+And the result is
+
+588
+00:30:34,600 --> 00:30:38,600
+there are now ten million people using
+
+589
+00:30:38,600 --> 00:30:40,100
+this variant of the GNU system...
+
+590
+00:30:40,100 --> 00:30:42,400
+the GNU/Linux operating system.
+
+591
+00:30:42,800 --> 00:30:44,500
+And most of them don't know it.
+
+592
+00:30:44,800 --> 00:30:48,800
+[ Some people advocate it be described as GNU/Linux.
+
+593
+00:30:49,200 --> 00:30:52,300
+I mean what's your thought on
+that? I would say, justify or... ]
+
+594
+00:30:52,300 --> 00:30:57,600
+Well, I think it's justified but it is justified
+if you actually make GNU distribution of Linux.
+
+595
+00:30:58,000 --> 00:31:05,100
+The same way that I think that Red Hat Linux
+is fine or SuSE Linux, or Debian Linux.
+
+596
+00:31:06,000 --> 00:31:09,000
+Uh, because if you actually make your
+own distribution of Linux
+
+597
+00:31:09,000 --> 00:31:10,800
+You get to name the thing.
+
+598
+00:31:10,900 --> 00:31:14,900
+But calling Linux in general "GNU Linux"
+I think, is just ridiculous.
+
+599
+00:31:16,800 --> 00:31:18,600
+I got involved in Fall '93.
+
+600
+00:31:19,100 --> 00:31:25,100
+Because I was sent a copy of the first CD-ROM
+commercial Linux distribution,
+因为我拿到了一份第一份商业发行的Linux光盘拷贝
+
+601
+00:31:25,100 --> 00:31:28,500
+which was called Yggdrasi produced by Adam Richter.
+称之为Yggdrasi,由Adam Richter制作
+
+602
+00:31:28,900 --> 00:31:30,600
+And I got a copy because...
+我拿到这份拷贝是因为...
+
+603
+00:31:30,600 --> 00:31:34,500
+I had been myself writing Free Software for
+a long time since the early 80's.
+我在80年代早期就开始写自由软件。
+
+604
+00:31:34,500 --> 00:31:37,100
+I was actually one of the
+early GNU contributors myself.
+我是早期的GNU贡献者之一
+
+605
+00:31:37,900 --> 00:31:39,800
+And I was absolutely astonished,
+我绝对的被震惊了
+
+606
+00:31:39,800 --> 00:31:41,300
+I was completely astonished.
+我完全被震惊了
+
+607
+00:31:41,300 --> 00:31:45,300
+Because I've been a software engineer
+for nearly 15 years at that point.
+因为我在这一行做软件工程师已经做了近15年
+
+608
+00:31:46,000 --> 00:31:48,200
+And according to all the rules I knew...
+依照我知道的所有关于
+
+609
+00:31:48,200 --> 00:31:51,900
+about controlling complexity,
+keeping a project group small,
+控制复杂性的规定，保持团队的灵巧
+
+610
+00:31:51,900 --> 00:31:54,700
+having closely managed objectives.
+是管理的目标
+
+611
+00:31:54,700 --> 00:31:57,000
+Linux should have been a disaster, and it wasn't.
+Linux应该是一个灾难，但是它不是。
+
+612
+00:31:57,000 --> 00:31:59,100
+Instead, it was something wonderful,
+相反的，它是个令人惊奇的东西
+
+613
+00:31:59,100 --> 00:32:02,400
+and I was determined to figure out
+how they were getting a way with that.
+我坚决的想指出他们只怎么做到的
+
+
+614
+00:32:04,500 --> 00:32:07,900
+In order for Linux to grow beyond
+the world of the computer programmer
+为了让Linux成长超越世界上的计算机程序员//fixme
+
+615
+00:32:07,900 --> 00:32:11,900
+It needed a use and application
+that made it a must-have technology
+它需要一个让他成为必不可少的技术的用武之地
+
+616
+00:32:12,600 --> 00:32:13,900
+That threshold was crossed
+开端在于
+
+617
+00:32:13,900 --> 00:32:17,700
+with the development of a program
+that made complex websites possible
+开发了一个使建设复杂网站变成可能程序
+
+618
+00:32:18,200 --> 00:32:20,600
+That program is the Apache web server.
+这个程序就是Apache网站服务器
+
+619
+00:32:21,300 --> 00:32:24,600
+The killer app of Linux was undoubtedly
+the Apache web server.
+Linux里最招人喜欢的软件无疑就是Apache
+
+620
+00:32:25,200 --> 00:32:27,100
+If you look at the history of Linux,
+如果你看看Linux的历史
+
+621
+00:32:27,100 --> 00:32:28,800
+the adoption curve of Linux and
+the adoption curve of the Internet
+Linux和Internet的发展路线
+
+622
+00:32:28,800 --> 00:32:31,600
+the adoption curve of Linux and
+the adoption curve of the Internet
+Linux和Internet的发展路线
+
+623
+00:32:31,600 --> 00:32:33,100
+exactly track each other.
+正好相互交融
+
+624
+00:32:33,100 --> 00:32:38,100
+1993, which was when the Apache
+web server project really got started,
+1993年，Apache项目正式启动
+
+625
+00:32:38,100 --> 00:32:41,700
+was also the beginnings of the popular ISP explosion
+正好也是流行的ISP爆发的开始
+
+626
+00:32:41,700 --> 00:32:45,500
+when the Internet first became a mass market commodity
+当Internet第一次成为日用品时
+
+627
+00:32:45,500 --> 00:32:47,900
+and the idea of web-based electronic commerce
+以网站为基础的电子商务
+
+628
+00:32:47,900 --> 00:32:50,300
+and, and mass communication became real.
+和复杂的通信成为了可能
+
+629
+00:32:50,900 --> 00:32:54,100
+I think it was one of the first applications
+that caused people to go
+我想那是人们去做的第一个理由
+
+630
+00:32:54,100 --> 00:32:56,000
+"Well, if I install Linux."
+"那好吧，如果我安装Linux
+
+631
+00:32:56,000 --> 00:32:59,000
+I get some tangible benefit from doing so, right?
+我能得到一些实际的好处，是吧？"
+
+632
+00:32:59,500 --> 00:33:02,800
+I mean, clearly there were a lot of
+interesting applications on Linux
+我的意思是，Linux有很多有趣的应用
+
+633
+00:33:02,800 --> 00:33:04,700
+at, at the time, this being maybe
+two or three years ago,
+在那时候，大约2－3年以前
+
+634
+00:33:04,700 --> 00:33:06,600
+when the root thing really started to take off
+当root真正的开始起飞//fixme
+
+635
+00:33:06,600 --> 00:33:09,300
+but there wasn't a driving, you know,
+但是没有一个驱动，你知道吗？
+
+636
+00:33:09,300 --> 00:33:10,600
+you could almost say business case
+你可以和和其他人谈论
+
+637
+00:33:10,600 --> 00:33:13,500
+for someone to use Linux versus using NT
+使用Linux相对于NT的商业案例
+
+638
+00:33:13,500 --> 00:33:16,800
+until, I think, Apache and
+a lot of the things that plugged into Apache
+直到，我想，Apache和很多Apahce的插件
+
+639
+00:33:16,800 --> 00:33:18,300
+enhanced Apache
+增强了Apache
+
+640
+00:33:18,300 --> 00:33:21,300
+I mean, when you want to go out and build..
+go out to build a server farm
+我指的是，当你想去建...建一个服务器
+
+641
+00:33:21,800 --> 00:33:23,600
+It was much more cost effective
+会有更多的投资回报
+
+642
+00:33:23,600 --> 00:33:24,200
+cost effective
+投资回报
+
+643
+00:33:24,200 --> 00:33:29,100
+real dollar returns to build it on Linux and Apache
+than was to build it on IIS and NT
+用Linux和Apache建服务器比用IIS和NT返回更多的美金
+
+644
+00:33:29,100 --> 00:33:31,500
+even if it meant that you have to
+spend a little bit of money
+即使你必须花一点钱
+
+645
+00:33:31,500 --> 00:33:33,100
+to train your staff to learn how to use that or
+去训练你的职员他哦学习怎样使用
+
+646
+00:33:33,100 --> 00:33:34,800
+to find people who were people who
+were knowledgeable.
+或发现谁有这种知识
+
+647
+00:33:34,800 --> 00:33:35,900
+But the good news was that
+但好消息是
+
+648
+00:33:35,900 --> 00:33:37,600
+the knowledge wasn't very expensive
+这种知识并不很贵
+
+649
+00:33:37,600 --> 00:33:39,300
+because there were all those college students out there
+因为那些大学生
+
+650
+00:33:39,300 --> 00:33:42,700
+who'd been using Linux for a long time
+and were very familiar with it.
+使用Linux已经很长时间了，而且对这个很熟悉。
+
+651
+00:33:42,700 --> 00:33:45,900
+If you look at the trend curves in web servers
+如果你看网络服务的发展过程
+
+652
+00:33:45,900 --> 00:33:49,600
+Apache has steadily been gaining
+a market share ever since
+Apache从一开始就在温步的增加市场份额
+
+653
+00:33:49,600 --> 00:33:52,100
+it's up to something like 66% now
+现在已经到了66%了
+
+654
+00:33:52,100 --> 00:33:55,300
+It's steadily clobbered
+all of the closed source competition
+它渐渐的打败了所有不开放源代码的竞争者
+
+655
+00:33:55,300 --> 00:33:59,700
+And that's because it's more reliable
+it's more flexible, it's more extensible
+所有这些都是因为它更可靠,更灵活,更有扩展性
+
+656
+00:33:59,700 --> 00:34:03,000
+It does what webmasters actually need
+它做到了那些网管需要的
+
+657
+00:34:03,200 --> 00:34:06,000
+and the combination of Apache and Linux
+而且Apache和Linux的结合
+
+658
+00:34:06,000 --> 00:34:08,300
+found its way into a great many commercial shops.
+开始出现在很多的商店里
+
+659
+00:34:09,200 --> 00:34:13,800
+Essentially, Apache became the application
+that motivated Internet service providers
+本质上,Apache成为推动Internet服务供应的应用软件
+
+660
+00:34:13,800 --> 00:34:17,800
+and e-commerce companies to choose Linux
+over Microsoft's Windows.
+同时让电子商务公司更多的选择Linux而不是Microsoft的Windows
+
+661
+00:34:19,000 --> 00:34:22,100
+It would probably runs best on Linux and on FreeBSD
+可能它在Linux和FreeBSD上运行的更好
+
+662
+00:34:22,100 --> 00:34:25,700
+and the reason is the
+communities around those operating systems
+而且原因是那些研究操作系统的俱乐部
+
+663
+00:34:25,700 --> 00:34:30,100
+are also the communities that
+contribute the most back to Apache, right?
+也是在背后给与Apache最大贡献的俱乐部，对吧？
+
+664
+00:34:30,100 --> 00:34:34,100
+And there were also the operating systems
+that Internet service providers
+而且那些Internet服务供应商
+
+665
+00:34:34,100 --> 00:34:35,900
+started using very heavily as well
+一开始使用的操作系统非常笨重
+
+666
+00:34:36,500 --> 00:34:39,400
+and Internet service providers really liked Apache
+Internet服务供应商非常喜欢Apache
+
+667
+00:34:39,400 --> 00:34:40,800
+because it allowed them to do
+因为它可以让他们去做
+
+668
+00:34:40,800 --> 00:34:44,100
+a lot of different things
+that some of the commercial web servers didn't
+很多一些其他的商用网络服务器不能做的事情，
+
+669
+00:34:44,100 --> 00:34:48,100
+such as the ability to host more than
+one web site on a single box, which clearly
+比如可以在一台机子上建立多个网站
+
+670
+00:34:48,200 --> 00:34:50,800
+if you are an ISP and you would have 40,000 users
+如果你是ISP你有4万个用户
+
+671
+00:34:50,800 --> 00:34:52,000
+and they all want their web site
+他们都需要他们自己的个人网站
+
+672
+00:34:52,000 --> 00:34:53,600
+it's gonna be pretty important to you.
+那这一点对你来说是非常重要的
+
+673
+00:34:54,900 --> 00:34:57,200
+one of the key factors in the growth of Linux was
+在Linux的成长中一个重要的事情是
+
+674
+00:34:57,200 --> 00:35:00,000
+the creation of companies that
+specialized in the distribution
+创建一些专门发行和
+
+675
+00:35:00,000 --> 00:35:02,100
+and support of the Operating System itself
+提供操作系统服务的公司
+
+676
+00:35:02,300 --> 00:35:05,700
+Among these companies,
+Red Hat Software is the best known.
+在这些公司里Red Hat Software是最著名的
+
+677
+00:35:05,700 --> 00:35:09,100
+Red Hat started as a product of Marc Ewing
+Red Hat是由Marc Ewing组创的
+
+678
+00:35:09,100 --> 00:35:10,700
+while he was working at IBM.
+他曾经在IBM工作
+
+679
+00:35:10,700 --> 00:35:12,700
+He wanted a little better Linux distribution
+他想要一个好一点的Linux发行版
+
+680
+00:35:12,700 --> 00:35:14,100
+he started playing around,
+他开始使用Linux
+
+681
+00:35:14,100 --> 00:35:18,100
+found out he uh, he spent more time
+maintaining his Linux distribution
+发现他uh，他花了更多的时间在维护他的Linux上
+
+682
+00:35:18,300 --> 00:35:21,300
+than he did uh,
+than he did working on his new project.
+而不是使用，然后他开始他的新的项目
+
+683
+00:35:21,300 --> 00:35:25,000
+So he uh, sort of started the distribution himself
+所以他uh,开始自己发行了
+
+684
+00:35:25,000 --> 00:35:26,600
+He met up with Bob Young,
+他和Bob Young见了面
+
+685
+00:35:26,600 --> 00:35:29,500
+who at the time was running company called
+ACC Bookstore
+Bob Young在当时开了一个ACC书店的公司
+
+686
+00:35:29,500 --> 00:35:32,900
+which was a mail-order PC Unix uh, catalog
+那个公司是一个邮购PC Unix uh, 目录的公司
+
+687
+00:35:32,900 --> 00:35:34,800
+And Bob kind of knew he wanted something,
+Bob有一些了解他想要什么
+
+688
+00:35:34,800 --> 00:35:36,900
+you know, more his own to market,
+你知道吗，增强自己的市场
+
+689
+00:35:36,900 --> 00:35:39,300
+rather than reselling other people's products
+比卖别人的产品要好
+
+690
+00:35:39,300 --> 00:35:42,400
+And he was fairly good at marketing, and...
+他非常善于做市场，然后...
+
+691
+00:35:42,400 --> 00:35:43,800
+Mark knew he needed some marketing help
+Mark了解他需要更多的市场帮助
+
+692
+00:35:43,800 --> 00:35:46,800
+because he was very good at the technical parts,
+so they kinda got together
+因为他非常善于技术所以他们走到了一起
+
+693
+00:35:46,800 --> 00:35:51,100
+I started working with Red Hat in May of 1995,
+basically right out of NC State.
+我在1995年5月加入了Red Hat，主要在北卡罗来纳州
+
+694
+00:35:51,100 --> 00:35:56,100
+along with Eric Troan who, me and him
+combined make up employees #4 and #5.
+和Eric Troan在一起，我们一起成为了第四第五个职员
+
+695
+00:35:57,000 --> 00:36:01,000
+We actually reported to work in an apartment
+that Mark Ewing used to live in
+我们实际上在一个Mark Ewing曾经住过的房间工作和汇报
+
+696
+00:36:02,300 --> 00:36:06,200
+We took it over as kind of
+the development part of Red Hat software
+我们接管了一些Red Hat软件的开发工作
+
+697
+00:36:06,200 --> 00:36:10,100
+and stayed that way till about November of 1995 when...
+一直这样直到1995年的11月
+
+698
+00:36:10,300 --> 00:36:12,900
+a toilet we had in the apartment kind of exploded,
+当时我们房间的一个马桶爆炸了
+
+699
+00:36:12,900 --> 00:36:14,300
+flooded our downstairs neighbor
+漏到了我们楼下的邻居
+
+700
+00:36:14,300 --> 00:36:17,400
+and she got little upset and...
+她有些生气而且...
+
+701
+00:36:17,400 --> 00:36:19,600
+the apartment folks found out
+we were running a business there
+公寓里的人们发现我们在做商业化的东西
+
+702
+00:36:19,600 --> 00:36:21,700
+instead of actually living there the same time
+而不是在那里生活
+
+703
+00:36:21,700 --> 00:36:23,100
+So they decided to throw us out.
+所以他们把我们赶了出来
+
+704
+00:36:23,100 --> 00:36:25,300
+So at that point, we had about a week to go find
+所以，我们花了近一个星期去找
+
+705
+00:36:25,300 --> 00:36:27,600
+our first office, which we did
+我们第一个办公室，我们找到了
+
+706
+00:36:27,600 --> 00:36:29,600
+and get ourselves moved in a hurry
+并立刻搬了进去
+
+707
+00:36:40,100 --> 00:36:45,100
+We started going in again '95 or so
+to the venture capital firms,
+我们在95年又开始了，并找了风险投资机构
+
+708
+00:36:45,100 --> 00:36:48,000
+asking, saying, there's something happening here.
+告诉他们这里将会发生什么
+
+709
+00:36:48,000 --> 00:36:50,100
+There's a great business opportunity,
+那是一个巨大的商业机遇，
+
+710
+00:36:50,100 --> 00:36:54,100
+to build the next Sun for open source.
+去为open source成立一个Sun
+
+711
+00:36:54,300 --> 00:36:57,500
+Well, the venture capitalists looked at this and said
+当然，风险投资商看了这个说
+
+712
+00:36:57,500 --> 00:37:00,000
+"Gee, you are selling systems
+"天哪，你们在在卖系统
+
+713
+00:37:00,000 --> 00:37:02,100
+the software is free. This is kind of scary.
+而软件是免费的。这太可怕了。
+
+714
+00:37:02,100 --> 00:37:04,600
+We're not sure that we want to put money in. And...
+我们不能确定会往这里投资。而且...
+
+715
+00:37:04,600 --> 00:37:08,000
+by the way, we funded other systems companies
+顺便说，我们成立了其他一些系统公司
+
+716
+00:37:08,000 --> 00:37:10,900
+and it hasn't really panned out. We are scared."
+没有一个成功的。我们很害怕。
+
+717
+00:37:13,100 --> 00:37:16,200
+I came to the US about 3 years ago,
+我3年前来到了美国
+
+718
+00:37:16,200 --> 00:37:18,500
+and the reason really was that I'd been spending
+原因是我已经在
+
+719
+00:37:19,800 --> 00:37:22,800
+like 6 or 7 years at Helsinki University.
+赫尔辛基大学呆了6到7年
+
+720
+00:37:22,800 --> 00:37:27,100
+and decide it was time to see the real world
+and not just university life.
+我决定该是时候离开学校看看真实世界了
+
+721
+00:37:27,100 --> 00:37:32,100
+Especially this area had a lot of the most
+interesting work being done.
+尤其是这个领域有很多最有趣的东西去做
+
+722
+00:37:33,600 --> 00:37:35,400
+So I just decided that...
+所以我决定...
+
+723
+00:37:35,400 --> 00:37:39,400
+let's try to move half way across the world,
+让我们跨越半个地球
+
+724
+00:37:39,900 --> 00:37:41,100
+and give this a try.
+来试一试
+
+725
+00:37:41,100 --> 00:37:43,100
+And it's turned out pretty well.
+而且变得很好
+
+726
+00:37:43,100 --> 00:37:46,000
+[ Ah...you see this as temporary or long term? ]
+[ah..你把这个看作是暂时的还是长期的计划？]
+
+727
+00:37:46,500 --> 00:37:49,100
+Well, we saw it as temporary at first.、
+嗯，我现实把它看作是一个暂时的...
+
+728
+00:37:49,100 --> 00:37:53,100
+And I think it's certainly looking like
+it's turning into long term.
+我想它的确看上去再变成一个长期的计划
+
+729
+00:37:53,400 --> 00:37:56,900
+Our youngest daughter is
+both US and Finnish citizen,
+我的小女儿同时是美国和芬兰公民
+
+730
+00:37:56,900 --> 00:37:58,400
+because she was born here
+因为她在这里出生
+
+731
+00:37:59,000 --> 00:38:03,000
+and the older one is speaking
+both Swedish and English, so...
+大女儿同时讲瑞典语和英语，所以...
+
+732
+00:38:27,200 --> 00:38:31,200
+The next major event was one that
+I had directed hand in.
+下一个主要的事是我现在在指导的事
+
+733
+00:38:31,300 --> 00:38:34,100
+I wrote a paper, called
+"The Cathedral & the Bazaar".
+我写了一封论文，叫做"大教堂和杂货店"
+
+734
+00:38:34,100 --> 00:38:37,800
+which was my observations,
+my anthropological analysis
+那是我通过观察，然后分析
+
+735
+00:38:37,800 --> 00:38:40,100
+of what it was that made
+the open source world work.
+是什么让open source世界运作的
+
+736
+00:38:40,100 --> 00:38:45,400
+We didn't call it that then. We were still
+using the term "Free Software" primarily.
+我们当时并不这样叫它。我们当时还主要使用"自由软件"这个术语
+
+737
+00:38:45,400 --> 00:38:48,100
+So it was my observation of
+what made the Free Software world work
+所以这是我对什么使自由软件世界运作的观察
+
+738
+00:38:48,100 --> 00:38:52,400
+and why we were able to
+produce extremely high quality software
+和为什么我们有能力
+
+739
+00:38:52,900 --> 00:38:56,900
+in spite of constantly violating all of
+the standard rules of software engineering
+在兼职不懈的冒犯软件工程的所有规定的精神下设计出非常有品质的软件
+
+740
+00:38:57,800 --> 00:39:00,500
+In that paper, I was setting up a contrast
+在这篇论文里，我建立了一个
+
+741
+00:39:00,500 --> 00:39:02,700
+between two different styles of development,
+在两种不同模式的发展之间的对比
+
+742
+00:39:02,700 --> 00:39:04,400
+two opposed styles of development.
+这是两种相反模式的发展
+
+743
+00:39:04,400 --> 00:39:10,000
+One, which is the
+conventional closed development style,
+其一是传统的封闭的发展
+
+744
+00:39:10,000 --> 00:39:12,500
+which I called the "Cathedral" style.
+我称它为"大教堂"模式
+
+745
+00:39:12,500 --> 00:39:15,800
+In that one, you have
+tight specification of objectives.
+在那个模式里面，你有非常严谨的目标规划
+
+746
+00:39:15,800 --> 00:39:21,100
+Small project groups which are run
+in a fairly hierarchical authoritarian manner.
+小项目团体是在一个公平的等级验证风格里运作的
+
+747
+00:39:22,300 --> 00:39:24,800
+And you have long release intervals
+而你有长时间的发布间隔
+
+748
+00:39:25,600 --> 00:39:28,500
+On the other hand,what I identified
+is happening in the Linux world
+另一个，我定义成是一个发生在Linux世界
+
+749
+00:39:28,500 --> 00:39:34,100
+was a much more peer to peer decentralized,
+market or bazaar-like style,
+有着更多同等的分散结构，类似于市场或杂货店模式
+
+750
+00:39:34,500 --> 00:39:36,100
+which has a very short release intervals
+它有非常短的发布间隔
+
+751
+00:39:36,100 --> 00:39:41,100
+and constant solicitation of feedback from people
+who are formally outside of the project.
+而且坚持更求项目外人员的反馈。
+
+752
+00:39:41,100 --> 00:39:45,100
+A very intense peer review process.
+一个非常平等的回顾过程。
+
+753
+00:39:45,400 --> 00:39:48,100
+And the startling thing was that the more I looked at this,
+令人吃惊的是，当我越观察这种模式的时候
+
+754
+00:39:48,100 --> 00:39:52,100
+the more it seemed that trading away
+all the supposed advantages
+它看上去越来越超过了原来认为的
+
+755
+00:39:52,900 --> 00:39:55,000
+of conventional closed development,
+传统封闭发展的优势
+
+756
+00:39:55,000 --> 00:39:59,000
+for that one single advantage
+of massive independent peer review
+因为这一个宏伟的平等自主的回顾方式的优势
+
+757
+00:39:59,000 --> 00:40:03,000
+actually seemed to win,
+actually seemed to get you good results.
+真的看上去要赢了，真的看上去帮你得到了好的结果。
+
+758
+00:40:06,500 --> 00:40:08,400
+The reason Netscape is important is
+一个主要原因是Netscape
+
+759
+00:40:08,400 --> 00:40:13,300
+that they were the first large company
+to participate in open source.
+他们是第一个参加open source的大公司
+
+760
+00:40:13,300 --> 00:40:15,100
+We had Cygnus providing support,
+我们有Cygnus提供支持
+
+761
+00:40:15,100 --> 00:40:17,700
+but we didn't really have much business.
+但是我们并不真正的有很多生意。
+
+762
+00:40:17,700 --> 00:40:21,500
+And Netscape went open source essentially
+as a way to fight Microsoft.
+而且Netscape加入open source本质上是一种对抗Microsoft的方法。
+
+763
+00:40:21,500 --> 00:40:25,300
+Which was giving away Internet Explorer,
+这是一种脱离Internet Explorer的方法
+
+764
+00:40:25,300 --> 00:40:29,300
+but not letting anyone else have the source code,
+not letting companies collaborate.
+但是不让任何人拥有源代码，不让其他公司合作
+
+765
+00:40:30,300 --> 00:40:32,000
+Working as part of the sales force, I got a bit of,
+作为销售人员，我得到了很多，
+
+766
+00:40:32,000 --> 00:40:34,400
+I got a good idea of.. of why people bought our software
+我得到了一个想法...一个关于为什么人们买我们的软件
+
+767
+00:40:34,400 --> 00:40:38,400
+and what it took to make our software successful
+in the marketplace against competitive products.
+和什么让我们的软件成功的击败竞争产品占领市场的想法。
+
+768
+00:40:39,800 --> 00:40:41,100
+However, the problem was,
+但是，问题是，
+
+769
+00:40:41,100 --> 00:40:44,700
+we were seeing, as that, as time went on,
+我们在看，同时，时间在流逝，
+
+770
+00:40:44,700 --> 00:40:48,100
+our software was uh,
+我们的软件uh，
+
+771
+00:40:48,100 --> 00:40:51,900
+being competed against by other
+people's software, particularly Microsoft's
+被别人的软件，特别是Microsoft的完全打败了
+
+772
+00:40:51,900 --> 00:40:55,700
+and as time went on, the price of our software had to drop
+随着时间的流逝，我们软件的价格被迫下跌
+
+773
+00:40:55,700 --> 00:40:57,800
+because other people were giving their software away
+因为其他人得到了他们的软件
+
+774
+00:40:57,800 --> 00:41:00,800
+at no charge or at little charge.
+不要付钱或者一点点钱
+
+775
+00:41:00,800 --> 00:41:03,000
+Now the real problem was that they feared
+现在现实的问题是他们害怕
+
+776
+00:41:03,000 --> 00:41:06,500
+Microsoft would achieve a monopoly lock on the browser market
+Microsoft会到达一个浏览器市场垄断的地位
+
+777
+00:41:06,500 --> 00:41:10,300
+and they would then use that monopoly lock to
+然后他们会用那种垄断的地位
+
+778
+00:41:10,300 --> 00:41:11,900
+pervert actually,
+随意修改
+
+779
+00:41:11,900 --> 00:41:15,900
+the HTTP and HTML standards that the web depends on.
+那些网站依赖的HTTP和HTML标准。
+
+780
+00:41:15,900 --> 00:41:19,900
+And once they had turned those
+standards in to lock in devices,
+他们一旦使了这些协议成为了他们垄断的策略
+
+781
+00:41:19,900 --> 00:41:23,900
+they could then use that control
+to drive Netscape out of the server market,
+他们就可以用那些协议把Netscape驱赶出服务器市场，
+
+782
+00:41:24,300 --> 00:41:26,600
+which was where it was making its real money.
+那个才是真正赚钱的地方
+
+783
+00:41:26,600 --> 00:41:29,500
+My concern was that as time went on,
+我关心的是随着时间继续，
+
+784
+00:41:31,000 --> 00:41:33,300
+Netscape's business would be threatened,
+Netscape的业务会受到威胁，
+
+785
+00:41:33,300 --> 00:41:37,100
+by the fact that we didn't have enough people
+to do what we needed to do as a company
+事实上是我们没有足够的人做一个公司需要做的事
+
+786
+00:41:37,100 --> 00:41:41,000
+in order to keep our software viable in the marketplace.
+去保持我们软件的市场地位
+
+787
+00:41:41,500 --> 00:41:45,300
+The Netscape release happened in early 1998.
+Netscape早在1998年就发布了
+
+788
+00:41:45,300 --> 00:41:49,300
+And uh, I was told later, I had no idea at the time,
+然后uh，我后来才被告知的，我当时完全不知道
+
+789
+00:41:50,300 --> 00:41:52,600
+that it came about as a direct result of
+直接导致的结果是
+
+790
+00:41:52,600 --> 00:41:55,400
+the right people having read
+"The Cathedral and the Bazaar".
+一个恰当的人读了"大教堂和杂货店"
+
+791
+00:41:55,900 --> 00:41:59,600
+"The Cathedral and the Bazaar",
+the paper by Eric Raymond,
+"大教堂和杂货店"Eric Raymond写的论文
+
+792
+00:41:59,600 --> 00:42:05,200
+was a significant influence on
+Netscape's decision to release source code.
+对Netscape决定发布源代码有着及其重大的影响
+
+793
+00:42:05,900 --> 00:42:08,100
+It came as a complete shock to me.
+那对我来说是一个巨大的震惊
+
+794
+00:42:08,100 --> 00:42:10,300
+I wasn't really ready for the thought
+我根本没有准备好
+
+795
+00:42:10,300 --> 00:42:12,500
+that I was changing the world even by accident.
+我因为一个意外改变了整个世界
+
+796
+00:42:13,200 --> 00:42:17,200
+However he was not by any means
+the only influence on that decision.
+无论怎样，从任何意义上来说他不是这个决定的唯一影响。
+
+797
+00:42:17,500 --> 00:42:19,700
+Uh, and not necessarily the most important one,
+uh，而且不是必要的最重要的一个
+
+798
+00:42:19,700 --> 00:42:21,400
+when all is said and done.
+当一切已经公布于众以后
+
+799
+00:42:21,400 --> 00:42:23,600
+As I said, Netscape,
+就像我说的，Netscape，
+
+800
+00:42:23,600 --> 00:42:27,600
+Netscape had already been talking about
+releasing source code for quite some time before
+Netscape曾有好几次提起过要开放源代码
+
+801
+00:42:28,300 --> 00:42:30,200
+anyone ever heard of Eric's paper.
+曾有人从Eric的文章中看到这消息的。
+
+802
+00:42:30,600 --> 00:42:32,600
+Linux Congress in early 1997,
+1997初的Linux大会
+
+803
+00:42:32,600 --> 00:42:35,600
+which was the first place that I gave that paper.
+也就是我第一次发出这个消息的地方
+
+804
+00:42:35,900 --> 00:42:39,900
+And one of the people who heard it was
+Tim O'Reilly of O'Reilly and Associates.
+其中一个人听说这是Tim O'Reilly和他的同事
+//fixme:unknow meanings
+
+805
+00:42:40,400 --> 00:42:43,300
+And uh, he thought it was pretty intriguing
+并且，嗯，他认为这很吸引人。
+
+806
+00:42:43,300 --> 00:42:47,300
+and he asked me to give it at
+his first PERL conference, which was uh..
+于是他邀请我在他的第一个Perl会议上给他，
+
+807
+00:42:47,300 --> 00:42:49,900
+later that year, in Fall of 97.
+嗯，也就是那年的后半年，97年秋。
+
+808
+00:42:50,600 --> 00:42:52,500
+And apparently what happened, I was told later,
+然而似乎发生了什么事情，我被告知会议推迟了，
+
+809
+00:42:52,500 --> 00:42:55,000
+although I had no idea that this was happening at the time,
+尽管我对当时发生了什么事毫不知情，
+
+810
+00:42:55,400 --> 00:43:01,500
+uh is that some people from Netscape actually
+heard the paper at the PERL conference
+嗯，而事实上是一些Netscape的人从Perl会议听说了这个消息。
+
+811
+00:43:01,500 --> 00:43:05,500
+and took those ideas back to Netscape and
+they kind of lit a fire there.
+然后把这些主意带回Netscape，并且引起了很大的争论。
+//fixme:unsure
+
+812
+00:43:05,600 --> 00:43:09,600
+The role of my paper was essentially
+to make the internal case at Netscape, uh
+我的文章的中心本质上是,让Netscape以内部举措,嗯
+//fixme:unsure
+
+813
+00:43:09,700 --> 00:43:13,700
+to make the business case for
+why Netscape should release its source code.
+是商业举措，来开放他的源代码。
+//fixme:unsure
+
+814
+00:43:13,900 --> 00:43:17,500
+The paper was called
+"Netscape Source Code As Netscape Product".
+这篇文章叫做“作为Netscape产品的源代码”
+
+815
+00:43:18,200 --> 00:43:22,200
+uh.. a strange title,
+essentially what the title meant was that
+嗯，一个奇怪的标题，实际上标题的意思是
+
+816
+00:43:22,800 --> 00:43:24,000
+In my opinion we needed to
+我的意思是我们需要
+
+817
+00:43:24,100 --> 00:43:27,900
+think of source code not just as something
+that was used in creating our products,
+把源代码不仅仅考虑成用于创早我们产品的东西，
+
+818
+00:43:27,900 --> 00:43:30,100
+but as something that was a product in its own right.
+而是源代码本身就是一个产品
+
+819
+00:43:30,500 --> 00:43:33,200
+Something that customers might use, other people might use.
+用户也许会使用，其他人也可能使用。
+
+820
+00:43:33,700 --> 00:43:36,500
+I then looked at what the business models might be
+然后我看到了一个可能的商业模型
+
+821
+00:43:36,500 --> 00:43:39,400
+if we released source code for our products.
+如果我们开放我们代码，作为产品。
+
+822
+00:43:39,400 --> 00:43:41,100
+How would we license them?
+我们用什么许可证呢？
+
+823
+00:43:41,100 --> 00:43:45,100
+How do we sell products in this environment?
+在这种环境下如何卖产品？
+
+824
+00:43:46,400 --> 00:43:49,600
+Then I looked at the competition, particularly Microsoft.
+然后我们看了一下竞争对手，尤其是微软。
+
+825
+00:43:49,600 --> 00:43:52,200
+What would they be likely to do
+if we released source code?
+如果我们开放代码，他们可能做的事情是什么？
+
+826
+00:43:52,200 --> 00:43:54,800
+Was there some way they could
+use our source code against us?
+他们有什么办法利用我们的代码与我们竞争？
+
+827
+00:43:54,800 --> 00:43:58,800
+I used Eric's paper as an example of
+how distributed development could work,
+我用Eric的文章作为例子，证明分布式的开放是有效的，
+
+828
+00:43:59,600 --> 00:44:03,400
+how a company could develop software not
+just using their own people,
+一个公司如何开放产品？并不仅仅依赖他自身的员工，
+
+829
+00:44:03,400 --> 00:44:06,200
+but also working with people on the Internet.
+还依赖Internet上面的人们。
+
+830
+00:44:07,300 --> 00:44:10,900
+And that's why I included a reference to
+Eric's paper in my paper.
+这就是我为什么在我的文章中引用了Eric的文章。
+
+
+831
+00:44:11,200 --> 00:44:12,700
+Once my paper was circulated,
+一旦我的文章传播出去，
+
+832
+00:44:12,700 --> 00:44:15,100
+the people who read my paper would naturally enough
+读过的人们很自然会通过这个引用，
+
+833
+00:44:15,100 --> 00:44:18,100
+find a reference to Eric's paper
+and read that as well.
+来寻找Eric的文章，并一起阅读。
+
+834
+00:44:18,100 --> 00:44:20,700
+[ And who was involved in
+making that happen at Netscape? ]
+[ Netscape公司里还有谁和此事有关？]
+
+835
+00:44:21,700 --> 00:44:25,100
+Primarily the person who made the
+actual decision was Jim Barksdale.
+最主要的做出决定的人是Jim Barksdale。
+
+836
+00:44:25,900 --> 00:44:28,000
+And this turned out to be important later.
+然而后来这变得非常重要
+//fixme:unsure
+
+837
+00:44:28,000 --> 00:44:30,800
+That our big win, the big score
+那是我们的伟大胜利，伟大的成功
+
+838
+00:44:30,800 --> 00:44:34,400
+that gave us mainstream
+visibility and credibility with investors
+使大部分投资者对我们的极为关注并充满信心
+
+839
+00:44:34,400 --> 00:44:38,400
+came not because of bottom up evangelism
+from a bunch of engineers,
+这些并不是来自一群工程师不务正业的传道工作
+//fixme:just my guess
+
+840
+00:44:38,500 --> 00:44:41,600
+but because one strategist at the top
+而是来自于最伟大的战略
+
+841
+00:44:41,600 --> 00:44:43,900
+saw the potential power of this method and
+看到了这种方法的潜力，
+
+842
+00:44:43,900 --> 00:44:46,800
+then essentially imposed that vision
+on everyone underneath him.
+然后实际上强迫每个人目光注视着他。
+//fixme:unsure
+
+843
+00:44:47,900 --> 00:44:51,100
+When I completed the paper,
+I first gave a copy to Mark Andreessen,
+当我完成这篇文章，我先给
+Mark Andreessen一份，
+
+844
+00:44:51,100 --> 00:44:55,100
+who was co-founder of Netscape and
+was at the time one of,
+他曾是Netscapoe的合作创始者，
+
+845
+00:44:55,100 --> 00:44:56,900
+on the senior management team at Netscape.
+并且他是Netscape的高层之一。
+
+846
+00:44:56,900 --> 00:45:00,900
+Mark then gave a copy of the paper to several
+other people within Netscape management,
+Mark然后把这篇文章传递给Netscapeg管理层的其他人。
+
+847
+00:45:01,000 --> 00:45:03,100
+including Jim Barksdale.
+包括Jim Barksdale。
+
+848
+00:45:03,100 --> 00:45:06,200
+I'm not sure exactly when Jim and
+the other senior managers
+我不十分肯定是什么时候，Jim和其他高级经理
+
+849
+00:45:06,200 --> 00:45:08,300
+made the actual decision,
+做出了这个决定，
+
+850
+00:45:09,000 --> 00:45:11,300
+I believe it was in early January sometime.
+我觉得应该是一月上旬的某天。
+
+851
+00:45:11,400 --> 00:45:15,900
+Netscape actually announced that it was gonna
+release the source code on Jan 22nd,
+Netscape真正宣布他将开放源代码的日子是一月22日。
+
+852
+00:45:16,400 --> 00:45:19,900
+the same time it was going to give
+Communicator away for free.
+同时，也将让Communicator(著名浏览器)免费发行。
+
+853
+00:45:20,300 --> 00:45:23,000
+When Netscape decided to release the source code,
+当Netscape决定开放代码时，
+
+854
+00:45:23,000 --> 00:45:25,400
+people sort of got a wake up notice and said
+人们注意到这一点，并且说
+//fixme:howtotran?
+
+855
+00:45:25,400 --> 00:45:28,900
+"Hey, maybe there is something to this idea
+of releasing source code
+“嘿，也许这主意的确不赖，开放源代码
+
+856
+00:45:28,900 --> 00:45:32,400
+and doing development with people
+outside your company."
+并于公司之外的人们共同开发”
+
+857
+00:45:33,400 --> 00:45:38,200
+So Netscape's decision brought a lot of
+public attention to the idea of Free Software,
+所以Netscape的决定引起了公众对自由软件的注意，
+
+858
+00:45:38,200 --> 00:45:40,500
+what became known as Open Source,
+也就是现在所谓的开放软件，
+
+859
+00:45:40,500 --> 00:45:43,000
+and brought a lot of attention to
+the Linux operating system,
+并且引来了对Linux操作系统的许多注意力。
+
+860
+00:45:43,000 --> 00:45:47,000
+which was one of the most prominent examples of
+Open Source software at that time.
+Linux是当时开放软件中最为突出的例子。
+
+861
+00:45:52,500 --> 00:45:55,800
+This is our first office, Mountain View, California.
+这就是我们第一个办公室，Mountain View, California。
+
+862
+00:45:55,800 --> 00:45:58,200
+We moved here in early 1995.
+我们在1995年初搬到这儿。
+
+863
+00:45:58,200 --> 00:46:00,100
+This is 4,000 square feet.
+这里有4000平方英尺。
+
+864
+00:46:00,100 --> 00:46:06,700
+It was an incredible leap of faith for us to
+move out and take the company to our own office.
+对我们来说，搬出去，开个自己的公司，拥有自己的
+办公室，这对我们的信仰是个难以想像的跳跃。
+
+865
+00:46:06,700 --> 00:46:09,700
+Now what's really important about this place
+现在，关于这个地方最重要的是
+
+866
+00:46:09,700 --> 00:46:13,300
+is that this is the office
+where the term "Open Source" was invented.
+这是一个由“开放源码”的团队所创造的办公室。
+
+867
+00:46:13,300 --> 00:46:18,000
+If you walk in to an executive's office
+and say "Free Software",
+如果你走入一个执行官的办公室，然后说“自由软件”
+
+868
+00:46:18,300 --> 00:46:22,100
+OK, If you're lucky, the response
+you'll get is something like,
+很好，如果你很幸运，得到的回答会像：
+
+869
+00:46:22,100 --> 00:46:28,600
+"hmm, hmm, Free Software, must be
+cheap, shoddy, worthless."
+“嗯，嗯，自由软件，一定是便宜、质量低劣、不足取的。”
+
+870
+00:46:28,600 --> 00:46:32,600
+Uh, and if you're not lucky,
+it has associations with, uh.
+嗯，如果你不是很走运，那么你会听到类似于，嗯
+
+871
+00:46:34,000 --> 00:46:38,000
+with the Free Software Foundation's
+wholesale attack on intellectual property rights,
+自由软件基金行为的严重侵犯了智力财产的权力，
+
+872
+00:46:38,400 --> 00:46:41,000
+which regardless of what
+you think about the ethics of that,
+这种行为不顾道德论理，
+
+873
+00:46:41,000 --> 00:46:45,000
+it's lousy marketing, it's not something
+that businesses want to hear.
+这是无耻的交易，它不为正规商业所认同。
+
+874
+00:46:45,500 --> 00:46:47,900
+So Eric Raymond knew there was a problem.
+所以Eric Raymond知道这是一个问题。
+
+875
+00:46:47,900 --> 00:46:50,100
+We'd been calling this Free Software,
+我们把这个称为自由软件，
+
+876
+00:46:50,100 --> 00:46:54,100
+but people took the term "Free"
+and associated with "Free of charge",
+但是人们把这个自由的字眼和“免费”联系在一起，
+
+877
+00:46:54,500 --> 00:46:57,200
+they thought they couldn't make money or couldn't sell,
+他们认为他们无法从中获利或根本买不出去，
+
+878
+00:46:57,200 --> 00:46:59,100
+which is exactly the wrong concept.
+这是完全错误的想法。
+
+879
+00:46:59,100 --> 00:47:04,700
+We wanted to get across the idea the software
+was open and that the source code was available.
+我们需要讲清楚这个意思是，软件是开放的，
+源代码是可以获取的。
+
+880
+00:47:04,700 --> 00:47:07,000
+Very important pieces.
+非常重要的一点。
+
+881
+00:47:07,000 --> 00:47:10,700
+We had this meeting at the VA offices
+in Mountain View, where Eric,
+我们在VA的办公室里面开了这个会议，当时Eric，
+
+882
+00:47:10,700 --> 00:47:17,200
+myself, and Christine Peterson from Foresight Institute
+joined us as well as some other people.
+我，以及来自Forsight Institute的Christine Peterson
+和其他的人一样加入了我们。
+
+883
+00:47:17,200 --> 00:47:20,100
+Christine Peterson was there by phone. uh..
+Christine Peterson当时在那儿打电话，嗯。
+
+884
+00:47:22,000 --> 00:47:25,600
+Jon "Mad dog" Hall was also there by phone. uh..
+"疯狗"Jon Hall也在那里打电话，嗯。
+
+885
+00:47:26,400 --> 00:47:30,300
+And then Todd Anderson, who later worked for
+SuSE for a while was there.
+然后Todd Anderson，那个后来为SuSE工作的
+那个人也在那里。
+
+886
+00:47:30,300 --> 00:47:33,300
+Sam Ockman who now runs Penguin Computing was there.
+Sam Ockman，现在开设了Penguin Computing，当时也在那里。
+
+887
+00:47:33,300 --> 00:47:36,700
+He was uh.. He was an employee of VA at the time
+他，嗯，他当时是VA的雇员，
+
+888
+00:47:36,700 --> 00:47:39,600
+Well, we came up with the concept of Open Source,
+然后，我们一起统一了开放源码的概念，
+
+889
+00:47:39,600 --> 00:47:42,900
+we called Linus in fact and asked Linus if he liked it.
+我们打电话给Linus,并询问他是否喜欢这个词。
+
+890
+00:47:42,900 --> 00:47:46,100
+He was interested, He liked it.
+他很感兴趣，他喜欢。
+
+891
+00:47:46,100 --> 00:47:48,600
+Eventually we came up with something that replaced "Free Software".
+然后我们搞出了一个东西，用来取代“开放/免费软件”。
+
+892
+00:47:48,600 --> 00:47:50,200
+That was the beginning of Open Source.
+这就是开放源码的起源。
+
+893
+00:47:50,200 --> 00:47:52,300
+[ How did you chose words "Open Source"? ]
+[你们为什么选中“开放源码”这个词？]
+
+894
+00:47:53,100 --> 00:47:57,100
+You know, I think Christine Peterson was
+the person who really came up with the idea.
+你要知道，我认为Christine Peterson
+是想出这个主意的人。
+
+895
+00:47:57,500 --> 00:48:04,300
+Uh, we wanted, again, the idea
+that the source code was out there and it was open.
+嗯，他想要一个，一样的，开放的源代码。
+
+896
+00:48:04,300 --> 00:48:05,700
+There weren't many choices.
+这并没有很多选择。
+
+897
+00:48:07,800 --> 00:48:11,800
+Well, since the first three recipients have
+spoken for the Open Source movement,
+然而，既然前三位接收了开放源码运动的说法，
+
+898
+00:48:12,800 --> 00:48:16,300
+I think I should speak about
+the Free Software movement.
+我认为我应该说说自由软件运动。
+
+899
+00:48:16,300 --> 00:48:19,800
+The Open Source movement,
+focuses on practical advantages
+开放源码运动集中于非常实际的利益
+
+900
+00:48:19,800 --> 00:48:22,500
+that you can get by having a community of users
+你可以从社团成员中获得这些利益
+
+901
+00:48:22,500 --> 00:48:26,500
+who can cooperate on interchanging and improving software.
+这些成员进行合作，替换和改善软件。
+
+902
+00:48:26,600 --> 00:48:30,400
+I agree completely with the points they make about that.
+我完全同意这一点，即他们能够产生这些利益。
+
+903
+00:48:30,400 --> 00:48:34,900
+The reason why my views are different,
+while I am in the Free Software movement
+我对于自由软件运动的观点为什么不同的原因，
+
+904
+00:48:34,900 --> 00:48:37,000
+rather than the Open Source movement,
+而不是开放源码运动，
+
+905
+00:48:37,000 --> 00:48:40,000
+is that I believe there's something
+more important at stake.
+是我相信这些不同之间，有些更重要得东西。
+//fixme:unknow meanings.
+
+906
+00:48:40,000 --> 00:48:45,000
+That freedom to cooperate with other people,
+freedom to have a community...
+那就是与其他人合作的自由，拥有一个社团的自由...
+
+907
+00:48:45,000 --> 00:48:47,200
+is important for our quality of life.
+这些对提高我们生活质量很重要。
+
+908
+00:48:47,200 --> 00:48:51,200
+It's important for having a good society
+that we can live in.
+能够生活在一个好的社区对我们来说很重要。
+//fixme:improve it.
+
+909
+00:48:51,300 --> 00:48:57,300
+And that that is in my view, even more important
+than having powerful and reliable software.
+这就是我的观点，这比拥有强大的和可靠的软件重要的多。
+
+910
+00:48:57,800 --> 00:49:01,800
+But I think some of the people in
+the Free Software camp...
+但是我觉得一些自由软件阵营的人...
+
+911
+00:49:02,600 --> 00:49:06,000
+are a little scared by the commercialization.
+对商业化有点畏惧。
+
+912
+00:49:08,000 --> 00:49:12,000
+And uh, you know,
+of course a rebel is put off by success.
+并且，嗯，你知道的，成功能够推迟反叛。
+//fixme:unsure.
+
+913
+00:49:12,300 --> 00:49:15,900
+uh.. I think that commercialization is very important.
+嗯，我认为商业化非常重要。
+
+914
+00:49:15,900 --> 00:49:18,700
+We want to mainstream this software,
+我们需要这个软件成为主流，
+
+915
+00:49:18,700 --> 00:49:23,900
+and I work with Richard Stallman
+who's the gray haired man of Free Software,
+并且我与Richard Stallman一起工作，
+他是个灰发男人，自由软件成员之一，
+
+916
+00:49:25,400 --> 00:49:28,400
+uh, on a regular basis, and I don't feel
+嗯，在某些基本立场上，我不觉的
+
+917
+00:49:28,400 --> 00:49:31,900
+I have any philosophical differences.
+我有任何哲学上的不同。
+
+918
+00:49:31,900 --> 00:49:35,000
+me as author the Open Source definition and
+我作为给出开放源码定义的人，和
+
+919
+00:49:35,000 --> 00:49:40,300
+he is originator of free software as an organized thing,
+他作为自由软件的创始人，
+
+920
+00:49:41,800 --> 00:49:44,800
+except for one thing.
+Richard thinks that all software should be free,
+除了一点，Richard觉得所有的软件应该是开放的，
+
+921
+00:49:44,800 --> 00:49:49,500
+and I think that free software and
+non-free software should coexist.
+而我觉得开放软件和非开放软件应该共同存在。
+
+922
+00:49:49,500 --> 00:49:51,200
+That's the only difference we have.
+这就是我们仅有的区别。
+
+923
+00:49:52,000 --> 00:49:54,800
+Uh, we decided early on that what we needed,
+嗯，我们起先决定所需要的东西，
+
+924
+00:49:54,800 --> 00:49:58,800
+a..a definition, we needed a kind of
+meta-license to define the term "Open Source".
+嗯..一个定义，我们需要一种类似于上层许可证
+来定义“开放源码”这个字眼
+
+925
+00:49:59,000 --> 00:49:59,800
+a, a definition, we needed a kind of
+meta-license to define the term "Open Source".
+嗯..一个定义，我们需要一种类似于上层许可证
+来定义“开放源码”这个字眼
+
+926
+00:49:59,800 --> 00:50:03,600
+And what we came up with is a document called
+"The Open Source Definition".
+然而我们共同确定的是一个叫做
+“开放源码定义”的文档。
+
+927
+00:50:03,600 --> 00:50:08,800
+It's derived from the Debian Free Software guidelines
+that were originally written by Bruce Parens.
+它来源于Debian自由软件准则，最初由Bruce Parens所写。
+
+928
+00:50:09,300 --> 00:50:12,600
+I'd written the original draft of that, uh,
+我写了最初的草案，嗯，
+
+929
+00:50:12,600 --> 00:50:16,100
+discussed it for a month with the Debian developers
+与Debian开放者讨论了一个月
+
+930
+00:50:16,100 --> 00:50:18,800
+Debian is a Linux distribution
+Debian是一个Linux发行版
+
+931
+00:50:18,800 --> 00:50:22,000
+And made it their project policy
+并且把这个发行项目开放化
+//fixme:政策化？
+
+932
+00:50:22,000 --> 00:50:24,900
+And Eric and I decided to relabel
+我和Eric决定把它重命名
+
+933
+00:50:25,700 --> 00:50:27,800
+what we'd written for Debian
+根据我们为Debia所写的
+
+934
+00:50:27,800 --> 00:50:29,100
+as The Open Source definition
+开放源码的定义
+
+935
+00:50:29,100 --> 00:50:31,400
+and to say Open Source is a software
+把开放源码说成是一个软件，
+
+936
+00:50:31,800 --> 00:50:34,300
+that gives you a list of nine rights
+能够给你一系列，共9项权力
+
+937
+00:50:34,300 --> 00:50:36,600
+which is in the Open Source definition.
+在开放源码定义中所定义的权力。
+
+938
+00:50:37,600 --> 00:50:40,400
+The first right is Free Redistribution
+第一个权力是自由的重新发布
+
+939
+00:50:40,400 --> 00:50:42,800
+This doesn't mean Free as in no price
+这的自由不是免费的意思
+
+940
+00:50:42,800 --> 00:50:45,000
+It means liberty
+这里的意思就是自由
+
+941
+00:50:45,800 --> 00:50:48,600
+Um, you have to be free to redistribute
+嗯，你必须能够自由的重新发行
+
+942
+00:50:48,600 --> 00:50:50,100
+your software to someone else
+给其他人你的软件
+
+943
+00:50:50,100 --> 00:50:52,300
+And actually no price is a side effect
+然而，事实上免费是一个附带效果
+
+944
+00:50:52,300 --> 00:50:55,600
+You can charge for that redistribution or not
+你可以为重新发行收钱，也可以不收
+
+945
+00:50:55,600 --> 00:50:57,800
+It has to come with source code
+此外还伴随着开放的源代码
+
+946
+00:50:58,100 --> 00:51:01,500
+So that someone can maintain a program.
+这样别人就能获取程序。
+
+947
+00:51:01,500 --> 00:51:04,200
+If they go from a PC to a Mac for example
+例如如果他们从PC机换到Mac，
+
+948
+00:51:04,600 --> 00:51:07,600
+they can change the software.
+他们就能修改软件。
+
+949
+00:51:07,600 --> 00:51:10,000
+Derived Works have to be possible
+后继的工作因此得以实现
+
+950
+00:51:10,000 --> 00:51:12,700
+If someone has to improve your program
+如果有人改进了你的程序
+
+951
+00:51:12,700 --> 00:51:18,000
+um, they should be able to distribute the result
+嗯，他必须发布这结果
+
+952
+00:51:18,000 --> 00:51:21,500
+uh, There is a provision about integrity
+嗯，这必须保证完整的给出
+
+953
+00:51:21,500 --> 00:51:22,800
+of the author's source code
+作者的源代码
+
+954
+00:51:23,000 --> 00:51:27,900
+which says that the author can sort of
+maintain their honor
+也就是说作者可以从中获取他们的荣誉，
+
+955
+00:51:27,900 --> 00:51:29,700
+and if you make a change
+并且如果你做了更改
+
+956
+00:51:30,100 --> 00:51:32,400
+you might have to change the name of the program
+你也可以改变程序的名字
+
+957
+00:51:32,400 --> 00:51:35,100
+or mark out your change very clearly
+或很清晰的标出你的修改
+
+958
+00:51:35,100 --> 00:51:38,500
+so that your change doesn't reflect on the author
+这样你的修改没有反应出作者
+
+959
+00:51:38,500 --> 00:51:42,300
+There is no discrimination against people or groups.
+这里没有对人和组织的歧视
+
+960
+00:51:42,400 --> 00:51:44,200
+Uh, the example I usually use is
+嗯，这个例子我用来说明
+
+961
+00:51:44,900 --> 00:51:47,400
+You can't stop an abortion clinic
+你无法阻止一个堕胎诊所
+//fixme:what does this mean?
+
+962
+00:51:47,400 --> 00:51:50,600
+or an anti-abortion activist from using the software
+或者一个反堕胎主义者，仅仅通过使用软件
+//fixme:I'm puzzled.
+
+963
+00:51:50,600 --> 00:51:54,200
+There is no discrimination against fields of endeavor
+这里没有对任何领域的努力的歧视
+
+964
+00:51:54,600 --> 00:51:57,400
+And that means the software has to be usable
+而是说明软件必须被
+
+965
+00:51:57,600 --> 00:52:00,900
+in a business as well as in a school
+无差别的用于商业或是教育领域
+
+966
+00:52:00,900 --> 00:52:04,400
+The license has to be distributable
+这个许可证必须是可分配的
+
+967
+00:52:04,500 --> 00:52:05,500
+In other words
+换句话说
+
+968
+00:52:05,700 --> 00:52:08,900
+I have to be able to give that license to someone
+我必须能够把这个许可证给别人，
+
+969
+00:52:08,900 --> 00:52:12,300
+and that license then should work
+然后这个许可证继续起作用，
+
+970
+00:52:12,300 --> 00:52:15,000
+if that someone gives it to yet a third person
+当那个人把它在传给第三个人的时候。
+
+971
+00:52:15,000 --> 00:52:18,800
+The license can't be specific to a product
+这个许可证不限于某个产品，
+
+972
+00:52:18,800 --> 00:52:20,000
+in other words
+也就是说，
+
+973
+00:52:20,000 --> 00:52:25,200
+if I distribute my software on a Red Hat system
+如果我把我的软件发布在RedHat系统中
+
+974
+00:52:25,200 --> 00:52:26,800
+the license can't say
+这个许可证不能声明，
+
+975
+00:52:26,800 --> 00:52:30,500
+you can't distribute this on a SuSE or Debian system
+你无法在一个SuSE或是Debian系统中发布这个软件。
+
+976
+00:52:30,500 --> 00:52:34,000
+The license can't contaminate other software
+这个许可证不能污染其他软件，
+
+977
+00:52:34,000 --> 00:52:40,400
+So if I distribute this on a CD with another program
+所以如果我和另外一个程序发布在同一张CD上，
+
+978
+00:52:40,400 --> 00:52:43,600
+It can't say that other program must be free
+它不能声明另外那个程序必须是自由的，
+
+979
+00:52:43,600 --> 00:52:46,500
+otherwise you can't distribute my software
+否则你就不能发布我的软件。
+
+980
+00:52:46,500 --> 00:52:49,200
+And then the only other part of
+仅剩下的部分
+
+981
+00:52:49,200 --> 00:52:50,400
+the Open Source definition
+自由软件的定义，
+
+982
+00:52:50,400 --> 00:52:53,200
+is a list of licenses that were accepted
+是一系列被接收的许可证，
+
+983
+00:52:53,200 --> 00:52:57,100
+And the ones that we started with were the GPL
+这其中，最初的就是GPL，
+
+984
+00:52:57,100 --> 00:53:00,200
+which was actually the example for a lot of
+GPL实际上是一个
+
+985
+00:53:00,200 --> 00:53:03,700
+what's in the Open Source definition in the BSD license
+在BSD许可中很多开放源码定义的例子，
+
+986
+00:53:03,700 --> 00:53:07,700
+because software for BSD system pre-existed Linux
+因为很多软件在Linux存在之前是为BSD系统做的。
+
+987
+00:53:13,500 --> 00:53:17,300
+I think the next moment that I thought
+was really pivotal
+我觉得下面的一段时间，会很关键
+
+988
+00:53:17,300 --> 00:53:19,500
+was when the database vendors flipped over
+就是这期间数据库生产商倒戈，
+//fixme:
+
+989
+00:53:19,500 --> 00:53:21,500
+which happened about three months sooner
+这发生在3个月之前，
+
+990
+00:53:21,500 --> 00:53:22,600
+than I expected to
+比我预想的要快，
+
+991
+00:53:22,600 --> 00:53:25,000
+and actually happened in late July early August
+确切的发生时间是7月晚8月初，
+
+992
+00:53:25,000 --> 00:53:29,000
+commitments to do one ports from Oracle and
+我们得到来Oracle的移植承诺，
+
+993
+00:53:29,300 --> 00:53:32,100
+and Sybase and the other key database vendors.
+以及Sybase和其他关键的数据库生产商的类似承诺。
+
+994
+00:53:32,100 --> 00:53:33,400
+[ And why was that critical? ]
+[ 为什么这很关键？ ]
+
+995
+00:53:33,400 --> 00:53:35,500
+because we knew that in order for
+因为我们知道，为了使
+
+996
+00:53:35,500 --> 00:53:37,800
+the open source story to be credible
+开放源码的故事值得信赖，
+
+997
+00:53:37,800 --> 00:53:40,500
+and especially in order for the Linux story
+to be credible,
+尤其是为了让Linux的故事值得信赖，
+
+998
+00:53:40,500 --> 00:53:43,500
+we'd have to get commitments from
+independent software vendors
+我们必须得到独立软件生产商的承诺，
+
+999
+00:53:43,500 --> 00:53:47,000
+to do ports of their applications to these platforms
+来把他们的产品移植到这些平台，
+
+1000
+00:53:47,000 --> 00:53:49,600
+and I was actually kind of worried
+并且我事实上有点担心，
+
+1001
+00:53:49,600 --> 00:53:52,000
+I thought that we were in a window of vulnerability
+我想我们处于一个最容易受到责难的位置
+
+1002
+00:53:52,000 --> 00:53:55,400
+between the time that we announced
+the open source campaign
+在我们声明开源运动
+
+1003
+00:53:55,400 --> 00:53:57,200
+and the database vendors flipped over
+以及后来数据库制造商转变， 期间
+
+1004
+00:53:57,200 --> 00:53:59,800
+that was the point in which hostile action
+有敌意的行为
+
+1005
+00:53:59,800 --> 00:54:03,500
+by Microsoft or other close-source software companies
+来自微软或者其他“闭源”软件公司
+
+1006
+00:54:03,500 --> 00:54:04,800
+that was the point in which
+有压力来自
+
+1007
+00:54:04,800 --> 00:54:07,300
+a serious marketing bleeds might have suck us
+严酷的市场竞争可能会吞没我们
+
+1008
+00:54:07,300 --> 00:54:11,300
+but once the big database vendors flipped over
+但是一旦大数据库制造商转变
+
+1009
+00:54:11,300 --> 00:54:13,800
+that opened the way for other ISVs
+就开辟了其他？ISV？ 可以效仿的路子
+
+1010
+00:54:13,800 --> 00:54:15,700
+that started the snow ball effect going
+雪球效应就开始发挥作用
+
+1011
+00:54:15,700 --> 00:54:17,800
+Every six months or so
+每隔六个月左右
+
+1012
+00:54:17,800 --> 00:54:19,400
+I would come back to the venture capitalists
+我就去风险资本家那里
+
+1013
+00:54:19,400 --> 00:54:21,100
+I would show them the new numbers
+我会告诉他们新的数量
+
+1014
+00:54:21,100 --> 00:54:23,200
+showing more and more people adopting Linux
+告诉他们越来越多的人接受了Linux
+
+1015
+00:54:23,200 --> 00:54:25,000
+and new people porting, new users
+？？
+
+1016
+00:54:25,000 --> 00:54:26,600
+and I'd show them our customer list
+我还要给他们看我们的顾客列表
+
+1017
+00:54:26,600 --> 00:54:29,900
+And our customer list was getting much more impressive
+我们的顾客列表越来越令人印象深刻
+
+1018
+00:54:29,900 --> 00:54:32,500
+It was people like Cisco that were beginning to appear
+像Cisco 这样的公司开始出现
+
+1019
+00:54:32,500 --> 00:54:35,000
+people like, you know, those dot-com companies
+那些.com 公司 你知道
+
+1020
+00:54:35,000 --> 00:54:37,400
+were started to show up on our customer list
+也开始在列表中出现
+
+1021
+00:54:37,400 --> 00:54:40,000
+最后 风险资本家
+and eventually the venture capitalists
+
+1022
+00:54:40,000 --> 00:54:42,000
+you know, they kept looking at it
+你知道 他们一直在冷眼旁观
+
+1023
+00:54:42,000 --> 00:54:43,800
+they kept saying "Oh, we can't quite do it"
+他们总是在说“喔， 我们不能贸然从事”
+
+1024
+00:54:43,800 --> 00:54:47,000
+Finally, Linus appeared on the cover of Fortune
+最后， Linus 本人上了《财富》的封面
+
+1025
+00:54:47,000 --> 00:54:49,300
+There was something happening with Open Source
+Open Source正在发生天翻地覆的变化
+
+1026
+00:54:49,300 --> 00:54:53,300
+Well, at that point, the venture capitalists
+couldn't ignore it
+这时候， 风险资本家再也不能忽略它了
+
+1027
+00:54:53,700 --> 00:54:56,600
+they just got sick of hearing about Linux everywhere
+他们到处听到Linux 的名字
+
+1028
+00:54:56,600 --> 00:54:58,500
+and they got tired of me, just, you know
+他们对我都已经厌烦了， 你知道
+
+1029
+00:54:58,500 --> 00:55:01,900
+showing it to them every,
+at that point it was almost every week
+这时几乎每个星期， 我都将它展示在他们面前
+
+1030
+00:55:01,900 --> 00:55:04,500
+So they uh, they decided it was time to invest,
+所以他们， 呃， 他们认为是做调查的时候了
+
+1031
+00:55:04,500 --> 00:55:06,300
+that there was something happening
+一些事情发生了
+
+1032
+00:55:06,300 --> 00:55:09,800
+I announced Open Source to the world on the Internet
+我在网络上向世界宣告Open Source 的产生
+
+1033
+00:55:09,800 --> 00:55:13,200
+I did a lot of the early... administrative the work of
+我做了很多早期的....指导工作
+
+1034
+00:55:13,200 --> 00:55:16,700
+starting the Open Source Initiative
+？？
+
+1035
+00:55:16,700 --> 00:55:18,500
+and I think six months later
+我记得六个月之后
+
+1036
+00:55:18,500 --> 00:55:21,000
+I was reading the words Open Source
+我读到Open Source 这个词
+
+1037
+00:55:21,000 --> 00:55:23,600
+in the news all the time
+在新闻中， 时时刻刻
+
+1038
+00:55:23,600 --> 00:55:25,900
+And I was totally astounded
+我被震惊了
+
+1039
+00:55:25,900 --> 00:55:27,100
+And a year later, I believe
+一年之后， 我相信
+
+1040
+00:55:27,100 --> 00:55:31,100
+Microsoft was talking about releasing some source code
+微软也在讨论是否发布一些源码了
+
+1041
+00:55:32,200 --> 00:55:34,400
+And someone in the press asked Steve Ballmer
+新闻界有些人问Steve Ballmer
+
+1042
+00:55:34,400 --> 00:55:37,000
+if they were going to open source their code
+是不是会开放源码
+
+1043
+00:55:37,000 --> 00:55:38,500
+and Steve Ballmer said,
+Steve Ballmer 说
+
+1044
+00:55:38,500 --> 00:55:42,500
+"Well, Open Source means more than
+just releasing the source code"
+“噢， Open Source 意味着比仅仅开放源码更多”
+
+1045
+00:55:42,800 --> 00:55:45,400
+And I realized that he had read my document
+我意识到他已经读过我的文章
+
+1046
+00:55:45,400 --> 00:55:48,200
+and understood it and was now telling
+the press about this
+并且懂了我的意思，正在告诉新闻界他的观点
+
+1047
+00:55:48,600 --> 00:55:51,600
+Now if you are like just a guy on the net
+现在假设你是一个网络上的普通人
+
+1048
+00:55:51,600 --> 00:55:53,900
+who's not doing this for a job at all
+？不务正业？
+
+1049
+00:55:53,900 --> 00:55:55,700
+and you sort of write a manifesto
+？你写了一本小册子？
+
+1050
+00:55:55,700 --> 00:55:58,000
+and it spreads out through the world
+它在世上传播开来
+
+1051
+00:55:58,000 --> 00:55:59,000
+and a year later
+一年以后
+
+1052
+00:55:59,000 --> 00:56:02,100
+the vice president of Microsoft is talking about that
+微软的副总裁也在谈论它
+
+1053
+00:56:02,100 --> 00:56:05,400
+You'd think you were on drugs, wouldn't you?
+你会认为自己药吃多了， 不是吗？
+
+1054
+00:56:05,400 --> 00:56:07,100
+But that's what really happened
+但是这确实发生了
+
+1055
+00:56:13,000 --> 00:56:17,000
+The Local Users Groups
+tend to be more than an issue of
+Linux本地用户组倾向于不止是一种
+
+1056
+00:56:18,900 --> 00:56:21,000
+building a social network
+建立社会网络的想法
+
+1057
+00:56:22,200 --> 00:56:27,800
+especially getting people familiarized with the issues
+？尤其是使？
+
+1058
+00:56:29,400 --> 00:56:33,400
+also just acting as a kind of supporting network
+或者仅仅是一种支持网络
+
+1059
+00:56:33,600 --> 00:56:38,900
+for people who do not, for example, have the ability
+对于那些不能， 比如说， 没能力
+
+1060
+00:56:38,900 --> 00:56:42,100
+to pay for commercial support network
+来为商业支持网络付费的人
+
+1061
+00:56:42,100 --> 00:56:44,700
+So one thing they're doing in this area
+因此？他们在这方面做的？
+
+1062
+00:56:44,700 --> 00:56:46,600
+for example, is they're making these.
+比如说， 是他们在？？
+
+1063
+00:56:46,600 --> 00:56:48,700
+I think it's once a month
+我想它是每月一次
+
+1064
+00:56:48,700 --> 00:56:52,400
+They're having install feasts, which mean that
+他们在举行安装的聚会， 就是说
+
+1065
+00:56:54,100 --> 00:56:57,100
+getting Linux installed on their machines
+把Linux 安装到他们的机器上
+
+1066
+00:56:57,100 --> 00:56:58,600
+or have some issue, I mean
+或者有一些问题， 我意思是
+
+1067
+00:56:58,600 --> 00:57:00,000
+maybe they've installed Linux
+也许他们已经安装了Linux
+
+1068
+00:57:00,000 --> 00:57:02,600
+but want to set up the network in a specific way
+但是想用一种特殊的方式来设置网络
+
+1069
+00:57:02,600 --> 00:57:04,700
+can actually bring in their machines
+可以真的带来他们的机器
+
+1070
+00:57:04,700 --> 00:57:05,800
+to this users group meeting
+到这个用户组的集会
+
+1071
+00:57:05,800 --> 00:57:09,400
+And there's a lot of people there willing to help
+有很多人乐于帮忙
+
+1072
+00:57:09,400 --> 00:57:13,400
+who may have seen the same problem before.
+他们可能从前接触过类似的问题
+
+1073
+00:57:22,400 --> 00:57:24,100
+Well, actually things aren't so well.
+哦， 事情有点不对头
+
+1074
+00:57:24,100 --> 00:57:27,300
+I tried it earlier myself. I had problems.
+早些时候， 我自己试过。 我遇到了问题
+
+1075
+00:57:27,300 --> 00:57:29,700
+And so I came to this install feast world.
+于是我就来到这里
+
+1076
+00:57:29,700 --> 00:57:31,400
+All the gurus abound.
+到处都是专家
+
+1077
+00:57:31,400 --> 00:57:35,300
+Hopefully I'll have better luck getting it in.
+真希望我有这么好的机会加入他们
+
+1078
+00:57:35,300 --> 00:57:38,100
+Instead of having, uh, sending e-mails, or
+除了写， 呃， 发电子邮件， 或者
+
+1079
+00:57:38,100 --> 00:57:40,000
+writing to news groups on the Internet
+写信给互联网上的新闻组
+
+1080
+00:57:40,000 --> 00:57:42,500
+and waiting several days for the answers sometimes
+并且等待几天回应
+
+1081
+00:57:42,500 --> 00:57:45,500
+it's easy to come here and find other people
+来这里是十分简单的 可以找到其他人
+
+1082
+00:57:45,500 --> 00:57:46,700
+who might know about your problem
+他们也许知道你的问题
+
+1083
+00:57:46,700 --> 00:57:48,600
+and may be able to help you
+可能可以帮你
+
+1084
+00:57:48,600 --> 00:57:49,700
+And hopefully within a few hours
+充满希望地等待一段时间
+
+1085
+00:57:49,700 --> 00:57:51,900
+you have your machine installed
+你的机器就装好了
+
+1086
+00:57:51,900 --> 00:57:55,900
+Originally I wanted to it install on
+uh, my larger laptop
+开始我想把它装在，呃， 我的大笔记本上
+
+1087
+00:57:56,100 --> 00:57:57,800
+and I just did a search on the net
+我在网络上搜索了一下
+
+1088
+00:57:57,800 --> 00:58:01,800
+and found where there were resources to get help
+发现了可以找到帮助的地方
+
+1089
+00:58:02,400 --> 00:58:04,100
+And um, I'm here today
+所以， 嗯， 今天我就到了这里
+
+1090
+00:58:04,100 --> 00:58:07,800
+cause I'm trying to put Linux on
+this little guy right here.
+因为我想把Linux 装到这里这台小的上面
+
+1091
+00:58:07,800 --> 00:58:10,100
+just a Toshiba Libretto
+是一台Toshiba Libretto
+
+1092
+00:58:10,100 --> 00:58:12,700
+It's not a easy thing in the world to do
+？不容易？
+
+1093
+00:58:12,700 --> 00:58:15,300
+because it's a weird piece hardware, So...
+因为它的硬件很罕见， 所以....
+
+1094
+00:58:15,300 --> 00:58:17,300
+Any chairs right here?
+有凳子吗？
+
+1095
+00:58:29,200 --> 00:58:31,000
+I think that Department of Justice case
+我想？法院？
+
+1096
+00:58:31,000 --> 00:58:33,000
+has made people aware of the fact that
+已经让人们认识到了
+
+1097
+00:58:33,000 --> 00:58:36,000
+you should at least look for alternatives to Microsoft.
+应当关注一下微软之外的选择
+
+1098
+00:58:36,000 --> 00:58:40,000
+and maybe Microsoft isn't the American dream after all
+可能微软并不是美妙的？美国梦？
+
+1099
+00:58:40,100 --> 00:58:42,000
+and that kind of shifting perception
+这种看法的转变
+
+1100
+00:58:43,300 --> 00:58:45,100
+you can very clearly see
+你可以清楚地看到
+
+1101
+00:58:45,100 --> 00:58:49,100
+that people just took Microsoft for granted
+人们仍然将微软视为理所当然的选择
+
+1102
+00:58:49,600 --> 00:58:52,000
+and maybe they're still buying Microsoft but at least
+可能他们仍然要买微软的产品 但是最后
+
+1103
+00:58:52,000 --> 00:58:54,900
+they're kind of more aware of the issue these days
+他们是？？
+
+1104
+00:58:54,900 --> 00:58:57,600
+Microsoft actually uses Linux as defense
+微软用Linux 作为挡箭牌
+
+1105
+00:58:57,600 --> 00:58:59,000
+They used Linux to ground a claim
+他们用Linux 来证明
+
+1106
+00:58:59,000 --> 00:59:00,000
+that they don't have a monopoly
+说自己没有垄断
+
+1107
+00:59:00,000 --> 00:59:03,100
+because Linux could essentially
+因为Linux 可以有效地
+
+1108
+00:59:03,100 --> 00:59:05,000 
+push them off their catbird any time.
+将他们从？？
+
+1109
+00:59:05,000 --> 00:59:07,800
+It was a very ingenious argument,
+totally specious
+这是非常冠冕堂皇的？？但是华而不实
+
+1110
+00:59:07,800 --> 00:59:09,600
+because it didn't
+因为它不能
+
+1111
+00:59:09,600 --> 00:59:11,800
+do anything to answer the charge
+对指控做出任何解释
+
+1112
+00:59:11,800 --> 00:59:13,400
+that they had previously engaged in
+指控说， 他们以往从事的是
+
+1113
+00:59:13,400 --> 00:59:16,100
+bullying and very anti-competitive practices.
+压迫， 反对竞争的活动
+
+1114
+00:59:16,100 --> 00:59:17,700
+but it was clever of them
+但是他们很聪明
+
+1115
+00:59:17,700 --> 00:59:20,200
+And, in an event, the judge didn't buy it
+结果， 法官不接受它的辩护
+
+1116
+00:59:22,500 --> 00:59:25,100
+While ordinarily we in the Linux community are
+rather worried about
+？？
+
+1117
+00:59:25,100 --> 00:59:27,500
+letting Microsoft become the issue,
+？？
+
+1118
+00:59:27,500 --> 00:59:32,700
+but there was a Slashdot article
+about December of '98
+大约在'98 十二月Slashdot 上的有一篇文章
+
+1119
+00:59:32,700 --> 00:59:38,500
+where a fellow named Matt at the noodle
+had pointed out that...
+一个叫做Matt 的人？？指出....
+
+1120
+00:59:38,500 --> 00:59:41,500
+the <?> of Australia has managed
+to receive a refund for
+澳大利亚的？成功地得到了退款
+
+1121
+00:59:41,500 --> 00:59:45,500
+the unused copy of Windows that
+came with his computer.
+?关于他的电脑随机携带的未使用的Windows?
+
+1122
+00:59:45,500 --> 00:59:50,000
+So he declared the 19th of January, was January?
+因此他宣布一月的19号， 是一月吗？
+
+1123
+00:59:50,000 --> 00:59:52,400
+err, no, It was February. It was February.
+Oh, I'm sorry, the 19th the February...
+呃， 不， 是二月， 是二月。
+哦， 对不起， 是二月的19号....
+
+1124
+00:59:52,400 --> 00:59:54,500
+he declared 19th the February
+Windows Refund Day.
+他宣布二月19号是Windows 退款日
+
+1125
+00:59:54,500 --> 00:59:56,800
+and he encouraged everyone to go to
+the computer manufacturers,
+他鼓励所有人到计算机制造商那里
+
+1126
+00:59:56,800 --> 00:59:59,800
+and return their unused copies of Windows...
+退换他们未使用的Windows
+
+1127
+00:59:59,800 --> 01:00:03,000
+as it was specified in the
+Windows End-User License Agreement.
+就象Windows 最终用户许可中规定的那样
+
+1128
+01:00:03,000 --> 01:00:06,100
+It's important to remember that
+in the License itself, it says that
+非常重要的是要记住在许可中说到
+
+1129
+01:00:06,100 --> 01:00:11,000
+you can receive a refund if you don't use the software,
+如果你不使用这个软件， 你可以收到退款
+
+1130
+01:00:11,000 --> 01:00:14,000
+and that the manufacture is bound by law to do this...
+制造商根据法律约束而不得不这样做
+
+1131
+01:00:14,000 --> 01:00:16,000
+or it was bond by contract.
+或者是根据合约的约束
+
+1132
+01:00:16,000 --> 01:00:19,000
+and we found if you called up
+these manufactures, they basically said...
+我们发现如果我们打电话给这些制造商。他们一般会说....
+
+1133
+01:00:19,000 --> 01:00:21,200
+"Stop bothering me." and keep hanging up on you.
+“不要找事。” 然后挂掉电话
+
+1134
+01:00:21,200 --> 01:00:24,200
+We didn't really wanna sort of giving out our location,
+我们不想透露我们的位置
+
+1135
+01:00:24,200 --> 01:00:27,400
+or where we were going to meet, until...
+或者我们将在哪里会面， 直到....
+
+1136
+01:00:27,400 --> 01:00:28,400
+you know, at the very last seconds.
+你知道， 直到最后一秒
+
+1137
+01:00:28,400 --> 01:00:31,800
+What we did is, we have people meet
+at the place where we could control
+我们做的是， 我们在一个我们控制的地方？会面？
+
+1138
+01:00:31,800 --> 01:00:33,500
+in the different towns around here.
+在一个附近的另外的城镇
+
+1139
+01:00:33,500 --> 01:00:37,000
+So I was the San Jose marshal, and I believe Nick you were...
+于是我？？
+
+1140
+01:00:37,000 --> 01:00:39,400
+I was..., Rick Moen and I did San Francisco.
+我是？？
+
+1141
+01:00:39,400 --> 01:00:39,900
+Right
+对
+
+1142
+01:00:40,000 --> 01:00:44,000
+and so we had the maps there and we
+handed them off everybody who was coming.
+我们有那里的地图，我们接收了所有来的人
+
+1143
+01:00:44,000 --> 01:00:48,000
+Well, we actually met at a Denny's
+That's just outside of the Foster City limits...
+我们在？？ ？？
+
+1144
+01:00:48,000 --> 01:00:49,600
+Foster City city limits,
+？？
+
+1145
+01:00:49,600 --> 01:00:53,000
+which meant also just outside of
+Foster City Police jurisdiction,
+意思是刚好在？？辖区之外
+
+1146
+01:00:53,000 --> 01:00:56,600
+which meant any, any instances
+that happened at the meeting point
+意思是所有在会面地点发生的诉讼
+
+1147
+01:00:56,600 --> 01:00:58,900
+happened in the jurisdiction of San Mateo,
+是在San Mateo 辖区发生的
+
+1148
+01:00:58,900 --> 01:01:02,500
+and if they told us they get lost, we'd say,
+"Fine, we are going to Foster city. Bye."
+如果他们说他们迷路了， 我们会说？“好， 我们要去Foster”？
+
+1149
+01:01:02,500 --> 01:01:06,000
+It's sort of the Dukes of Hazzard method of
+avoiding the cops, so...
+？？这是避免警察干涉的方法
+
+1150
+01:01:07,500 --> 01:01:11,000
+Well actually, originally we marched
+on the other side of this building.
+当时， 一开始我们是从这座房子的另一边开始游行的
+
+1151
+01:01:11,000 --> 01:01:15,000
+We marched around and up onto the parking
+structure that's up there,
+我们四周游行并且上到了那边？？
+
+1152
+01:01:15,000 --> 01:01:17,900
+and that's where Microsoft had a reception
+laid out for us with
+？那是微软为我们准备的接待会的地方？
+
+1153
+01:01:17,900 --> 01:01:20,000
+drinks
+and a big sign that said...
+？一个很大的标志写着？
+
+1154
+01:01:20,000 --> 01:01:22,400
+"Microsoft Welcomes the Open Source Community".
+“微软欢迎开源社团”
+
+1155
+01:01:22,400 --> 01:01:26,400
+and the local news cameras got shots of
+Eric Raymond and Microsoft representative.
+本地的新闻镜头摄下了Eric Raymond 和微软代表
+
+1156
+01:01:27,500 --> 01:01:30,400
+Microsoft's story seems to mostly be that...
+微软的解释就是这样....
+
+1157
+01:01:30,500 --> 01:01:35,000
+...this was not an issue for Microsoft,
+rather from the OEMs.
+....这不是微软的过失， 主要是OEM 厂商的问题
+
+1158
+01:01:35,000 --> 01:01:38,300
+So we all needed to go back to our
+computer manufacturers and try yet again
+因此我们还是需要回到我们的计算机制造商那里 再试一次
+
+1159
+01:01:38,300 --> 01:01:40,400
+to try and get refund from them.
+试着去他们那里取得退款
+
+1160
+01:01:40,400 --> 01:01:42,100
+We responded to them saying, you know,
+我们向他们说， 你知道
+
+1161
+01:01:42,100 --> 01:01:46,100
+that we tried that and it's not possible,
+we need Microsoft to take action at this point.
+我们试过了但是不可能，我们需要微软出面来解决问题
+
+1162
+01:01:46,400 --> 01:01:49,000
+And they just repeated the tag line
+over and over again...
+他们只是重复？标记？的行，一遍又一遍
+
+1163
+01:01:49,000 --> 01:01:52,000
+"you need to go to the OEMs and manufacturers
+and get your refunds there."
+“你需要到OEM 和厂商那里得到你的退款”
+
+1164
+01:01:52,500 --> 01:01:58,000
+We had about 150 people,
+probably half of voyage had signs and such, so..
+我们有大概有150 人？大约一半手中有标语什么的 因此....？
+1165
+01:01:58,500 --> 01:02:02,000
+Well, we ended up actually right
+in this courtyard here.
+我们在这个？广场? 上止步
+
+1166
+01:02:02,500 --> 01:02:06,000
+Basically we originally met, gathered outside,
+？开始我们？
+
+1167
+01:02:06,000 --> 01:02:11,000
+various people sent groups in,
+people from FreeBSD camp sent a couple of folks in.
+很多人组织小组参加
+FreeBSD 社团派了一些人过来
+
+1168
+01:02:11,000 --> 01:02:15,000
+We had Eric Raymond and Christ
+actually tried to go up eventually.
+最后Eric Raymond 和Christ 进去了
+
+1169
+01:02:15,300 --> 01:02:17,600
+They had blocked the elevator off to us.
+他们封锁了电梯
+
+1170
+01:02:17,600 --> 01:02:18,800
+[ Where are the offices? ]
+［ 办公室在哪儿？ ］
+
+1171
+01:02:18,800 --> 01:02:21,000
+The offices are right up here on the 9th floor.
+办公室在上面9层
+
+1172
+01:02:23,000 --> 01:02:25,100
+We got some really nice parts out of it.
+？？
+
+1173
+01:02:25,300 --> 01:02:26,500
+and we think as a result
+？？
+
+1174
+01:02:26,500 --> 01:02:30,500
+Toshiba made a possible for you to buy
+laptop without the operating system on it.
+Toshiba 提供了买没有操作系统的电脑的可能
+
+1175
+01:02:31,200 --> 01:02:33,000
+So, it's a small victory, but...
+这是一个小小的成功, 但是....
+
+1176
+01:02:33,100 --> 01:02:37,100
+Well, even now, companies such as IBM and...
+即使现在， 像IBM 这样的公司还有....
+
+1177
+01:02:37,200 --> 01:02:39,500
+a lot of other computer manufacturers
+are allowing you...
+很多其他计算机制造商正在允许你....
+
+1178
+01:02:39,500 --> 01:02:42,100
+now to buy machines that don't have
+Windows on them.
+现在买没有安装Windows 的机器
+
+1179
+01:02:51,000 --> 01:02:53,800
+When I was a kid and I went to school,
+当我还是一个孩子的时候， 我去上学
+
+1180
+01:02:53,800 --> 01:02:56,100
+the teachers will try to teach us to share.
+老师教我们要学会共享
+
+1181
+01:02:56,100 --> 01:02:58,100
+They said if you bring some candy,
+老师说如果你有糖
+
+1182
+01:02:58,100 --> 01:03:01,200
+you can't eat it all yourself, you
+got to share with other kids.
+你不能一个人把它们都吃掉，你应该和别的孩子分着吃
+
+1183
+01:03:01,200 --> 01:03:06,800
+But now the administration says teachers
+should be teaching kids to say yes to licensing.
+但是现在校长说老师应当教孩子们对许可证说“我同意”
+
+1184
+01:03:06,800 --> 01:03:09,800
+If you bring some software to school,
+"Oh! No, don't share it...
+如果你带了一些软件到学校“喔！ 不， 不要共享它....
+
+1185
+01:03:09,800 --> 01:03:13,800
+...sharing means you're pirate,
+sharing means you will be put in jail."
+....共享意味着你是剽窃者，共享意味着你将被投入监狱
+
+1186
+01:03:14,000 --> 01:03:18,000
+That's not the way society should work.
+We need the good will,
+这不是社会应当运行的轨迹，我们需要好的愿望
+
+1187
+01:03:19,000 --> 01:03:23,000
+the willingness to help other people
+at least when it's not too hard,
+至少有帮助别人的愿望，当帮助别人并不是很难的时候
+
+1188
+01:03:23,300 --> 01:03:25,500
+because that's the basis of society,
+因为这是社会的基础
+
+1189
+01:03:25,500 --> 01:03:28,000
+that's the fundamental resource.
+这是基本的社会资源
+
+1190
+01:03:28,000 --> 01:03:31,900
+They give us a society instead of
+a dog-eat-dog jungle.
+他们？？
+
+1191
+01:03:31,900 --> 01:03:33,100
+[ So what about people say if that if
+［ 那么如果人们问你是否？？
+
+1192
+01:03:33,100 --> 01:03:36,200
+you have rampant piracy and eliminate
+the profit motive and...
+？你鼓励盛行的侵犯著作权并且消除了获利的动机，并且....?
+
+1193
+01:03:36,200 --> 01:03:38,000
+...and creative works, software.
+Will not... ]
+....并且有创造力的作品， 软件， 将不会.... ]
+
+1194
+01:03:38,000 --> 01:03:41,000
+Well, they were on both counts. For one thing,
+哦， ？？， 首先
+
+1195
+01:03:41,000 --> 01:03:45,000
+people are making a profit from
+developing Free Software,
+人们利用开发自由软件来获利
+
+1196
+01:03:45,000 --> 01:03:49,800
+but for another, the freedom to
+have a community is more important.
+另外， 拥有一个社团的自由是更重要的
+
+1197
+01:03:50,000 --> 01:03:53,800
+[ People that look at, casually at
+Open Source Free Software and think...
+［ 人们偶尔这样看开源自由软件， 认为....
+
+1198
+01:03:53,800 --> 01:03:57,000
+Well, because you are supposed to
+share and do it for people's good will,
+因为你追求共享， 是为了人的理想而做这件事
+
+1199
+01:03:57,000 --> 01:03:59,400
+Doesn't that seem someone communist.
+What's your response? ]
+这样看来不是有点共产主义吗？你怎么回应他们？ ］
+
+1200
+01:03:59,400 --> 01:04:03,200
+Absolutely nonsense,
+it makes me really angry when people do that.
+完全没有意义，人们这样做只会让我生气
+  
+1200
+01:03:59,400 --> 01:04:03,200
+Absolutely nonsense,
+it makes me really angry when people do that.
+一派胡言。人们这么说使我愤怒！
+1201
+01:04:03,200 --> 01:04:08,000
+Well, back in, back in 1989,
+actually communism would have been a compliment.
+好，在1989年的时候，实际上“共产主义”可能还算个恭维
+1202
+01:04:08,200 --> 01:04:10,600
+the word people were using at that time
+was "crazy",
+那时候人们用的词是“疯狂”
+1203
+01:04:10,600 --> 01:04:12,500
+and I want them to use capitalism.
+我要他们用“资本主义”
+1204
+01:04:12,500 --> 01:04:16,000
+Communism is an ideology that forces people to share.
+共产主义是强迫人共享的意识形态
+1205
+01:04:16,100 --> 01:04:19,700
+If you don't share, you get thrown in jail or killed.
+如果你不共享，你就会被投入监狱或者被杀掉
+1206
+01:04:19,900 --> 01:04:26,000
+In 1990, we got a visit from a director
+of an institute in uh, the Moscow University,
+1990年，莫斯科大学某个研究所的头来访问我们
+1207
+01:04:26,100 --> 01:04:30,000
+and actually I saw him in Helsinki just 2 weeks ago,
+实际上两周以前我在赫尔辛基见过他
+1208
+01:04:31,200 --> 01:04:33,000
+but in an event, he came by,
+在某个场合，他过来了
+1209
+01:04:33,200 --> 01:04:37,000
+and Richard Stallman had suggested
+that he visit Cygnus,
+Richard Stallman说过他访问过Cygnus
+1210
+01:04:37,000 --> 01:04:41,000
+because he was interested in and
+understanding how the Free Software model...
+因为他对自由软件的模型感兴趣
+1211
+01:04:41,000 --> 01:04:46,100
+might apply to stimulating entrepreneurial
+innovation in Russia of all places,
+并想把它运用到刺激俄国和其他各地的企业创新中去
+1212
+01:04:46,300 --> 01:04:50,300
+and we had been kind of secretive
+about our business plan,
+我们对我们的商业计划有些保密
+1213
+01:04:50,500 --> 01:04:53,200
+because you know, we were not really
+sure it's gonna work,
+因为你知道，我们并没有把握它一定能行
+1214
+01:04:53,200 --> 01:04:56,000
+we didn't want to look too stupid if it failed.
+我们并不想因为它失败而显得很愚蠢
+1215
+01:04:56,000 --> 01:04:58,300
+But I was very very open with him.
+可是我对他还是很开诚布公的
+1216
+01:04:58,300 --> 01:05:02,200
+The more I told him,
+the more he started to shake his head like this,
+我对他讲得越多，他越是摇头，就像这样
+1217
+01:05:02,400 --> 01:05:06,000
+and I finally said, you know, "What's wrong?"
+没有办法，我最后说，“哪里有问题”
+1218
+01:05:06,000 --> 01:05:11,000
+And he said, "This sounds to much like communism
+to be successful in Russia."
+他说：“这听起来太像要在俄国实现共产主义了。”
+1219
+01:05:13,000 --> 01:05:17,000
+You got to go a Gulag and end up in a mass grave
+with a bullet in the back of your head.
+你应该去古格拉，埋葬在公墓里，后脑里有颗子弹。。。
+1220
+01:05:17,000 --> 01:05:21,000
+Open Source is not communism
+because it does not force people.
+开放源码不是共产主义，是因为它不强迫别人
+1221
+01:05:23,000 --> 01:05:26,000
+Carl Marx did not invent helping your neighbor.
+卡尔·马克思不会发明东西来帮助你的邻居
+1222
+01:05:27,800 --> 01:05:31,800
+It's not communist to have a commons,
+公有不是共产主义的产物
+1223
+01:05:31,900 --> 01:05:38,600
+A commons existed long before communism as
+a philosophy of government.
+公有在共产主义这种政治哲学出现以前很久就存在了
+1224
+01:05:39,400 --> 01:05:41,500
+there are many commons in our lives,
+我们生活中有很多公有的东西
+1225
+01:05:41,500 --> 01:05:43,600
+For example, we drive on the highway,
+比方说，我们在公路上开车
+1226
+01:05:43,600 --> 01:05:47,000
+something it is maintained for our common good.
+公路是为我们的公共利益而保有的
+1227
+01:05:47,000 --> 01:05:51,000
+Actually labeling our business model...
+实际上，为我们的商业模型贴标签
+1228
+01:05:51,600 --> 01:05:53,700
+means that it misses the point a little bit.
+必然会多少偏离其本意
+1229
+01:05:53,700 --> 01:05:54,800
+whether it's communist, or whether it's capitalist,
+不过这种标签是共产主义，还是资本主义
+1230
+01:05:54,800 --> 01:05:58,400
+the label doesn't matter, the real question is,
+标签并不重要，真正的问题是
+1231
+01:05:58,400 --> 01:06:02,000
+how much value can you deliver,
+how scalable is the business,
+你能传播多少价值，你的生意有多少斤两
+1232
+01:06:02,000 --> 01:06:05,300
+what kind of problems,
+what kind of of rate of innovation can you sustain.
+你能解决什么样的问题，你能保持多快的创新速度
+1233
+01:06:05,300 --> 01:06:09,000
+and then, however you want to label that,
+it's really up to you.
+这些弄清楚了，不管你怎么称呼它，都随你的便
+1234
+01:06:10,400 --> 01:06:13,600
+The Revolution goes Prime Time.
+这场革命进入黄金时间
+1235
+01:06:37,600 --> 01:06:39,100
+A lot of people described,
+许多人描述道
+1236
+01:06:39,100 --> 01:06:42,000
+that August LinuxWorld as
+"Linux's coming-out party",
+八月的Linux大会是Linux的出生聚会
+1237
+01:06:42,000 --> 01:06:46,000
+Linus Torvalds was very funny about this,
+he said, "What? Was Linux gay?"
+Linus Torvalds觉得这种说法很搞笑
+他说，“什么？Linux是同性恋么？”
+1238
+01:06:48,000 --> 01:06:51,000
+But some people said
+"Yeah, that was our debutante ball."
+不过一些人说：“啊，那是我们的首次社交舞会”
+1239
+01:06:51,600 --> 01:06:52,700
+That was when the...
+那一次，是
+1240
+01:06:52,700 --> 01:06:56,700
+Linux Gods, and the hardware hackers
+really got it together with the suits.
+Linux的创造者们和硬件黑客们真正穿着西装聚在一起
+1241
+01:07:06,800 --> 01:07:09,800
+At 3pm on August 10th 1999,
+1999年8月10日下午3时
+1242
+01:07:09,800 --> 01:07:13,400
+Linus Torvalds delivered the keynote
+address to the LinuxWorld.
+Linus Torvalds在LinuxWorld大会上做了主题讲演
+1243
+01:07:13,400 --> 01:07:17,900
+The crowds of 6000 people began lining up at 12 noon.
+6000听众在中午12点的时候就在排队等待入场了
+1244
+01:07:37,500 --> 01:07:40,000
+Ladies and gentlemen,
+please welcome Larry Augustin...
+女士们，先生们
+请欢迎Larry Augustin
+1245
+01:07:40,000 --> 01:07:45,800
+LinuxWorld Conference Chair and President and
+CEO of VA Linux Systems.
+LinuxWorld大会主席，VA Linux Systems总裁兼CEO
+1246
+01:07:54,000 --> 01:07:57,000
+These guys have to clap, I pay them.
+那些人不得不鼓掌，我付钱给他们：）
+1247
+01:07:57,000 --> 01:08:01,300
+Thank you all for being here,
+looks like it's been a great show so far.
+感想大家来到这里，目前看来这还是一个不错的展览
+1248
+01:08:01,300 --> 01:08:07,600
+If you'll indulge me for a moment, I'm going to
+try to avoid the glare of the lights.
+如果你们给我一点时间，我将躲过刺眼的灯光
+1249
+01:08:07,800 --> 01:08:11,000
+I still think there's lots of people,
+even though this is the 2nd show,
+我仍然觉得有很多人，尽管这是第二次展览了
+1250
+01:08:11,000 --> 01:08:14,500
+I still think there's lots of people
+who don't quite get...
+我仍然觉得有很多人并不是很理解
+1251
+01:08:14,500 --> 01:08:17,000
+...what it is that's so exciting about Linux
+Linux有什么东西这么精彩
+1252
+01:08:17,000 --> 01:08:19,000
+So there is a great show going
+on next door,
+所以隔壁正在举行一个很棒的展览
+1253
+01:08:19,000 --> 01:08:21,700
+there's huge exhibits and everything,
+那里有众多的展品，什么都有
+1254
+01:08:21,700 --> 01:08:26,600
+but it's the people out here
+that are real contributors, not those companies.
+不过在展览外面，我们这儿的人才是真正的贡献者，不是那些公司
+1255
+01:08:26,600 --> 01:08:29,500
+The person on next I know you all know,
+下一个出场的人我知道你们都认识
+1256
+01:08:29,500 --> 01:08:32,400
+so I don't have to give anything in the way
+as introduction.
+所以我就不必罗嗦地做介绍任何了
+1257
+01:08:32,400 --> 01:08:36,000
+Ladies and gentlemen, I give you, Linus Torvalds.
+女士们，先生们，请欢迎，Linux Torvalds！
+1258
+01:08:36,000 --> 01:08:39,000
+Linus
+Linus
+1259
+01:08:44,000 --> 01:08:45,000
+Thanks.
+谢谢
+1260
+01:08:48,000 --> 01:08:50,000
+Calm down.
+安静
+1261
+01:08:55,500 --> 01:08:57,500
+Calm down.
+安静
+1262
+01:08:57,500 --> 01:08:59,000
+Say "oooo".
+说“呜。。。”
+1263
+01:08:59,000 --> 01:09:00,000
+yes.
+对了
+1264
+01:09:00,200 --> 01:09:03,600
+I don't want to just give one
+of my normal talks,
+我不想做一个正式的讲演
+1265
+01:09:03,600 --> 01:09:05,100
+because I find them boring,
+因为我觉得那样太烦
+1266
+01:09:05,100 --> 01:09:09,100
+probably by now most of you find them boring
+too because you've heard them like 10 times.
+可能现在你们也觉得它们烦了，因为你们已经听过有十遍了
+1267
+01:09:10,000 --> 01:09:12,700
+But after the technical updates,
+we will actually try...
+但是在技术升级之后，我们实际上努力想
+1268
+01:09:12,700 --> 01:09:17,200
+...whether we can do a question and
+answer session with 5,000 people,
+我们是否能做一个5000人容量的提问/解答会话系统
+1269
+01:09:17,300 --> 01:09:20,000
+or how many of you there are there.
+或者不管多少人都行
+1270
+01:09:21,000 --> 01:09:23,200
+and it may not actually work out,
+不过它不一定真的能做出来
+1271
+01:09:23,200 --> 01:09:26,900
+because one of the 5,000 people is really loud.
+因为5000人里面有一个声音就已经够大的了
+1272
+01:09:26,900 --> 01:09:28,000
+The one thing I will do,
+我要做的一件事情
+1273
+01:09:28,000 --> 01:09:32,000
+which I always do in all my talks is
+the gratitude thing,
+也是我在所有演讲里都做的一件事情，就是感谢
+1274
+01:09:32,400 --> 01:09:35,500
+I want to kind of acknowledge the fact that...
+我想阐述一个事实，那就是
+1275
+01:09:35,500 --> 01:09:38,000
+...I'm obviously not been alone in doing Linux.
+我显然不是自己在做Linux
+1276
+01:09:38,000 --> 01:09:40,000
+RHAT IPO: On August 11, 1999
+REDHAT股票首次公开发行（IPO）：1999年8月11日
+1277
+01:09:40,000 --> 01:09:43,700
+Red Hat Software became
+the first Linux company to go public.
+Red Hat Software成为首个上市的Linux软件公司
+1278
+01:09:43,700 --> 01:09:45,700
+Red Hat, up 228%
+Red Hat，涨228%
+1279
+01:09:45,700 --> 01:09:48,800
+this the IPO the everybody was waiting for.
+这是每个人都在等待的首次公开发行
+1280
+01:09:48,800 --> 01:09:51,300
+They of cause are behind
+the Linux operating software.
+他们当然在追捧Linux操作系统软件
+1281
+01:09:58,000 --> 01:10:02,000
+Morgan J.T., I know
+Morgan J.T.，我知道
+1282
+01:10:03,000 --> 01:10:04,000
+All I've gotten today,
+我今天所有得到的消息
+1283
+01:10:04,000 --> 01:10:07,400
+are comments about
+what the stock prices all morning,
+都是关于上午股价的评论
+1284
+01:10:07,400 --> 01:10:10,900
+you know it was 41, it was 42, it was 47,
+从每股41美圆，到42，47
+1285
+01:10:10,900 --> 01:10:13,800
+it is 53, it is 51...
+然后是53，51
+1286
+01:10:13,800 --> 01:10:17,600
+Every machine as far as I can tell
+on the show floor
+就我能见到的展层，每台机器
+1287
+01:10:17,600 --> 01:10:21,600
+is pointed to their e-trade accounts or their
+broker accounts, they know the Red Hat's price
+都指向它们的电子交易帐户或它们经纪人的帐户，他们知道Red Hat的股价
+1288
+01:10:22,400 --> 01:10:24,900
+I can't believe this.
+我简直不敢相信
+1289
+01:10:24,900 --> 01:10:26,700
+I just heard 53.
+我刚听说涨到53块了
+1290
+01:10:26,700 --> 01:10:27,700
+Oh, boy.
+哦，老兄
+1291
+01:10:27,700 --> 01:10:29,700
+Hang on, I didn't buy it.
+别涨了，我买买这支股票
+1292
+01:10:29,700 --> 01:10:31,100
+You didn't buy?
+你没买？
+1293
+01:10:31,100 --> 01:10:33,300
+No, no, I didn't buy.
+没有，没有，我没买
+1294
+01:10:33,300 --> 01:10:35,000
+I should've buy, but uh...
+我本来应该买的，可是。。。
+1295
+01:10:35,000 --> 01:10:36,600
+No no, that's great.
+不，不，它太棒了
+1296
+01:10:36,600 --> 01:10:38,100
+If it's... if it's....
+如果它。。如果它。。。
+1297
+01:10:38,100 --> 01:10:39,400
+You guys don't know?
+你们这些哥们不知道？
+1298
+01:10:39,400 --> 01:10:40,500
+Well, you know
+哦，你知道
+1299
+01:10:40,500 --> 01:10:42,800
+Red Hat being successful as just being said
+Red Hat正像所说的那样成功了
+1300
+01:10:42,800 --> 01:10:46,300
+It legitimizes Linux
+So it's much easier for us to go out
+它的成功使Linux为大众接受。所以我们跟进就容易得多了
+1301
+01:11:03,000 --> 01:11:06,000
+Rob Malda (CmdrTaco) ...
+on the Red Hat IPO
+Rob Malda (CmdrTaco)...在Red Hat股票的首次公开发行上
+1302
+01:11:06,000 --> 01:11:08,000
+It's kind of been a little bit divided.
+一直都有某种意见分歧
+1303
+01:11:08,000 --> 01:11:09,000
+You've got a lot of people
+你知道有很多人
+1304
+01:11:09,000 --> 01:11:10,000
+that are pretty hardcore and
+相当核心的成员
+1305
+01:11:10,000 --> 01:11:11,300
+And they are a kind of offended by that
+他们有点被冒犯了
+1306
+01:11:11,300 --> 01:11:14,400
+you know, cause they worked really hard,
+they are not really getting...
+你知道，他们工作很努力，他们没有得到。。。
+1307
+01:11:14,400 --> 01:11:16,900
+maybe they fair share out of that.
+可能他们公平的份额
+1308
+01:11:16,900 --> 01:11:18,100
+Some people do get ticked.
+
+1309
+01:11:18,100 --> 01:11:19,200
+and you know the thing
+你知道这事吧
+1310
+01:11:19,200 --> 01:11:21,400
+that you see that on a lot of mailing lists
+on the Slashdot you'll read, you know
+你在Slashdot上的很多邮件列表都能看到
+1311
+01:11:21,400 --> 01:11:27,200
+This guy is really mad because he didn't
+get chance to, he's didn't get a chance to do...
+这伙计真的疯了，因为他没有机会，他没能有机会去
+1312
+01:11:28,300 --> 01:11:29,700
+to get stock from Red Hat
+去从Red Hat公司得到股票
+1313
+01:11:29,700 --> 01:11:34,700
+He didn't get a chance to get...
+to get a job from this other company, you know.
+他也没有机会从其他公司得到一份工作
+1314
+01:11:35,200 --> 01:11:38,700
+But the, the kind of the shocking secret
+there is that,
+但是，令人吃惊的秘密是
+1315
+01:11:38,700 --> 01:11:41,800
+Most the really hardcore guys,
+you know, they don't care so much.
+多数的核心成员，你知道，他们并不太在意
+1316
+01:11:41,800 --> 01:11:43,600
+The guys that are kind of really down in trenches.
+那些家伙很少抛头露面
+1317
+01:11:43,600 --> 01:11:46,000
+They're writing this code because
+they need this code.
+他们在写代码，因为他们需要这代码
+1318
+01:11:46,300 --> 01:11:48,400
+If we could invite Richard Stallman
+如果我们能请到Richard Stallman
+1319
+01:11:48,400 --> 01:11:51,800
+who is the founder of
+the Free Software Association
+自由软件协会的创始人
+1320
+01:11:51,800 --> 01:11:53,700
+and Tim Ney, who's the managing director.
+以及Tim Ney，它的管理主管
+1321
+01:11:53,700 --> 01:11:57,000
+Here we go.  Hahahahaha
+我们这就去。哈哈哈
+1322
+01:11:57,000 --> 01:11:59,200
+Ah, here it is.
+啊，来了
+1323
+01:12:00,000 --> 01:12:04,800
+Now, Richard, I saw you playing your recorder
+at, in Paris at that Linux conference
+现在，Richard，我上次在巴黎的Linux会议上看见你在放磁带
+1324
+01:12:04,800 --> 01:12:06,200
+But I didn't have audio tracks.
+但是我没有录音
+1325
+01:12:06,200 --> 01:12:08,400
+So would you them to add audio to their, uh...
+那么下次你能把声音加到它们的，呃
+1326
+01:12:08,400 --> 01:12:10,400
+Video downstream next time
+视频流么？
+1327
+01:12:10,400 --> 01:12:12,600
+Uh..I don't have any control over that
+呃，那些我一点儿也管不了
+1328
+01:12:12,600 --> 01:12:16,600
+unfortunately those things can
+only be done with non-free software.
+不幸的是那些东西只能用非自由软件来做
+1329
+01:12:20,100 --> 01:12:23,400
+We give you the award, and before you say a word,
+我们向你颁奖，在你发言以前
+1330
+01:12:23,400 --> 01:12:28,300
+we'll have a Tim and yourself hold up
+a little representation of the contribution
+我们想让你和Tim把这个
+1331
+01:12:28,500 --> 01:12:30,800
+towards the Free Software Association.
+颁给自由软件协会的奖举一下
+1332
+01:12:30,800 --> 01:12:34,800
+So, very ironic things have happened,
+于是，非常讽刺的事情发生了
+1333
+01:12:35,200 --> 01:12:38,000
+but nothing to match this
+什么事都比不上这个
+1334
+01:12:38,000 --> 01:12:41,600
+Giving the Linus Tovarlds award
+to the Free Software Foundation
+向自由软件基金会颁发Linus Torvalds奖
+1335
+01:12:41,600 --> 01:12:45,600
+is sort of like giving the
+Han Solo award to the rebel fleet.
+就像反叛舰队办法Han Solo奖一样滑稽
+1336
+01:12:50,200 --> 01:12:56,000
+You see, some of you may not realize how far
+that analogy goes.
+你看，你们一些人还没意识到这个类比是怎么做的
+1337
+01:12:57,800 --> 01:13:01,300
+But actually let me tell you
+how this, how we got here.
+实际上，让我告诉你今天的情况是怎么发展来的
+1338
+01:13:01,300 --> 01:13:02,800
+see what happened this.
+你就会知道为什么这是件荒唐事
+1339
+01:13:02,800 --> 01:13:05,400
+15 years ago, if you wanted to use a computer,
+15年前，如果你想使用一台电脑
+1340
+01:13:05,400 --> 01:13:09,400
+the only way you could do it
+was to, was with proprietary software,
+你能做的唯一方法是在上面运行私有产权软件
+1341
+01:13:10,300 --> 01:13:13,000
+software that divides and subjugates the users.
+这种软件分化并征服了用户
+1342
+01:13:13,000 --> 01:13:14,900
+And most people just...
+多数人只是。。。
+1343
+01:13:14,900 --> 01:13:16,200
+A lot of people didn't like it.
+许多人不喜欢这样
+1344
+01:13:16,200 --> 01:13:17,700
+But they saw there's no alternative.
+但是他们看不到替代物
+1345
+01:13:17,700 --> 01:13:21,500
+But some of us were determined
+to make an alternative.
+我们中的一些人决心做一种替代方案
+1346
+01:13:21,500 --> 01:13:25,500
+And we said we're gonna develop
+a free operating system,
+于是我们说我们要开发一种自由的操作系统
+1347
+01:13:25,600 --> 01:13:27,400
+a free software operating system
+一种是自由软件的操作系统
+1348
+01:13:27,400 --> 01:13:33,100
+that will give users the chance to have freedom
+while they use their computers.
+它会使用户使用他们电脑的时候有机会得到自由
+1349
+01:13:33,700 --> 01:13:36,300
+Now a lot of people said, "Well, it's a nice idea
+有人会说“好啊，这是个好主意
+1350
+01:13:36,300 --> 01:13:38,600
+but it's so hard, you'll never get it done,
+不过它太难了，你永远也不能完成这件事
+1351
+01:13:38,600 --> 01:13:42,500
+so I don't wanna participate,
+I don't believe you can ever get it done."
+所以我不会参与，我不相信你能把它做完
+1352
+01:13:42,500 --> 01:13:45,300
+But luckily not everybody said that.
+好在不是每个人都这么说
+1353
+01:13:45,300 --> 01:13:49,200
+And clearly, we knew
+we would eventually get the kernel done.
+很清楚，我们知道最终我们会把内核完成
+1354
+01:13:49,200 --> 01:13:50,500
+But as it happens.
+不过碰巧的是
+1355
+01:13:50,500 --> 01:13:53,600
+somebody else did a better kernel before we did.
+有人在我们做以前做了一个更好的内核
+1356
+01:13:53,600 --> 01:13:57,200
+Now in the old days, we had an overall strategy
+所以那时候，我们的总体战略发生了改变
+1357
+01:13:57,200 --> 01:14:00,800
+from calling people's attention
+to the importance of freedom
+从唤起人们对自由的重要性的关注，转移到
+1358
+01:14:00,800 --> 01:14:04,800
+To the freedom they can have, or not have,
+when they use a computer.
+他们使用电脑时他们能得到的自由，或者他们没有得到的自由
+1359
+01:14:05,500 --> 01:14:07,600
+Well what can we do about it?
+As far as I can tell,
+那么我们能做些什么呢？就我而言
+1360
+01:14:07,600 --> 01:14:13,600
+the only workable way of trying to
+change this make that strategy work again
+使那种战略重新运行唯一可行的方法是
+1361
+01:14:14,000 --> 01:14:19,800
+is to, spread the word that the operating system
+you're using is actually the GNU system.
+传播这样的观念，即你在用的操作系统实际上就是GNU系统
+1362
+01:14:19,900 --> 01:14:22,100
+Somewhat modify of cause.
+当然与原来的有些改变
+1363
+01:14:23,200 --> 01:14:25,100
+And when people know this,
+当人们知道这点的时候
+1364
+01:14:25,100 --> 01:14:28,600
+they'll take a look at the reasons
+we developed this system.
+他们就会关心为什么我们要开发这套系统
+1365
+01:14:28,600 --> 01:14:30,500
+They'll think about these issues.
+他们会考虑这些问题
+1366
+01:14:30,500 --> 01:14:33,300
+And some of them will decide they agree.
+他们中的一些人就会决定同意我们
+1367
+01:14:33,300 --> 01:14:36,600
+So I ask people,
+please tell the people this is the GNU system.
+所以我跟人说，请告诉人们这是GNU系统
+1368
+01:14:36,600 --> 01:14:40,600
+It's the combination of the GNU and Linux
+so we can call it GNU/Linux
+它是GNU和Linux的结合体，所以我们叫它GNU/Linux
+1369
+01:14:46,600 --> 01:14:49,900
+[ So Larry, when you were at Stanford 
+8 or 9 years ago during your Ph.D
+那么Larry，当你8、9年前在斯坦福念博士的时候
+1370
+01:14:49,900 --> 01:14:51,600
+did you ever think in this position? ]
+你想到这个职务了么？
+1371
+01:14:51,600 --> 01:14:52,500
+No
+没有
+1372
+01:14:52,500 --> 01:14:53,900
+[ All kidding aside. ]
+
+1373
+01:14:53,900 --> 01:14:55,800
+No I had no idea honestly
+诚实地讲，没有
+1374
+01:14:55,800 --> 01:14:58,600
+[ What did you think you would be
+when you were finished up with your Ph.D? ]
+你博士毕业的时候你想你会做什么？
+1375
+01:14:58,600 --> 01:15:00,000
+You know that's a good question,
+你知道，这是一个好问题
+1376
+01:15:00,000 --> 01:15:02,300
+I really didn't have a good idea, I mean.
+我想，我的确没有好的想法
+1377
+01:15:02,300 --> 01:15:05,600
+Here we are, on this huge show floor.
+回到我们这儿。在这个巨大的展层
+1378
+01:15:05,600 --> 01:15:08,600
+There are people just going crazy about Linux.
+有许多对Linux发疯的人们
+1379
+01:15:08,600 --> 01:15:12,000
+We had 6,200 people crammed into a room
+有一个房间涌入了6200个人
+1380
+01:15:12,000 --> 01:15:15,300
+to see the Linux, Linus speak last night.
+去看Linus讲演
+1381
+01:15:15,300 --> 01:15:16,900
+Here we are, with, you know,
+这里，你知道
+1382
+01:15:16,900 --> 01:15:19,600
+all of these huge venders all over the show.
+展会里有所有的销售商
+1383
+01:15:19,600 --> 01:15:22,700
+I..It's, just, you have no idea that
+this is gonna happen.
+你简直不知道将要发生什么
+1384
+01:15:22,700 --> 01:15:25,500
+I mean this is just this little operating system
+that were happy with.
+我是指这个小小的操作系统，人们为之发狂
+1385
+01:15:25,500 --> 01:15:27,500
+that few people cared about, you know,
+而你知道，以前很少有人对它关心
+1386
+01:15:27,500 --> 01:15:29,500
+I thought I'd have a nice little
+consulting business.
+我以前想做一个好的小咨询业务
+1387
+01:15:29,500 --> 01:15:30,900
+And here I am suddenly,
+现在我有了
+1388
+01:15:30,900 --> 01:15:33,400
+with all of this huge show going on.
+在这个大展会举行的时候
+1389
+01:15:33,400 --> 01:15:34,400
+It's just incredible.
+这简直难以置信
+1390
+01:15:34,400 --> 01:15:37,600
+I mean, a year ago, you could look and say,
+you know, this is gonna be big
+我的意思是，一年前，你会说，展会会很大
+1391
+01:15:37,600 --> 01:15:39,400
+and everyone standing at the show going
+而展会上的每个人都会说
+1392
+01:15:39,400 --> 01:15:41,800
+"You know the show was big last year,
+“你知道去年的展会很大，
+1393
+01:15:41,800 --> 01:15:44,800
+is it gonna, is it gonna be as big as this year?"
+今年的会跟去年的一样大么？”
+1394
+01:15:44,900 --> 01:15:46,100
+The you remind them
+那么你就会提醒他们
+1395
+01:15:46,100 --> 01:15:48,300
+"You know, last year was only 6 month ago."
+你知道，去年是仅仅6个月以前
+1396
+01:15:48,400 --> 01:15:50,300
+And then they go "Oh, , Linux time".
+于是他们会说：“哦，这是Linux时间。”
+1397
+01:16:17,000 --> 01:16:19,200
+So leading up to the IPO, uh...
+一路通过IPO
+1398
+01:16:19,200 --> 01:16:25,200
+we had arrived actually in San Diego
+on Tuesday night
+我们星期二夜里实际已经到了圣地亚哥
+1399
+01:16:25,500 --> 01:16:29,500
+We spent Wednesday morning meeting investors
+in San Diago.
+我们星期三早上会见了圣地亚哥的投资者
+1400
+01:16:29,900 --> 01:16:31,300
+We flew up to San Francisco
+然后北上旧金山
+ 
+1401
+01:16:31,300 --> 01:16:35,200
+spent Wednesday afternoon meeting
+investment firms in San Francisco
+星期三下午会见了旧金山的投资银行
+1402
+01:16:35,200 --> 01:16:36,100
+VA Linux Selected
+December 9, 1999, as the day
+for its stock to begin trading.
+VA Linux选择1999年12月9日作为其股票的首个交易日
+1403
+01:16:36,100 --> 01:16:39,500
+then on the Thursday morning of the IPO is
+然后在星期四上午的IPO
+1404
+01:16:39,500 --> 01:16:42,000
+when our stock would be traded publically.
+我们的股票就会公开交易
+1405
+01:16:42,000 --> 01:16:45,800
+So it was nice we had ended
+the tour in San Francisco
+很高兴我们已经结束了我们的旧金山之行
+1406
+01:16:45,800 --> 01:16:49,700
+because we could go to the credits suite's
+trading desk the next morning
+因为我们第二天可以去交易所
+1407
+01:16:49,700 --> 01:16:51,600
+to watch the public offering.
+去看公开发售了
+1408
+01:16:51,600 --> 01:16:55,600
+And in San Francisco being close
+enough to the company, and to our families,
+旧金山离公司和家里都比较近
+1409
+01:16:55,600 --> 01:16:59,600
+we could invite people up to
+actually join us in the first trade.
+我们可以请人参加我们的首日交易
+1410
+01:16:59,600 --> 01:17:02,700
+So I invited my wife and we invited Linus and Tove,
+所以我邀请了我妻子，我们请了Linus和Tove
+1411
+01:17:02,700 --> 01:17:06,200
+and a number of other friends and people
+who worked in the company in to join us.
+以及其他朋友和在公司工作的人们和我们一起去
+1412
+01:17:06,200 --> 01:17:07,700
+Whenever we invite Linus and Tove,
+每次我们请Linus和Tove
+1413
+01:17:07,700 --> 01:17:10,800
+they have uh, two young children,
+他们有，呃，两个小孩子
+1414
+01:17:10,800 --> 01:17:12,800
+and I have a daughter, Andrea.
+我有一个女儿，Andrea
+1415
+01:17:12,800 --> 01:17:14,300
+And we always bring the kids along
+我们总是把孩子们一起带上
+1416
+01:17:14,300 --> 01:17:16,300
+so we went in to the credit suite's trading floor
+于是我们来到交易大厅
+1417
+01:17:16,300 --> 01:17:18,700
+with all these traders and there are these 3 year old kids
+那里有交易员，还有三岁大的孩子们
+1418
+01:17:18,700 --> 01:17:21,000
+running around and chasing each other
+around the show floor,
+来回跑，在展层里互相追逐
+1419
+01:17:21,000 --> 01:17:22,000
+around the trading floor.
+
+1420
+01:17:22,000 --> 01:17:27,200
+So Linus and I walked in and
+we walked up in to the trading floor
+于是Linus和我走进去，我们走到交易层
+1421
+01:17:27,300 --> 01:17:28,600
+and everyone was very excited.
+每个人都非常兴奋
+1422
+01:17:28,600 --> 01:17:31,800
+And we kept asking them, well
+"Hows it going? Are things going ok?".
+我们不停地问他们，“怎么样了，一起都好吧？”
+1423
+01:17:31,800 --> 01:17:34,600
+And they said, "Oh, it's.. uh, we're really excited,
+他们说。。。我们十分兴奋
+1424
+01:17:34,600 --> 01:17:35,800
+I think things are going well.
+我想事情进行得很顺利
+1425
+01:17:35,800 --> 01:17:39,400
+We don't wanna, We don't wanna say,
+We don't wanna jinx anything."
+我们不想，我们不想说，我们不想说任何东西
+1426
+01:17:39,400 --> 01:17:43,400
+We walked in and it was a big screen TV showing CNBC.
+我们走进去，里面有个大屏幕电视，在放CNBC
+1427
+01:17:44,000 --> 01:17:48,000
+And it was amazing to us,
+but the theme for the day was Linux.
+这令我们惊奇，而那天的主题是Linux
+1428
+01:17:48,100 --> 01:17:50,500
+Now we have an IPO that's gonna go today.
+现在我们今天就要首次公开发行股票了
+1429
+01:17:50,500 --> 01:17:52,700
+And when I mean go, it is going to go.
+而且我要它发行，它就会发行
+1430
+01:17:52,700 --> 01:17:54,700
+The estimates I'm hearing are staggering.
+我听到的对它的预测令人惊愕
+1431
+01:17:54,700 --> 01:17:58,200
+But watch VA Linux Systems. It goes at 12:40 today.
+看VA Linux Systems公司。它在今天12:40发行
+1432
+01:17:58,200 --> 01:17:59,900
+The symbol is L-N-U-X.
+股票代号是L-N-U-X。
+1433
+01:17:59,900 --> 01:18:03,500
+A provider of large scale computer
+servers and workstations,
+一个大规模计算机服务器和工作站提供商
+1434
+01:18:03,500 --> 01:18:05,700
+specially designed for the Linux operating system.
+为Linux操作系统特别设计
+1435
+01:18:05,700 --> 01:18:11,800
+The original range on this IPO was
+11 to 13 dollars, then 21 to 23, then 28 to 30.
+开始的股价区间是11到13美圆，然后从21到23，然后28到30
+1436
+01:18:12,000 --> 01:18:15,300
+Priced at 30, and the estimates I'm hearing
+I don't wanna repeat
+股价达到30，然后我听到的预测我不想重复了
+1437
+01:18:15,300 --> 01:18:16,600
+because I don't have a confirmation.
+因为我没有确认
+1438
+01:18:16,600 --> 01:18:21,500
+But if they're true, they will blow you're mind
+when this stock takes off at 12:40.
+但是如果它们是真的，它们会刺激你，考虑到股市开盘是在12:40
+1439
+01:18:21,500 --> 01:18:23,900
+I turned to Linus and I said "Gee, did you ever think,
+我转过来对Linus说“考，你曾经想过
+1440
+01:18:23,900 --> 01:18:29,100
+you know, you'd walk in here some day and
+Linux would be THE theme on CNBC?".
+你有一天走到这里来，而且Linux是CNBC的主题么？”
+1441
+01:18:29,700 --> 01:18:32,400
+and Linus said in his joking way said "Oh Absolutely!".
+Linus用他那幽默的口气回答道“哦，绝对想过！”
+1442
+01:18:32,800 --> 01:18:36,300
+So we walk in and they show us
+the buy and sell orders coming in..
+于是我们向里走，他们给我们展示源源不断进来的买卖订单
+1443
+01:18:36,300 --> 01:18:38,300
+and it's incredible.
+这简直令人难以置信
+1444
+01:18:38,300 --> 01:18:41,900
+We're seeing numbers like
+320 dollars, 340 dollars a share.
+我们看见像320美圆，340美圆一股的数字
+1445
+01:18:42,500 --> 01:18:44,400
+And I'm just in complete shock.
+我完全震惊了
+1446
+01:18:44,400 --> 01:18:49,700
+You know, this is over 10 times
+where we priced the offering. It was incredible.
+你知道，这超过发行价10倍以上了。真的难以置信
+1447
+01:18:50,000 --> 01:18:54,000
+And I remember Linus just kind of,
+sort of patting me on the back and saying,
+我记得Linus只是在我的背上拍拍，说
+1448
+01:18:54,000 --> 01:18:58,000
+you know "Relax..." and it was
+pretty exciting to see that.
+“放松点”，看那种情景真的令人兴奋
+1449
+01:18:58,000 --> 01:19:00,900
+We were, it was just amazing. We were stunned.
+真令人惊异，我们都被惊呆了
+1450
+01:19:01,300 --> 01:19:04,300
+We were lucky that we were able to
+get back to the offices,
+我们真幸运能回到办公室
+1451
+01:19:04,300 --> 01:19:08,100
+we'd been in San Francisco
+so we could come back to VA's offices
+我们取过旧金山，所以我们回到了VA的办公室
+1452
+01:19:08,100 --> 01:19:10,600
+to, to see everyone in the office for the IPO.
+去看在办公室等IPO的同事们
+1453
+01:19:10,600 --> 01:19:15,500
+When we got back, we had uh,
+everyone was obviously very excited.
+当我们回来的时候，我们，每个人明显都很激动
+1454
+01:19:16,100 --> 01:19:18,800
+The IPO had done just tremendously well.
+IPO做得真的太好了
+1455
+01:19:18,800 --> 01:19:22,400
+We had a little party that we put together.
+我们开了一个小型的Party
+1456
+01:19:22,400 --> 01:19:24,100
+It was interesting, while we were celebrating
+很有意思，我们在庆祝的时候
+1457
+01:19:24,100 --> 01:19:26,600
+there were plenty of people that were still trying to work.
+有很多人仍然在努力工作
+1458
+01:19:26,600 --> 01:19:30,400
+I recall cries of "Be quiet!",
+"We're on the phone!", "We're Working!",
+我记得有人叫“小声点”，“我们在打电话”，“我们在工作”
+1459
+01:19:30,400 --> 01:19:34,100
+Uh, as we uh, as we went in to the offices.
+啊，当我们，当我们走进办公室的时候
+1460
+01:19:34,100 --> 01:19:37,900
+One of the things I did was
+I gave the road show presentation
+我做的一件事情是公路表演的展示
+1461
+01:19:37,900 --> 01:19:39,700
+for the employees back at the office,
+给回到办公室的雇员们
+1462
+01:19:39,700 --> 01:19:42,800
+so they could have an idea of
+what we'd been telling investors,
+这样他们就能知道我们是怎样对投资者说的了
+1463
+01:19:42,800 --> 01:19:46,400
+and understand exactly what we'd uh,
+put together for them.
+并懂得我们要一起为他们努力工作
+1464
+01:19:46,400 --> 01:19:55,100
+But again the story of the day is VA Linux,
+now up 766% to 235 dollars to 265.
+今日的故事仍然是VA Linux，现在它的股价上涨了766%，到达
+每股235美圆，265美圆
+1465
+01:19:55,300 --> 01:19:57,700
+Sue, the best performing IPO ever.
+Sue，最好的IPO结束了
+1466
+01:19:57,700 --> 01:20:03,200
+Here it goes, Sycamore Networks was uh,
+priced at 38 dollars, surged to $270.
+转到这儿来。Sycamore Networks股价从38美圆攀升到270美圆
+1467
+01:20:03,500 --> 01:20:05,800
+This has just beat it. And by the way..
+刚刚打破记录。另外。。。
+1468
+01:20:05,800 --> 01:20:09,800
+[ How do you feel about potentially billions
+of dollars of wealth being created
+你对创造的潜在的数十亿美圆的财富
+1469
+01:20:10,000 --> 01:20:14,000
+from your creation,
+that you're not directly cashing out? ]
+但是你不能直接拿到怎么看？
+1470
+01:20:14,600 --> 01:20:18,000
+So, if I hadn't made Linux available, I mean,
+那么，如果我没有把Linux做出来，我想
+1471
+01:20:18,000 --> 01:20:21,300
+I wouldn't have gotten any money that way either.
+我也不会得到任何钱
+1472
+01:20:21,300 --> 01:20:24,200
+So I mean, It's a win-win situation.
+所以我的意思是，这是一个双赢的局面
+1473
+01:20:24,200 --> 01:20:31,000
+Uh, just the fact that there are
+a lot of commercial companies
+呃，事实是，有了许多商业公司
+1474
+01:20:31,100 --> 01:20:37,000
+means that there are a lot of Linux people
+who used to work on Linux kind of on the side.
+这意味这，许多Linux工作者，以前只能业余为Linux工作
+1475
+01:20:37,500 --> 01:20:40,200
+And now they get paid for
+doing what they wanted to do.
+现在能做他们想做的并得到报酬了
+1476
+01:20:40,200 --> 01:20:44,800
+And that helps me in the sense that
+I wanted them to work on Linux anyway.
+那使我很有益，因为我希望他们能在Linux上工作
+1477
+01:21:06,400 --> 01:21:11,700
+The whole GNU project is really one big hack.
+整个GNU计划真的使一项庞大的黑客计划
+1478
+01:21:12,200 --> 01:21:16,200
+It's one big act of subversive playful cleverness,
+它是一个有颠覆性的、好玩而聪明的行动
+1479
+01:21:16,200 --> 01:21:22,300
+to change society for the better, because
+I'm only interested in changing it for the better,
+它使社会变得更好，因为我只对使社会变得更好感兴趣
+1480
+01:21:22,400 --> 01:21:26,600
+but in a clever way.
+不过要用聪明的方式
+1481
+01:21:26,800 --> 01:21:30,800
+Hi, we're the GNU/Stallmans, and this is
+"The Free Software Song"
+
+Hi，我们都是GNU/Stallmans，这是“自由软件之歌”
